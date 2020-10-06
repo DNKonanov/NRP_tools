@@ -2,7 +2,7 @@
 
 ## Usage
 
-`python detect_clusters.py -SMILE [SMILE string] -genome [PATH/TO/GENOME]
+`python detect_clusters.py -SMILE [SMILE string] -genome [PATH/TO/GENOME]`
 
 ## Dependencies
 * python3
