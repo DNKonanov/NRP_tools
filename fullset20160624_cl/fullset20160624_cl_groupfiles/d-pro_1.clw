@@ -1,0 +1,26 @@
+CLUSTAL W multiple sequence alignment
+
+
+BGC0000425_AFH75320.1_1563_mod2_d-pro    LTQQSLMPRFGTAGVPTLCLDNPAGIDAQPAHNPLVQGLQADALAYVIYTSGSTGQPKGV
+CCJ67636.1_1568_mod2_d-pro               LTQQRLAQRFSLSSVPTLLLDAADGIDAQPAHNPQVPGLDADALAYVIYTSGSTGQPKGV
+                                         **** *  **. :.**** ** . ********** * **:********************
+
+BGC0000425_AFH75320.1_1563_mod2_d-pro    AMPHGPLVNLMQWQIAQTVADGREAQRTLQFAALGFDVAFQEVFSTLCAGGELSLIHGDV
+CCJ67636.1_1568_mod2_d-pro               AMPHGPLVNLMQWQIAQTLTDGRPAQRTLQFAALGFDVAFQEVFSTLCAGGELSLIPGDL
+                                         ******************::*** ******************************** **:
+
+BGC0000425_AFH75320.1_1563_mod2_d-pro    RLNFRQLFRHICEQRIQRLYLPCIALQALAEAVADEPELGALACALSDVITAGEQLRISA
+CCJ67636.1_1568_mod2_d-pro               RLNFRELFRHICEQGVQRLFLPCIALQALAEAVAETPELGRLPCALSDVITAGEQLRISE
+                                         *****:******** :***:**************: **** *.**************** 
+
+BGC0000425_AFH75320.1_1563_mod2_d-pro    QMRALFQRLPGCRLHNHYGPTESHVTTALTLDGDAASWPVLPSIGVPVANTRIYLLDEQL
+CCJ67636.1_1568_mod2_d-pro               PMRELFLRLPGCRLHNHYGPTESHVTTALTLDGDATLWPVLPSIGVPVANTRIYLLNEHL
+                                          ** ** ****************************: *******************:*:*
+
+BGC0000425_AFH75320.1_1563_mod2_d-pro    QPVPLGVAGEIYIGGVCVARGYLHRDELTAERFLADPFVAGGRLYKTGDLGRYQPNGEID
+CCJ67636.1_1568_mod2_d-pro               QPVPLGVAGEIYIGGACVARGYLHRDDLTAERFLADPFVSQGRLYKTGDLGRYQRDGEID
+                                         ***************.**********:************: ************* :****
+
+BGC0000425_AFH75320.1_1563_mod2_d-pro    YLGRNDGQIKIRGFRVELGEIEARLAQYTGIRDAAVLVREDSPGDKRLVA
+CCJ67636.1_1568_mod2_d-pro               YLGRNDGQIKIRGFRVELGEIEARLAQHPGIRDAAVLVREDSPGDKRLVA
+                                         ***************************:.*********************

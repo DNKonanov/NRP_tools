@@ -1,0 +1,53 @@
+{
+    "changelog": [
+        {
+            "comments": [
+                "Submitted"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "comments": [
+                "Migrated from v1.4",
+                "Updated reference publication(s) (MIBiG Annotathon)",
+                "Updated loci"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "cluster": {
+        "biosyn_class": [
+            "Saccharide"
+        ],
+        "compounds": [
+            {
+                "chem_struct": "COC1C(C(C(OC1C(=O)[O-])OC2C(C(C(OC2C(=O)[O-])OC)O)O)O)O",
+                "compound": "alginate",
+                "database_id": [
+                    "pubchem:25202446"
+                ],
+                "mol_mass": 396.09148785981984,
+                "molecular_formula": "C14H20O13-2"
+            }
+        ],
+        "loci": {
+            "accession": "AE004091.2",
+            "completeness": "Unknown",
+            "end_coord": 3979476,
+            "start_coord": 3962825
+        },
+        "mibig_accession": "BGC0000725",
+        "minimal": true,
+        "ncbi_tax_id": "208964",
+        "organism_name": "Pseudomonas aeruginosa PAO1",
+        "publications": [
+            "pubmed:7686997"
+        ]
+    }
+}

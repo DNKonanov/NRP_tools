@@ -1,0 +1,51 @@
+{
+    "changelog": [
+        {
+            "comments": [
+                "Submitted"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "comments": [
+                "Migrated from v1.4",
+                "Updated compound(s) information (NPAtlas curation)"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "cluster": {
+        "biosyn_class": [
+            "Other"
+        ],
+        "compounds": [
+            {
+                "chem_struct": "CN1C2=CC=CC=C2N=C2C(=O)C=CC=C12",
+                "compound": "pyocyanine",
+                "database_id": [
+                    "npatlas:489",
+                    "pubchem:6817"
+                ],
+                "mol_mass": 210.07931294,
+                "molecular_formula": "C13H10N2O"
+            }
+        ],
+        "loci": {
+            "accession": "AF005404.2",
+            "completeness": "Unknown"
+        },
+        "mibig_accession": "BGC0000936",
+        "minimal": true,
+        "ncbi_tax_id": "208964",
+        "organism_name": "Pseudomonas aeruginosa PAO1",
+        "publications": [
+            "pubmed:11591691"
+        ]
+    }
+}

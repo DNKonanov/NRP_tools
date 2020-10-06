@@ -1,0 +1,26 @@
+CLUSTAL W multiple sequence alignment
+
+
+AHH53506.1_1527_mod2_asp                 TGPVAVITDSASLRVLPEGLDPLVLDAPALARDVTARPAGELTDADRTTALRGGHPAYVI
+BGC0000439_AHH53506.1_1527_mod2_asp      TGPVAVITDSASLRVLPEGLDPLVLDAPALARDVTARPAGELTDADRTTALRGGHPAYVI
+                                         ************************************************************
+
+AHH53506.1_1527_mod2_asp                 YTSGSTGLPKGVVVEHRSLLEFLRRSTRNHPDLGGVSLLHSPVSFDLTVTTLFGPLLAGG
+BGC0000439_AHH53506.1_1527_mod2_asp      YTSGSTGLPKGVVVEHRSLLEFLRRSTRNHPDLGGVSLLHSPVSFDLTVTTLFGPLLAGG
+                                         ************************************************************
+
+AHH53506.1_1527_mod2_asp                 RVYVADLAEGRPAGAPRPTFVKATPSHLRLLGGVAEWASPTGTLMLGGEQLTGAELASWR
+BGC0000439_AHH53506.1_1527_mod2_asp      RVYVADLAEGRPAGAPRPTFVKATPSHLRLLGGVAEWASPTGTLMLGGEQLTGAELASWR
+                                         ************************************************************
+
+AHH53506.1_1527_mod2_asp                 AAHPGVTVVNDFGPTETTVHCTVHTVYPDDEIGPGPVPIGRPVSGMRAYVLDERLALAPA
+BGC0000439_AHH53506.1_1527_mod2_asp      AAHPGVTVVNDFGPTETTVHCTVHTVYPDDEIGPGPVPIGRPVSGMRAYVLDERLALAPA
+                                         ************************************************************
+
+AHH53506.1_1527_mod2_asp                 GVPGELYISGIGLARGYLGRRGLTAERFVACPFEPGERMYRTGDVVRRTADGDLVFVGRR
+BGC0000439_AHH53506.1_1527_mod2_asp      GVPGELYISGIGLARGYLGRRGLTAERFVACPFEPGERMYRTGDVVRRTADGDLVFVGRR
+                                         ************************************************************
+
+AHH53506.1_1527_mod2_asp                 DDQVKVHGFRIEPGEVEAALAAHAGVARCVVVVRADPGGTDRLVGYVVAEDGAE
+BGC0000439_AHH53506.1_1527_mod2_asp      DDQVKVHGFRIEPGEVEAALAAHAGVARCVVVVRADPGGTDRLVGYVVAEDGAE
+                                         ******************************************************

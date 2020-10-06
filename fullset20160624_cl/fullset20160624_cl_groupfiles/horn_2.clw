@@ -1,0 +1,30 @@
+CLUSTAL W multiple sequence alignment
+
+
+BGC0000371_BAH33409.1_3340_mod3_horn     ITTTQTRDLVVPDGQVCLVLDDPDVTGVLDGQSPAPVVDEAAVCG-----PTSP------
+BGC0000423_CBG75492.1_2792_mod3_horn     -------------------LSTAGVSATLTGDTPRVLLDDPAVAAELASFPTGPVSVSFS
+                                                            *. ..*:..* *::*  ::*:.**..     **.*      
+
+BGC0000371_BAH33409.1_3340_mod3_horn     -DQPAYVIYTSGSTGKPKGVVVGHRGLTTMYHNHKAEIFTPTENSVGGRRLRIAHTVSFS
+BGC0000423_CBG75492.1_2792_mod3_horn     LDHPAYVIYTSGSTGRPKGVVTPYLGLTNMQLNHQKEIFAPAIASAGGRRLRIAHTVSFA
+                                          *:************:*****. : ***.*  **: ***:*:  *.*************:
+
+BGC0000371_BAH33409.1_3340_mod3_horn     FDMSWEELFWLLAGHEVHVIDEQARLDPASLVKHYREVGIDVVNVTPSYARELMAAGLLD
+BGC0000423_CBG75492.1_2792_mod3_horn     FDMSWEELLWLVEGHEVHVCDEELRRDATALVAYCEEHRVDVVNVTPTYAHLLLEEGLLE
+                                         ********:**: ****** **: * *.::** : .*  :*******:**: *:  ***:
+
+BGC0000371_BAH33409.1_3340_mod3_horn     GERTPVLVMLGGEAVPAELWSRLRDQDGVDGYDLYGPTEFTINAMGSPVQGSETPCLGRP
+BGC0000423_CBG75492.1_2792_mod3_horn     GHRPP-LVLLGGEAVTETVWNTLRDTEGTYGYNLYGPTEYTINTLGGGTEDSATPTVGRP
+                                         *.*.* **:******.  :*. *** :*. **:******:***::*. .:.* ** :***
+
+BGC0000371_BAH33409.1_3340_mod3_horn     ILNASARVLDSGLREVPIGAAGELYMSGDGTAMGYLHRTALTSAVFVADPYS-VGKRMYR
+BGC0000423_CBG75492.1_2792_mod3_horn     IRATRARVLDTWLRPVPDGVAGELYIAGVGLARGYLDRPGLTAERFVADPYGRPGERMYR
+                                         *  : *****: ** ** *.*****::* * * ***.*..**:  ******.  *:****
+
+BGC0000371_BAH33409.1_3340_mod3_horn     TGDVVLRRRDGELEYLGRADHQVKIRGIRIELGEVESALASLPGVLRAAASVRSEGGAPP
+BGC0000423_CBG75492.1_2792_mod3_horn     TGDLVRRRPDGNLDFLGRTDDQVKIRGHRVELGEIETALGQHPEVSRAAVVAR-------
+                                         ***:* ** **:*::***:*.****** *:****:*:**.. * * ***. .*       
+
+BGC0000371_BAH33409.1_3340_mod3_horn     RLVG
+BGC0000423_CBG75492.1_2792_mod3_horn     ----
+                                             

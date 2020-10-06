@@ -1,0 +1,37 @@
+{
+    "changelog": [
+        {
+            "comments": [
+                "Submitted"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "cluster": {
+        "biosyn_class": [
+            "Terpene"
+        ],
+        "compounds": [
+            {
+                "compound": "cyslabdan",
+                "database_id": [
+                    "pubchem:24778014"
+                ]
+            }
+        ],
+        "loci": {
+            "accession": "LC064028.1",
+            "completeness": "Unknown"
+        },
+        "mibig_accession": "BGC0001910",
+        "minimal": true,
+        "ncbi_tax_id": "1470456",
+        "organism_name": "Streptomyces cyslabdanicus",
+        "publications": [
+            "pubmed:26507838"
+        ]
+    }
+}

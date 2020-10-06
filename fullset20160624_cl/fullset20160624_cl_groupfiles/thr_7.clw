@@ -1,0 +1,26 @@
+CLUSTAL W multiple sequence alignment
+
+
+BGC0000439_AHH53506.1_4093_mod4_thr      ETVTPLTGSLPERKVLLVDDPDVRARIAATPGHPLGEHERPAPPSPAHPAYAIYTSGSTG
+AHH53506.1_4093_mod4_thr                 ETVTPLTGSLPERKVLLVDDPDVRARIAATPGHPLGEHERPAPPSPAHPAYAIYTSGSTG
+                                         ************************************************************
+
+BGC0000439_AHH53506.1_4093_mod4_thr      MPKGVVVTHDNVTRLFAAAAELFDFGPADVWSLFHSSAFDFSVWELWGALLHGGRAVVVP
+AHH53506.1_4093_mod4_thr                 MPKGVVVTHDNVTRLFAAAAELFDFGPADVWSLFHSSAFDFSVWELWGALLHGGRAVVVP
+                                         ************************************************************
+
+BGC0000439_AHH53506.1_4093_mod4_thr      FEVSRSPEDLLRLLTEHRVTVLNQTPSAFYQLAQALAERQAEFAPRYVIFGGEALDPSRL
+AHH53506.1_4093_mod4_thr                 FEVSRSPEDLLRLLTEHRVTVLNQTPSAFYQLAQALAERQAEFAPRYVIFGGEALDPSRL
+                                         ************************************************************
+
+BGC0000439_AHH53506.1_4093_mod4_thr      AAWFDHGSAGTELVNMYGITETTVHVTFRKLDERSTRRANSVIGAPLADLGGYVLDELLR
+AHH53506.1_4093_mod4_thr                 AAWFDHGSAGTELVNMYGITETTVHVTFRKLDERSTRRANSVIGAPLADLGGYVLDELLR
+                                         ************************************************************
+
+BGC0000439_AHH53506.1_4093_mod4_thr      PVPTGVPGELYVSGAGLARGYLGRAGLTATRFVANPFSPSGQRLYRTGDLVRSTVDGELE
+AHH53506.1_4093_mod4_thr                 PVPTGVPGELYVSGAGLARGYLGRAGLTATRFVANPFSPSGQRLYRTGDLVRSTVDGELE
+                                         ************************************************************
+
+BGC0000439_AHH53506.1_4093_mod4_thr      YLGRADRQVQLRGFRVELGEIEARLVDHTAVSQAAVVAREDTPADVRLVA
+AHH53506.1_4093_mod4_thr                 YLGRADRQVQLRGFRVELGEIEARLVDHTAVSQAAVVAREDTPADVRLVA
+                                         **************************************************

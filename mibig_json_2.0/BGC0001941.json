@@ -1,0 +1,38 @@
+{
+    "changelog": [
+        {
+            "comments": [
+                "Submitted"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "cluster": {
+        "biosyn_class": [
+            "NRP",
+            "Polyketide"
+        ],
+        "compounds": [
+            {
+                "compound": "fulvuthiacene A"
+            },
+            {
+                "compound": "fulvuthiacene B"
+            }
+        ],
+        "loci": {
+            "accession": "MH069655.1",
+            "completeness": "Unknown"
+        },
+        "mibig_accession": "BGC0001941",
+        "minimal": true,
+        "ncbi_tax_id": "33",
+        "organism_name": "Myxococcus fulvus",
+        "publications": [
+            "pubmed:30543288"
+        ]
+    }
+}

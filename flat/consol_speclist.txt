@@ -1,0 +1,142 @@
+nme-thr
+glu|tyr
+ser
+lys
+gly
+leu
+glycy
+dhpg	dpg
+gln
+val
+glu
+thr
+cysa
+arg
+dhabu
+d-athr
+ile
+hse
+dab
+tyr
+d-pro
+d-ser
+d-leu
+d-val
+d-gln
+asn
+4hpg	hpg
+pro
+ala
+d-ala
+aeo
+dpr
+hpg
+boh-tyr	bht
+phe
+trp
+asp|bme-asp
+pip
+3oh-3me-pro
+cys
+orn
+d-thr
+asp
+3oh-leu
+ala|gly
+d-asn
+d-leu|ile	ile|d-leu
+boh-phe
+boh-ome-tyr
+d-trp
+fhr	thr
+fhorn
+phe|tyr
+33p-l-ala
+noh-val
+athr
+goh-val
+blys
+gln|tyr
+met
+noh-d-alan-hydroxil-d-alanine	noh-d-ala|oh-d-ala
+his
+dab|dpr
+nme-fhorn
+d-cyclo-horn
+delta-but	dhabu
+aile
+kyn
+d-dab
+aoh-gly
+boh-d-leu
+4oh5oh-orn	4oh-5oh-orn
+4oh-pro
+4oh5oh-hty	4oh-5oh-hty
+3oh-pro|3oh-4me-pro
+iva|abu	abu|iva
+val-leu	leu|val
+lys-erg
+hyv
+val-vol
+aad
+asp-me	me-asp
+ser|thr
+gly|sar
+bmt
+abu
+val-hyphaa	val
+val|ala	ala|val
+gly-ph
+hpg|hpg2cl
+dpg|dhpg	dpg
+hpg2cl|hpg	hpg|hpg2cl
+orn-fn5h	horn
+pro-mpro	pro|me-pro
+tyr|bht	bht|tyr
+bht
+iso|val	ile|val
+orn-orn-fn5h	orn|orn-fn5h
+b-ala
+sar|gly	gly|sar
+glu|3-me-glu
+lys-beta	blys
+pro-4p
+alaninol
+thr|athr	athr|thr
+dht|dhab	dhab|dht
+dht|dhab-thr	dhab|dht|thr
+phe-ac
+dhb|sal
+dhb
+4-5-dihydroxyhomotyrosine	4oh-5oh-hty
+3-oh-gln	3oh-gln
+3-oh-pro|3-oh-4-me-pro	3oh-pro|3oh-4me-pro
+4-5-dihydroxyornithine	4oh-5oh-orn
+4-oh-pro	4oh-pro
+piperazic
+n-oh-ala	noh-ala
+deoxy-thr
+asn|gln
+athr|ser
+3-oh-leu	3oh-leu
+val|ala|leu	ala|leu|val
+n-oh-val	noh-val
+3-oh-3-me-pro	3oh-3me-pro
+d-cys
+beta-ala	b-ala
+dpg	
+6cl-4hydroxyindole-3-carboxylic	
+dpg
+6cl-4hydroxyindole-3-carboxylic
+horn
+4-5-dehydro-arg|me-tyr-as-complex	4-5-dehydro-arg|me-tyr
+glycolic-acid
+haorn	horn
+trp|6cl-trp
+alpha-me-ser
+val|ile	ile|val
+me-tyr-as-complex	me-tyr
+sar
+glycine	gly
+orn|horn	
+orn|horn

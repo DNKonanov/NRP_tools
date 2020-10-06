@@ -1,0 +1,50 @@
+{
+    "changelog": [
+        {
+            "comments": [
+                "Submitted"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "comments": [
+                "Migrated from v1.4",
+                "Updated compound(s) information (NPAtlas curation)"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "cluster": {
+        "biosyn_class": [
+            "NRP"
+        ],
+        "compounds": [
+            {
+                "chem_struct": "[H][C@@]12NC3=C(C=CC(Cl)=C3Cl)[C@]1(O)C[C@@H]1N2C(=O)[C@H](NC(=O)[C@H](COC)NC(=O)[C@@H]2C[C@@H](Cl)CNN2C(=O)[C@@H](OC(=O)[C@H](NC1=O)C1(C)CC1)C(C)(C)C)[C@@H](O)CC(O)=O",
+                "compound": "kutzneride 2",
+                "database_id": [
+                    "npatlas:15447"
+                ],
+                "mol_mass": 887.2426530160002,
+                "molecular_formula": "C37H48Cl3N7O12"
+            }
+        ],
+        "loci": {
+            "accession": "EU074211.1",
+            "completeness": "Unknown"
+        },
+        "mibig_accession": "BGC0000378",
+        "minimal": true,
+        "ncbi_tax_id": "345341",
+        "organism_name": "Kutzneria sp. 744",
+        "publications": [
+            "pubmed:17940045"
+        ]
+    }
+}

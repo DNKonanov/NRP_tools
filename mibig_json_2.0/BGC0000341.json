@@ -1,0 +1,50 @@
+{
+    "changelog": [
+        {
+            "comments": [
+                "Submitted"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "comments": [
+                "Migrated from v1.4"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "cluster": {
+        "biosyn_class": [
+            "NRP"
+        ],
+        "compounds": [
+            {
+                "chem_struct": "CO[C@H](C(O)[C@@H](O)[C@@H](C)O)[C@@H]1CC2=CC3=CC(OC4CC(OC5CC(O)C(OC)C(C)O5)C(O)C(C)O4)=C(C)C(O)=C3C(O)=C2C(=O)[C@H]1OC1CC(OC2CC(OC3CC(C)(O)C(O)C(C)O3)C(O)C(C)O2)C(O)C(C)O1",
+                "compound": "enduracidin",
+                "database_id": [
+                    "pubchem:46886765",
+                    "npatlas:4177"
+                ],
+                "mol_mass": 1100.5039534400003,
+                "molecular_formula": "C53H80O24"
+            }
+        ],
+        "loci": {
+            "accession": "DQ403252.1",
+            "completeness": "Unknown"
+        },
+        "mibig_accession": "BGC0000341",
+        "minimal": true,
+        "ncbi_tax_id": "68203",
+        "organism_name": "Streptomyces fungicidicus",
+        "publications": [
+            "pubmed:17005978"
+        ]
+    }
+}

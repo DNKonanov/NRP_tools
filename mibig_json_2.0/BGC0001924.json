@@ -1,0 +1,37 @@
+{
+    "changelog": [
+        {
+            "comments": [
+                "Submitted"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "cluster": {
+        "biosyn_class": [
+            "Terpene"
+        ],
+        "compounds": [
+            {
+                "compound": "ascofuranone",
+                "database_id": [
+                    "pubchem:6434242"
+                ]
+            }
+        ],
+        "loci": {
+            "accession": "LC406757.1",
+            "completeness": "Unknown"
+        },
+        "mibig_accession": "BGC0001924",
+        "minimal": true,
+        "ncbi_tax_id": "749675",
+        "organism_name": "Acremonium egyptiacum",
+        "publications": [
+            "pubmed:30952781"
+        ]
+    }
+}

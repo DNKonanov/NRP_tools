@@ -1,0 +1,38 @@
+{
+    "changelog": [
+        {
+            "comments": [
+                "Submitted"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "cluster": {
+        "biosyn_class": [
+            "NRP",
+            "Polyketide"
+        ],
+        "compounds": [
+            {
+                "compound": "neoantimycin",
+                "database_id": [
+                    "pubchem:585842"
+                ]
+            }
+        ],
+        "loci": {
+            "accession": "LC375136.1",
+            "completeness": "Unknown"
+        },
+        "mibig_accession": "BGC0001919",
+        "minimal": true,
+        "ncbi_tax_id": "67339",
+        "organism_name": "Streptomyces orinoci",
+        "publications": [
+            "pubmed:30166552"
+        ]
+    }
+}

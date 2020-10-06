@@ -1,0 +1,26 @@
+CLUSTAL W multiple sequence alignment
+
+
+BGC0000449_AHF21228.1_11933_mod9_phe     LTQSHLVDKVAFDGNMLVLDGAQGVYHEDGSNLEPLSGPNDLAYVIYTSGTTGQPKGVML
+AHF21228.1_11933_mod9_phe                LTQSHLVDKVAFDGNMLVLDGAQGVYHEDGSNLEPLSGPNDLAYVIYTSGTTGQPKGVML
+                                         ************************************************************
+
+BGC0000449_AHF21228.1_11933_mod9_phe     EHHGLCNLKTYFDQTLRISTSDHALLFASYSFDAACWEIFQALFCGATLYVPTSETILDY
+AHF21228.1_11933_mod9_phe                EHHGLCNLKTYFDQTLRISTSDHALLFASYSFDAACWEIFQALFCGATLYVPTSETILDY
+                                         ************************************************************
+
+BGC0000449_AHF21228.1_11933_mod9_phe     ERFEHYMTEHQITVATLPPTYAVYLEPEHMPNLRTLFTAGSASSTELVHKWKDQVAYYNG
+AHF21228.1_11933_mod9_phe                ERFEHYMTEHQITVATLPPTYAVYLEPEHMPNLRTLFTAGSASSTELVHKWKDQVAYYNG
+                                         ************************************************************
+
+BGC0000449_AHF21228.1_11933_mod9_phe     YGPTENSVATSVWSVSEDERAGQLISIGRPIPNHRVYMVDVHGHLAPIGVAGELCVSGPG
+AHF21228.1_11933_mod9_phe                YGPTENSVATSVWSVSEDERAGQLISIGRPIPNHRVYMVDVHGHLAPIGVAGELCVSGPG
+                                         ************************************************************
+
+BGC0000449_AHF21228.1_11933_mod9_phe     LARGYLDRPEMTAEKFVPNPFAAGEAGYERMYRTGDLARWMPDGNIEYLGRIDHQVKIRG
+AHF21228.1_11933_mod9_phe                LARGYLDRPEMTAEKFVPNPFAAGEAGYERMYRTGDLARWMPDGNIEYLGRIDHQVKIRG
+                                         ************************************************************
+
+BGC0000449_AHF21228.1_11933_mod9_phe     YRIELGEVEAQMLKVEDVQEVIVLAQADEQGQNQLVA
+AHF21228.1_11933_mod9_phe                YRIELGEVEAQMLKVEDVQEVIVLAQADEQGQNQLVA
+                                         *************************************

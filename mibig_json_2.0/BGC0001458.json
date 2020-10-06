@@ -1,0 +1,81 @@
+{
+    "changelog": [
+        {
+            "comments": [
+                "Submitted"
+            ],
+            "contributors": [
+                "WG3B3RINZ7AIXHPZ3RJ5KPAZ"
+            ],
+            "version": "1.4"
+        },
+        {
+            "comments": [
+                "Migrated from v1.4",
+                "Updated reference publication(s) (MIBiG Annotathon)",
+                "Updated compound(s) information (NPAtlas curation)",
+                "Updated gene annotation, biosynthetic class, and compound list (original submitter)"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "cluster": {
+        "biosyn_class": [
+            "Other"
+        ],
+        "compounds": [
+            {
+                "chem_acts": [
+                    "Antimalarial"
+                ],
+                "chem_struct": "CCCCCCCCCCCCCCO[P@]1(=O)OC[C@@H]2COC(=O)C2=C(CCC)O1",
+                "compound": "salinipostin G",
+                "database_id": [
+                    "npatlas:2161",
+                    "pubchem:122222708"
+                ],
+                "evidence": [
+                    "NMR"
+                ],
+                "mol_mass": 444.2640756619999,
+                "molecular_formula": "C23H41O6P"
+            }
+        ],
+        "genes": {
+            "annotations": [
+                {
+                    "functions": [
+                        {
+                            "category": "Scaffold biosynthesis",
+                            "evidence": [
+                                "Knock-out"
+                            ]
+                        }
+                    ],
+                    "id": "YP_001160958",
+                    "name": "spt9",
+                    "product": "gamma-butyrolactone synthase"
+                }
+            ]
+        },
+        "loci": {
+            "accession": "NC_009380.1",
+            "completeness": "Unknown",
+            "end_coord": 4725672,
+            "start_coord": 4714378
+        },
+        "mibig_accession": "BGC0001458",
+        "minimal": true,
+        "ncbi_tax_id": "369723",
+        "organism_name": "Salinispora tropica CNB-440",
+        "other": {
+            "subclass": "Aminocoumarin"
+        },
+        "publications": [
+            "pubmed:29229817"
+        ]
+    }
+}

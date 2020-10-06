@@ -1,0 +1,44 @@
+CLUSTAL W multiple sequence alignment
+
+
+EFE73312.1_2615_mod3_ser                 AQPALVVTSRATEGAVPEGADIPARVQVDGADVLAQLKALSGEPVSS---VEVLPSHVAY
+Q9FB23_A1_ser                            SGARLLLTETGTASRAAEAAGPGVR----------ALTVREGATGGERFSADVHPEQSAY
+Q9Z4X6_A1_ser                            AGAMLVLTTRDTAERLP-GDGTP-RLLLDEPAAAGTTAAGAPAPPGTLPRALPAPGHPAY
+Q50E73_A6_11__ser                        AAPVAVLTRGDV--ELP-G-SVP-RIGLDDTEIRATLATA----PGTNPGTPVTEAHPAY
+                                         : .  ::*   .    . . .   *             .      .    .     : **
+
+EFE73312.1_2615_mod3_ser                 VIYTSGSTGRPKGVAVPHQGVVNRLLWMQDTFPLDGSDRVVQKTPFGFDVSVWEFFWPLI
+Q9FB23_A1_ser                            LLYTSGSTGDPKGVLVPHRAIVNRLLWMQETYRLRPGERVLHKTPVTFDVSMWELLWPLT
+Q9Z4X6_A1_ser                            VIYTSGSTGRPKGVVISHRAIVNRLAWMQDTYGLEPSDRVLQKTPSGFDVSVWEFFWPLV
+Q50E73_A6_11__ser                        MIYTSGSTGRPKGVVVSHGAIVNRLAWMQAEYRLDATDRVLQKTPAGFDVSVWEFFWPLL
+                                         ::******* **** :.* .:**** ***  : *   :**::***  ****:**::*** 
+
+EFE73312.1_2615_mod3_ser                 TGAGLVVARPGGHRDAGYLTELIRHEKVTVAHFVPSMLRVFLREPDAAACTG------LR
+Q9FB23_A1_ser                            AGATVVMARPGTHRDPARLVRRIAREAVTTVHFVPSMLTPFLTE----LARGTTRLPALR
+Q9Z4X6_A1_ser                            QGATLVVARPGGHTDPAYLAGTVRREGVTTLHFVPSMLDVFLREPAAAALGGAT---PVR
+Q50E73_A6_11__ser                        EGAVLVFARPGGHRDAAYLAGLIERERITTAHFVPSMLRVFLEEPGAALCTG------LR
+                                          ** :*.**** * *.. *.  : :* :*. *******  ** *       *      :*
+
+EFE73312.1_2615_mod3_ser                 WVVCSGEALPPELRDQFFDVLEDVELHNLYGPTEASVDVTAWPCTPDEGPA-VPIGHPVW
+Q9FB23_A1_ser                            RVVCSGEELPAAAVNRAAGLL-DARLYNLYGPTEAAVDVTAWPCRPPE-PGPVPIGLPIA
+Q9Z4X6_A1_ser                            RVFCSGEALPAELRARFRAVS-DVPLHNLYGPTEAAVDVTYWPCAEDTGDGPVPIGRPVW
+Q50E73_A6_11__ser                        RVICSGEALGTDLAVDFRAKL-PVPLHNLYGPTEAAVDVTHHAYEPATGTATVPIGRPIW
+                                          *.**** * .            . *:********:****  .       . **** *: 
+
+EFE73312.1_2615_mod3_ser                 NTRTYVLDTGLHPVPVGVAGDLYLAGDQLARGYLGRPGLTAERFVANPFGTTGERMYRTG
+Q9FB23_A1_ser                            NTTTEVLDGRLRPLPRPVPGELYLGGACLAHGYHHDPALTAARFLPAP---GGGRRYRTG
+Q9Z4X6_A1_ser                            NTRMYVLDAALRPVPAGVPGELYIAGVQLARGYLGRPALSAERFTADPHGAPGSRMYRTG
+Q50E73_A6_11__ser                        NIRTYVLDAALRPVPPGVPGELYLAGAGLARGYHGRPALTAERFVACPFGVPGERMYRTG
+                                         *    ***  *:*:*  *.*:**:.*  **:**   *.*:* ** . *    * * ****
+
+EFE73312.1_2615_mod3_ser                 DVVRWRTDGNLEFLGRADDQVKVRGFRIELGEIEAALMSHAAVAQAAVLVREDVPGDKRL
+Q9FB23_A1_ser                            DLVRQRADGALVFRGRTDDQVKIGGIRVEPGEVAEALRALPGVADAAVV-----PHDGRL
+Q9Z4X6_A1_ser                            DLARWNHDGSLDYLGRADHQVKLRGFRIELGEIEAALVRQPEIAQAAVVLREDRPGDQRL
+Q50E73_A6_11__ser                        DLVRWRVDGTLEFVGRADDQVKVRGFRVELGEVEGAVAAHPDVVRAVVVVREDRPGDHRL
+                                         *:.* . ** * : **:*.***: *:*:* **:  *:   . :. *.*:     * * **
+
+EFE73312.1_2615_mod3_ser                 VAYVVPAV-----------------PGGTVDTTT
+Q9FB23_A1_ser                            AAYAV----ADPV-----------GPAPAADA--
+Q9Z4X6_A1_ser                            VAYTVPARDADTLTGPPAEAGTHPGPGAAPDTDP
+Q50E73_A6_11__ser                        VAYVT-----------------------------
+                                         .**..                             

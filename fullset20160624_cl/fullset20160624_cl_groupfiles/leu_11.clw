@@ -1,0 +1,26 @@
+CLUSTAL W multiple sequence alignment
+
+
+YP_003712464.1_561_mod1_leu              LTETSLVNQLPVSQQQVICLDTDTVQSNVKAMSADNIIERTAPLTENHLAYVIYTSGSTG
+BGC0000416_CBJ90287.1_561_mod1_leu       LTETSLVNQLPVSQQQVICLDTDTVQSNVKAMSADNIIERTAPLTENHLAYVIYTSGSTG
+                                         ************************************************************
+
+YP_003712464.1_561_mod1_leu              KPKGAMLEHKGWVNLAHAQATLFGVDANIRVLQFASWSFDAAILEMSMTLAYGATLYLTS
+BGC0000416_CBJ90287.1_561_mod1_leu       KPKGAMLEHKGWVNLAHAQATLFGVDANIRVLQFASWSFDAAILEMSMTLAYGATLYLTS
+                                         ************************************************************
+
+YP_003712464.1_561_mod1_leu              ETQRRSPELLNEFIAKYQITHAVLPPALLPYLNFNEWRSVSSLLLAGEAVTPQISAHWSQ
+BGC0000416_CBJ90287.1_561_mod1_leu       ETQRRSPELLNEFIAKYQITHAVLPPALLPYLNFNEWRSVSSLLLAGEAVTPQISAHWSQ
+                                         ************************************************************
+
+YP_003712464.1_561_mod1_leu              GRKLFNVYGPTECTSIITSGLLTDEKITIGKPLPNAVIRILDSNGHLTPIGVTGELHIGG
+BGC0000416_CBJ90287.1_561_mod1_leu       GRKLFNVYGPTECTSIITSGLLTDEKITIGKPLPNAVIRILDSNGHLTPIGVTGELHIGG
+                                         ************************************************************
+
+YP_003712464.1_561_mod1_leu              IQLARGYRNAPELTEKQFICDLFSPNSADKLYRTGDLVRWTLDGELEFIGRIDSQVKIRS
+BGC0000416_CBJ90287.1_561_mod1_leu       IQLARGYRNAPELTEKQFICDLFSPNSADKLYRTGDLVRWTLDGELEFIGRIDSQVKIRS
+                                         ************************************************************
+
+YP_003712464.1_561_mod1_leu              HRIELGEIESVLAGQDILSSAAVIAYSHDDKDKQLVA
+BGC0000416_CBJ90287.1_561_mod1_leu       HRIELGEIESVLAGQDILSSAAVIAYSHDDKDKQLVA
+                                         *************************************

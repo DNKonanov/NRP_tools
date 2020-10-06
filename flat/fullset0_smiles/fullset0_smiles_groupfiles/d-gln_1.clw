@@ -1,0 +1,26 @@
+CLUSTAL W multiple sequence alignment
+
+
+CCJ67639.1_619_mod1_d-gln                SQPLAVLVHAQTRAVMGDTHITLVDLADAQLSTQPRHNPAAVAGPNDLAYVIFTSGSTGR
+BGC0000425_AFH75320.1_5859_mod6_d-gln    SQPLAVLVQEASRGVLGDTAMPLIDLADAGVAEQPRANPPALATAHDLAYVIFTSGSTGR
+                                         ********:  :*.*:*** :.*:***** :: *** **.*:* .:**************
+
+CCJ67639.1_619_mod1_d-gln                PKGVMVEHGSLVNHITWQTRAFGFDANERILQRTSVAFDASVWEIWTPLAIGARLVLLPA
+BGC0000425_AFH75320.1_5859_mod6_d-gln    PKGVMVEHGSLVNHISWQTHAFGFDATDRFLQRTSVAFDASVWEIWTPLAIGARLVLLPA
+                                         ***************:***:******.:*:******************************
+
+CCJ67639.1_619_mod1_d-gln                HASRDVEQMAQTLVEQQVSVAQFVPSLLRLLVQLPASGVQCRYLFSGGEALDPQLAMQAR
+BGC0000425_AFH75320.1_5859_mod6_d-gln    EASRDVEHMARTLVEQGVSVAQFVPSLLRLLVQLPETGIRCRYLFSGGEALDPQLAMQAR
+                                         .******:**:***** ****************** :*::********************
+
+CCJ67639.1_619_mod1_d-gln                ALTTHGIVNLYGPTEATIDSTSWTCDGNAPVESVPIGKPIANARAYVLDARLEPVALGVA
+BGC0000425_AFH75320.1_5859_mod6_d-gln    ALTTHGIVNLYGPTEATIDSTSWTFNESGPLDAVPIGKPIANARAYVLDAHLQLLPLGVA
+                                         ************************ : ..*:::*****************:*: :.****
+
+CCJ67639.1_619_mod1_d-gln                GELYIGGAGVARGYLGRDDLTAERFLADPFTGSGRLYKTGDLVRYLADGTLEYLGRNDDQ
+BGC0000425_AFH75320.1_5859_mod6_d-gln    GELYIGGAGVARGYLGRDDLTAERFLADPFNPGGRLYKTGDLVRYLADGTLEYLGRNDDQ
+                                         ******************************. .***************************
+
+CCJ67639.1_619_mod1_d-gln                VKLRGLRIELGEIEARLAAHADVHEAVVLVRDERLVAYCTARDAQSDIDIEA
+BGC0000425_AFH75320.1_5859_mod6_d-gln    IKLRGLRIELGEIEACLVAHAEVQEAVVLVRNERLIAYC---RAPSSLDIQA
+                                         :************** *.***:*:*******:***:***    * *.:**:*

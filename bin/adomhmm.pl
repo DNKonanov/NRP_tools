@@ -1,0 +1,85 @@
+#!/bin/env perl
+
+use strict;
+use warnings;
+use Cwd 'abs_path';
+use Bio::SeqIO;
+
+my $fna = shift;
+
+## Get base dir
+my @spath = split(/\//, abs_path($0));
+my $basedir = join('/', @spath[0..$#spath-2]);
+
+## Prep directory
+system("rm tmp*") if(-e 'tmp.ptrain');
+
+## Predict ORFs
+system("prodigal -t tmp.ptrain -c -i $fna > /dev/null 2>&1");
+system("prodigal -c -i $fna -a tmp.faa -t tmp.ptrain > /dev/null 2>&1");
+
+## Search for ORFs with AMP-binding domains and PCPs
+system("hmmscan --cut_tc --domtblout tmp.domtbl --noali $basedir/flat/amp_pcp.hmmdb tmp.faa > /dev/null");
+open my $hfh, '<', 'tmp.domtbl' or die $!;
+my %amp = ();
+my %pcp = ();
+my %ascore = ();
+while(<$hfh>){
+    next if($_ =~ m/^#/);
+    chomp;
+    my($domtype, $acc, $tlen, $orf, $orfacc, $qlen, $evalue, $score, $bias, $num, $of, $cevalue, $ievalue, $thisscore, $thisbias, $t_from, $t_to, $q_from, $q_to, @rest) = split(/\s+/, $_);
+    if($domtype eq 'AMP-binding'){
+	$amp{$orf}{$q_from} = $q_to;
+    }
+    if($domtype eq 'PCP'){
+	$pcp{$orf} = 1;
+    }
+    my $nm = join('_', $orf, $q_from, $q_to);
+    $ascore{$nm} = $score;
+}
+close $hfh;
+my %keep = ();
+foreach my $a (keys %amp){
+    if(exists $pcp{$a}){
+	foreach my $st (keys %{$amp{$a}}){
+	    $keep{$a}{$st} = $amp{$a}{$st};
+	}
+    }
+}
+my $faa = new Bio::SeqIO(-file=>'tmp.faa', -format=>'fasta');
+open my $tfh, '>', 'tmp.adom' or die $!;
+while(my $seq = $faa->next_seq){
+    if(exists $keep{$seq->id}){
+	foreach my $from (keys %{$keep{$seq->id}}){
+	    print $tfh '>'.join('_', $seq->id, $from, $keep{$seq->id}{$from})."\n".$seq->subseq($from, $keep{$seq->id}{$from})."\n";
+	}
+    }
+}
+close $tfh;
+
+## Make sure AMP-binding is higher score than CAL
+if(-z 'tmp.adom'){
+    system("touch adom.faa");
+}else{
+    system("hmmscan --cut_tc --domtblout tmp.cal.domtbl --noali $basedir/flat/cal.hmm tmp.adom > /dev/null");
+    my %cal = ();
+    open my $cfh, '<', 'tmp.cal.domtbl' or die $!;
+    while(<$cfh>){
+	next if($_ =~ m/^#/);
+	chomp;
+	my($domtype, $acc, $tlen, $query, $q_acc, $qlen, $evalue, $score, $bias, $num, $of, $cevalue, $ievalue, $thisscore, $thisbias, $t_from, $t_to, $q_from, $q_to, @rest) = split(/\s+/, $_);
+	$cal{$query} = $score;
+    }
+    close $cfh;
+    open my $afh, '>', 'adom.faa' or die $!;
+    my $afaa = new Bio::SeqIO(-file=>'tmp.adom', -format=>'fasta');
+    while(my $seq=$afaa->next_seq){
+	my $pass = 1;
+	$pass = 0 if(exists $cal{$seq->id} && $cal{$seq->id} > $ascore{$seq->id});
+	print $afh '>'.$seq->id."\n".$seq->seq."\n" if($pass == 1);
+    }
+    close $afh;
+}
+
+## Cleanup
+system("rm tmp*");

@@ -1,0 +1,19 @@
+#!/bin/env python
+
+import multiprocessing
+import sys, os, re, os.path
+
+def sandpuma_mt(fn):
+    pref = os.path.splitext(fn)[0]
+    print 'SANDPUMA parallel instance: '+pref
+    if(os.path.isdir(pref)==False):
+        os.mkdir(pref)
+    return pref
+
+jobs = []
+for i,a in enumerate(sys.argv):
+    if(i==0):
+        continue
+    p = multiprocessing.Process(target=sandpuma_mt, args=(a,))
+    jobs.append(p)
+    p.start()

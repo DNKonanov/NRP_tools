@@ -1,0 +1,49 @@
+{
+    "changelog": [
+        {
+            "comments": [
+                "Submitted"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "comments": [
+                "Migrated from v1.4"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "cluster": {
+        "biosyn_class": [
+            "NRP"
+        ],
+        "compounds": [
+            {
+                "chem_struct": "CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCCCCC(C(=O)NC(C(=O)N1)CCCN)NC(=O)C(C(C)CC)NC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C2CSC(=N2)C(C(C)CC)N)CC(=O)N)CC(=O)O)CC3=CN=CN3)CC4=CC=CC=C4",
+                "compound": "bacitracin",
+                "database_id": [
+                    "pubchem:65281"
+                ],
+                "mol_mass": 1421.7489412159996,
+                "molecular_formula": "C66H103N17O16S"
+            }
+        ],
+        "loci": {
+            "accession": "AF007865.2",
+            "completeness": "Unknown"
+        },
+        "mibig_accession": "BGC0000310",
+        "minimal": true,
+        "ncbi_tax_id": "1402",
+        "organism_name": "Bacillus licheniformis",
+        "publications": [
+            "pubmed:9427658"
+        ]
+    }
+}

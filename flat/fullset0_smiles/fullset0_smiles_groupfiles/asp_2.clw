@@ -1,0 +1,32 @@
+CLUSTAL W multiple sequence alignment
+
+
+Q84BQ4_A5_11__asp                        SAPTAVLVQTATRGLFDDAVATVIDLDRSTWQHLPDHDSSVPGLSASNLAYMIYTSGSTG
+Q84BQ6v2_A2_asp                          SAPVALLVHGATRQLLGEPSVPLINLDHGSWEQQPSGNPQVPGLNASNLAYMIYTSGSTG
+Q84BQ6v1_A2_asp                          SAPVALLVHGATRQLLGEPSVPLINLDHGSWEQQPSGNPQVPGLNASNLAYMIYTSGSTG
+                                         ***.*:**: *** *:.:. ..:*:**:.:*:: *. :..****.***************
+
+Q84BQ4_A5_11__asp                        LPKGVMIEHRSACNMVHWGSQISPPTEHGALLQKAPFSFDSSVWEIFWPLCSGMRLVLAR
+Q84BQ6v2_A2_asp                          LPKGVMIEHRSACNMVHWGSQLSPPTGHGALLQKAPFSFDSSVWEIFWPLCSGMRLVLAR
+Q84BQ6v1_A2_asp                          LPKGVMIEHRSACNMVHWGSQLSPPTGHGALLQKAPFSFDSSVWEIFWPLCSGMRLVLAR
+                                         *********************:**** *********************************
+
+Q84BQ4_A5_11__asp                        PNGNRDSAYVVQTIREQQVTVVKFVPALLQQFIEQDGVEQCTSLTDVLNGGGELSAVLAR
+Q84BQ6v2_A2_asp                          PDGNRDSAYVVQTIREHQVTVVKFVPALLQQFIEQDGVEQCTSLTDVLNGGGELSAALAR
+Q84BQ6v1_A2_asp                          PDGNRDSAYVVQTIREHQVTVVKFVPALLQQFIEQDGVEQCTSLTDVLNGGGELSAALAR
+                                         *:**************:***************************************.***
+
+Q84BQ4_A5_11__asp                        QVRDRLPWVRLHNVYGPTETTVDSTGWTLEPHMPVPDNVVPIGTALSNTRLYVLDAYGQP
+Q84BQ6v2_A2_asp                          QVRDRLPWVRLHNVYGPTETTVDSTGWTLDPEMPVPDNVVPIGTALSNTRLYVLDAYGQP
+Q84BQ6v1_A2_asp                          QVRDRLPWVRLHNVYGPTETTVDSTGWTLDPEMPVPDNVVPIGTALSNTRLYVLDAYGQP
+                                         *****************************:*.****************************
+
+Q84BQ4_A5_11__asp                        VPQGVSGELHIGGVGVARGYHGLPEMQAERFIDSPFVAGDRLYRTGDLARYNNHGELEFL
+Q84BQ6v2_A2_asp                          VPQGVSGELHIGGVGVARGYHGLPEMQAERFIDSPFVPGDRLYRTGDLARYNHHGELEFL
+Q84BQ6v1_A2_asp                          VPQGVSGELHIGGVGVARGYHGLPEMQAERFIDSPFVPGDRLYRTGDLARYNHHGELEFL
+                                         *************************************.**************:*******
+
+Q84BQ4_A5_11__asp                        GRNDFQIKLRGLRLEPGEIEARLIEHPAIREAVVMVRDERLVAWYTVRSGVEAPSLET
+Q84BQ6v2_A2_asp                          GRNDFQIKLRGLRLEPGEIEARLIEHPAIRQAVVMVRDERLVAWYTVRSGVEAPSLEA
+Q84BQ6v1_A2_asp                          GRNDFQIKLRGLRLEPGEIEARLIEHPAIRQAVVMVRDERLVAWYTVRSGVEAPSLEA
+                                         ******************************:**************************:

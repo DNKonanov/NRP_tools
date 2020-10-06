@@ -1,0 +1,41 @@
+#!/bin/env perl
+
+use strict;
+use warnings;
+
+my %e = ();
+open my $efh, '<', 'all.ens.tsv' or die $!;
+while(<$efh>){
+    chomp;
+    my($adom, $method, $spec) = split(/\t/, $_);
+    my @a = split(/_/, $adom);
+    my $source = join('_', @a[0..$#a-2]);
+    $e{$source}{$a[-2]} = {
+	'spec' => $spec,
+	'end' => $a[-1]
+    };
+}
+close $efh;
+
+my %last = ();
+my $cutoff = 10000;
+my $k = 0;
+foreach my $source (sort keys %e){
+    foreach my $start (sort {$a <=> $b} keys %{$e{$source}}){
+	if(exists $last{$source}){
+	    if($start - $last{$source} > $cutoff){ ## outside cluster range
+		$k += 1;
+	    }
+	}else{
+	    $k += 1;
+	}
+	$e{$source}{$start}{'cluster'} = $k;
+	$last{$source} = $e{$source}{$start}{'end'};
+    }
+}
+
+foreach my $source (sort keys %e){
+    foreach my $start (sort {$a <=> $b} keys %{$e{$source}}){
+	print join("\t", $source, $start, $e{$source}{$start}{'end'}, $e{$source}{$start}{'spec'}, $e{$source}{$start}{'cluster'})."\n";
+    }
+}

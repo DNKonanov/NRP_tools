@@ -1,0 +1,26 @@
+CLUSTAL W multiple sequence alignment
+
+
+AHZ20773.1_2017_mod2_tyr                 LTKTVSAPGLFPDDVKVIAISELDLTANIPRPCLKVRPENLAYVIYTSGSTGKPKGVLVS
+BGC0000369_AHZ20773.1_2017_mod2_tyr      LTKTVSAPGLFPDDVKVIAISELDLTANIPRPCLKVRPENLAYVIYTSGSTGKPKGVLVS
+                                         ************************************************************
+
+AHZ20773.1_2017_mod2_tyr                 HAGIENLVRNQTASFGVTAKSRVYQFASLNFDAAVSEIFMALGSGATLYLQEQANRSPNA
+BGC0000369_AHZ20773.1_2017_mod2_tyr      HAGIENLVRNQTASFGVTAKSRVYQFASLNFDAAVSEIFMALGSGATLYLQEQANRSPNA
+                                         ************************************************************
+
+AHZ20773.1_2017_mod2_tyr                 ALWETLTAWQITHVTLPPSLVAAIEPANLPKLQTLIVAGETVSGDLLRRWSGESRTCFNA
+BGC0000369_AHZ20773.1_2017_mod2_tyr      ALWETLTAWQITHVTLPPSLVAAIEPANLPKLQTLIVAGETVSGDLLRRWSGESRTCFNA
+                                         ************************************************************
+
+AHZ20773.1_2017_mod2_tyr                 YGPTEATVCASLMNCSNLLREPSIGRAIANVEIYLLDSFLEPVSPDVTGEIYIGGISLAR
+BGC0000369_AHZ20773.1_2017_mod2_tyr      YGPTEATVCASLMNCSNLLREPSIGRAIANVEIYLLDSFLEPVSPDVTGEIYIGGISLAR
+                                         ************************************************************
+
+AHZ20773.1_2017_mod2_tyr                 GYLHRPDLTATAFIPHPFSKTPGARLYKTGDRGVYDLQGNIRFMGRQDAQVKLNGYRIEL
+BGC0000369_AHZ20773.1_2017_mod2_tyr      GYLHRPDLTATAFIPHPFSKTPGARLYKTGDRGVYDLQGNIRFMGRQDAQVKLNGYRIEL
+                                         ************************************************************
+
+AHZ20773.1_2017_mod2_tyr                 GEIEAALTKHKTVDSAVVLLRQDLPGRKRIVA
+BGC0000369_AHZ20773.1_2017_mod2_tyr      GEIEAALTKHKTVDSAVVLLRQDLPGRKRIVA
+                                         ********************************

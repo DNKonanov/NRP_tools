@@ -1,0 +1,34 @@
+{
+    "changelog": [
+        {
+            "comments": [
+                "Submitted"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "cluster": {
+        "biosyn_class": [
+            "Polyketide"
+        ],
+        "compounds": [
+            {
+                "compound": "LL-D49194α1 (LLD)"
+            }
+        ],
+        "loci": {
+            "accession": "MK501817.1",
+            "completeness": "Unknown"
+        },
+        "mibig_accession": "BGC0001979",
+        "minimal": true,
+        "ncbi_tax_id": "67376",
+        "organism_name": "Streptomyces vinaceusdrappus",
+        "publications": [
+            "pubmed:30855966"
+        ]
+    }
+}

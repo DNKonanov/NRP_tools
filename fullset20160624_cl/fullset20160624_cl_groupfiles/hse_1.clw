@@ -1,0 +1,26 @@
+CLUSTAL W multiple sequence alignment
+
+
+BGC0000425_AFH75322.1_3790_mod4_hse      LVHSATAQLAGEPGLPVVDLDRDDAYTPNLHNPQVAELTATHLTYVIYTSGSTGQPKGVM
+CCJ67640.1_3780_mod4_hse                 LVHGVTAQLAAAAGLPVVDLDREDWRGQALDNPQVVELNATHLTYVIYTSGSTGQPKGVM
+                                         ***..*****. .*********:*     *.****.**.*********************
+
+BGC0000425_AFH75322.1_3790_mod4_hse      VEHQGVVNMLGWYLDDVGLNASDAVLLLTSHSFDLTQKNIFASLAVGATLHLADSPFDPS
+CCJ67640.1_3780_mod4_hse                 VEHQGVVNMLGWYLEDVGLDAHDAVLLLTSHSFDLTQKNIFASLAVGATLHLADSPFDPS
+                                         **************:****:* **************************************
+
+BGC0000425_AFH75322.1_3790_mod4_hse      SIVRQISDQAITHINLAPSAFYALIDADQQSALSQLRRVVLGGEPIKLSQLEKLQVPRPQ
+CCJ67640.1_3780_mod4_hse                 SIVRQIGEQAITHINLAPSAFYALIEADQPQALSCLRRVVLGGEPIKLSQLEKLQAPRPQ
+                                         ******.:*****************:*** .*** ********************.****
+
+BGC0000425_AFH75322.1_3790_mod4_hse      FINSYGPTECSDVVAWHAVDADLDSYGATDIPLGRPLRNLTLYVLDAYGQLVPTGSVGEL
+CCJ67640.1_3780_mod4_hse                 FINSYGPTECSDVVAWHTVNADLDSYGAGDIPLGRPLRNLTLYVLDAYGQQVPTGSVGEL
+                                         *****************:*:******** ********************* *********
+
+BGC0000425_AFH75322.1_3790_mod4_hse      YIGGAGVARGYLNREALTAERFLDDPFTPGGRMYRTGDLARYRADGTLDYLGRNDDQVKI
+CCJ67640.1_3780_mod4_hse                 YIGGAGVARGYLNREELTAERFLDDPFTAQGRMYRTGDLARYRADGTLDYLGRNDDQVKI
+                                         *************** ************. ******************************
+
+BGC0000425_AFH75322.1_3790_mod4_hse      RGLRIELGEIEALLAAHPEVTEAAVLVRDERLVA
+CCJ67640.1_3780_mod4_hse                 RGLRIELGEIEALLAAHPEVLEAAVLVRDERLVA
+                                         ******************** *************

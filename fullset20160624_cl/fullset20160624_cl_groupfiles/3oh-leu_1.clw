@@ -1,0 +1,26 @@
+CLUSTAL W multiple sequence alignment
+
+
+BGC0001036_AGZ15476.1_490_mod1_3oh-leu   LTDTATAEGIPGDPDVPTILLDDLGSDTADAAGGGATDVAVPVRPDGLLAVLYGSAGSAG
+AGZ15476.1_490_mod1_3oh-leu              LTDTATAEGIPGDPDVPTILLDDLGSDTADAAGGGATDVAVPVRPDGLLAVLYGSAGSAG
+                                         ************************************************************
+
+BGC0001036_AGZ15476.1_490_mod1_3oh-leu   TAAGVAVTHRNLERLVLDRHWQDGGDGAVLWHSPYTFDTFALEVWVPLLNGGRVVVAPPG
+AGZ15476.1_490_mod1_3oh-leu              TAAGVAVTHRNLERLVLDRHWQDGGDGAVLWHSPYTFDTFALEVWVPLLNGGRVVVAPPG
+                                         ************************************************************
+
+BGC0001036_AGZ15476.1_490_mod1_3oh-leu   SSAVDALADSRSTDEVSAMWLSAGRFSAIAAEHPERLAGLREVWTGGDRVSAAAVRRVRE
+AGZ15476.1_490_mod1_3oh-leu              SSAVDALADSRSTDEVSAMWLSAGRFSAIAAEHPERLAGLREVWTGGDRVSAAAVRRVRE
+                                         ************************************************************
+
+BGC0001036_AGZ15476.1_490_mod1_3oh-leu   ACPELTIVTGHGPTETTGFAAGRRLTADAPAHPAGALGDPMDHTALYVLGPGLAPVPVGV
+AGZ15476.1_490_mod1_3oh-leu              ACPELTIVTGHGPTETTGFAAGRRLTADAPAHPAGALGDPMDHTALYVLGPGLAPVPVGV
+                                         ************************************************************
+
+BGC0001036_AGZ15476.1_490_mod1_3oh-leu   AGELYVAGPGVARGYVGRPGPTAERFVACPFGPPGGLMHRTGDRVRWAADGGLEYVGRTD
+AGZ15476.1_490_mod1_3oh-leu              AGELYVAGPGVARGYVGRPGPTAERFVACPFGPPGGLMHRTGDRVRWAADGGLEYVGRTD
+                                         ************************************************************
+
+BGC0001036_AGZ15476.1_490_mod1_3oh-leu   TRVEIRGVRIEAAEVEEVLSEHPGSAHAVVVVGTDDAGQQRLVA
+AGZ15476.1_490_mod1_3oh-leu              TRVEIRGVRIEAAEVEEVLSEHPGSAHAVVVVGTDDAGQQRLVA
+                                         ********************************************

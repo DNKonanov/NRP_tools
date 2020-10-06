@@ -1,0 +1,51 @@
+{
+    "changelog": [
+        {
+            "comments": [
+                "Submitted"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "comments": [
+                "Migrated from v1.4",
+                "Updated compound(s) information (NPAtlas curation)"
+            ],
+            "contributors": [
+                "AAAAAAAAAAAAAAAAAAAAAAAA"
+            ],
+            "version": "2.0"
+        }
+    ],
+    "cluster": {
+        "biosyn_class": [
+            "NRP"
+        ],
+        "compounds": [
+            {
+                "chem_struct": "COC1=C(C)C(=O)C2=C(C(CO)N3C(O)C4CC5C6OCCN6C2C3C5N4C)C1=O",
+                "compound": "naphthyridinomycin",
+                "database_id": [
+                    "npatlas:5217",
+                    "pubchem:3085238"
+                ],
+                "mol_mass": 417.18998558400006,
+                "molecular_formula": "C21H27N3O6"
+            }
+        ],
+        "loci": {
+            "accession": "JQ996389.1",
+            "completeness": "Unknown"
+        },
+        "mibig_accession": "BGC0000394",
+        "minimal": true,
+        "ncbi_tax_id": "68232",
+        "organism_name": "Streptomyces lusitanus",
+        "publications": [
+            "pubmed:23841701"
+        ]
+    }
+}
