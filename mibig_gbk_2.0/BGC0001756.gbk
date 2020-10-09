@@ -1,0 +1,908 @@
+LOCUS       BGC0001756             23875 bp    DNA     linear   PLN 20-JUL-2017
+DEFINITION  Arabidopsis thaliana chromosome 3 sequence.
+ACCESSION   BGC0001756
+VERSION     BGC0001756.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+COMMENT     ##antiSMASH-Data-START##
+            Version      :: 5.0.0-0e6921f
+            Run date     :: 2019-10-16 06:36:27
+            NOTE: This is a single cluster extracted from a larger record!
+            Orig. start  :: 4863612
+            Orig. end    :: 4887487
+            ##antiSMASH-Data-END##
+FEATURES             Location/Qualifiers
+     subregion       1..23875
+                     /aStool="mibig"
+                     /contig_edge="False"
+                     /label="Terpene"
+                     /subregion_number="1"
+                     /tool="antismash"
+     region          1..23875
+                     /contig_edge="False"
+                     /product="unknown"
+                     /region_number="1"
+                     /subregion_numbers="1"
+                     /tool="antismash"
+     mRNA            complement(join(1..315,411..656,735..873,955..1173,
+                     1256..1640,1713..1986,2092..2337))
+                     /db_xref="TAIR:AT3G14490"
+                     /db_xref="Araport:AT3G14490"
+                     /locus_tag="AT3G14490"
+                     /product="Terpenoid cyclases/Protein prenyltransferases
+                     superfamily protein"
+     gene            complement(1..2337)
+                     /db_xref="Araport:AT3G14490"
+                     /db_xref="TAIR:AT3G14490"
+                     /locus_tag="AT3G14490"
+     CDS             complement(join(19..315,411..656,735..873,955..1173,
+                     1256..1640,1713..1986,2092..2337))
+                     /codon_start=1
+                     /db_xref="TAIR:AT3G14490"
+                     /db_xref="Araport:AT3G14490"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     terpene: Terpene_synth_C"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     terpene: Terpene_synth"
+                     /gene_kind="biosynthetic"
+                     /locus_tag="AT3G14490"
+                     /note="Terpenoid cyclases/Protein prenyltransferases
+                     superfamily protein; FUNCTIONS IN: lyase activity,
+                     magnesium ion binding; INVOLVED IN: metabolic process;
+                     LOCATED IN: chloroplast; CONTAINS InterPro DOMAIN/s:
+                     Terpene synthase, metal-binding domain
+                     (InterPro:IPR005630), Terpenoid synthase
+                     (InterPro:IPR008949), Terpenoid cylases/protein
+                     prenyltransferase alpha-alpha toroid (InterPro:IPR008930),
+                     Terpene synthase-like (InterPro:IPR001906); BEST
+                     Arabidopsis thaliana protein match is: Terpenoid
+                     cyclases/Protein prenyltransferases superfamily protein
+                     (TAIR:AT3G14520.1); Has 1720 Blast hits to 1687 proteins in
+                     178 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi -
+                     0; Plants - 1715; Viruses - 0; Other Eukaryotes - 5
+                     (source: NCBI BLink)."
+                     /product="Terpenoid cyclases/Protein prenyltransferases
+                     superfamily protein"
+                     /protein_id="AEE75532.1"
+                     /sec_met_domain="Terpene_synth_C (E-value: 2.8e-95,
+                     bitscore: 317.9, seeds: 87, tool: rule-based-clusters)"
+                     /sec_met_domain="Terpene_synth (E-value: 3e-50, bitscore:
+                     169.5, seeds: 149, tool: rule-based-clusters)"
+                     /transl_table=1
+                     /translation="MEATRTSFGLHNAPLCPTTNPSLFPRRWLHKHTLSLKPAKQHHLV
+                     CVRATESNDNLESSRPLAHFSPTLWGDHFLSVPLHVAEFDDFSREIEVTMKPKVRDMLK
+                     SSKNSDNERIRLIHLLMNLGIAYHFEIEIDEILGQAFGNLDDIIAKENDLETISTMFEV
+                     FRLRGYYMPCYAFNRFKGEDGRFKESLAEDIRGMLQLYEAAHLGTPSEDIMDEALSFTR
+                     YRLESLTSNHTATASPHLSKHIQNALYRARYHNLEILVAREYISFYEQEEDHDETLLKF
+                     AKLNFNYCQLHYIQELKDLTKWWKELDLASKLPYIRDRIVEVYFGALALYFEPRYSLGR
+                     IIVTKITMIVTVFNDTCDAYGTLPEVTSLVDSFQRWDLGDIEKLPSYVKIVFRGVFETL
+                     EEIEQEMRPQGRSRIVQVAVDEIKKLGKAYLAISKWARASHVPTFEEYMEFGMQTSMDH
+                     FAAYSFIAMEDCDENQTCEWYKSRPKMMEALNGVFRIKNDINTFEQEMSRGEVAKGLNC
+                     YMKQHGVSKEEAIGEMNKIYSNYYKIIMEEYLTTTAVPRPILVRCLNVSRPIHHFYKER
+                     DEFTDPYFGMLKEVITSLFIHPIPL"
+     mRNA            <2794..>3210
+                     /db_xref="Araport:AT3G14500"
+                     /db_xref="TAIR:AT3G14500"
+                     /locus_tag="AT3G14500"
+                     /product="hypothetical protein"
+                     /pseudo=""
+     gene            2794..3210
+                     /db_xref="Araport:AT3G14500"
+                     /db_xref="TAIR:AT3G14500"
+                     /locus_tag="AT3G14500"
+                     /pseudo=""
+     mRNA            complement(join(3532..4356,4430..5028))
+                     /db_xref="TAIR:AT3G14510"
+                     /db_xref="Araport:AT3G14510"
+                     /locus_tag="AT3G14510"
+                     /product="Polyprenyl synthetase family protein"
+     gene            complement(3532..5028)
+                     /db_xref="Araport:AT3G14510"
+                     /db_xref="TAIR:AT3G14510"
+                     /locus_tag="AT3G14510"
+     CDS             complement(join(3766..4356,4430..4693))
+                     /codon_start=1
+                     /db_xref="TAIR:AT3G14510"
+                     /db_xref="Araport:AT3G14510"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1182:Polyprenyl synthetase (Score: 228.8; E-value:
+                     1.3e-69)"
+                     /gene_kind="biosynthetic-additional"
+                     /locus_tag="AT3G14510"
+                     /note="Polyprenyl synthetase family protein; INVOLVED IN:
+                     isoprenoid biosynthetic process; EXPRESSED IN: root;
+                     CONTAINS InterPro DOMAIN/s: Polyprenyl synthetase-related
+                     (InterPro:IPR017446), Terpenoid synthase
+                     (InterPro:IPR008949), Polyprenyl synthetase
+                     (InterPro:IPR000092); BEST Arabidopsis thaliana protein
+                     match is: geranylgeranyl pyrophosphate synthase 3
+                     (TAIR:AT3G14550.1); Has 16768 Blast hits to 16761 proteins
+                     in 2954 species: Archae - 342; Bacteria - 9432; Metazoa -
+                     303; Fungi - 466; Plants - 462; Viruses - 13; Other
+                     Eukaryotes - 5750 (source: NCBI BLink)."
+                     /product="Polyprenyl synthetase family protein"
+                     /protein_id="AEE75533.1"
+                     /transl_table=1
+                     /translation="MRLSTFRSVPLREPLTVQEAVRYSLLAGGKRVRPLLCIAVCELVG
+                     GDEATAMSAACAVEMIHTSSLIHDDLPCMDNADLRRGKPTNHKVFGEDMAVLAGDALLA
+                     LAFEHMTVVSSGLVASERMIRAVVELARAIGTKGLVAGQVVDLSSERLNPHDVGLERLE
+                     FIHLHKTAALLEAAAVIGAIMGGGTEEEIEKLRKYARCIGLLFQVVDDILDVTKSTEEL
+                     GKTAGKDVMAGKLTYPRLIGLERSREVAEKLSREAEEQLLGFESDKAAPLVALASYISC
+                     RND"
+     misc_RNA        complement(5512..6203)
+                     /db_xref="Araport:AT3G14515"
+                     /db_xref="TAIR:AT3G14515"
+                     /gene_synonym="MOA2.16"
+                     /locus_tag="AT3G14515"
+                     /note="pseudogene of Terpenoid cyclases/Protein
+                     prenyltransferases superfamily protein; AT3G14515.1"
+                     /pseudo=""
+     gene            complement(5512..6203)
+                     /db_xref="Araport:AT3G14515"
+                     /db_xref="TAIR:AT3G14515"
+                     /gene_synonym="MOA2.16"
+                     /locus_tag="AT3G14515"
+                     /pseudo=""
+     mRNA            complement(<6229..>8527)
+                     /db_xref="Araport:AT3G14517"
+                     /db_xref="TAIR:AT3G14517"
+                     /gene_synonym="MOA2.17"
+                     /locus_tag="AT3G14517"
+                     /product="hypothetical protein"
+                     /pseudo=""
+     gene            complement(6229..8527)
+                     /db_xref="Araport:AT3G14517"
+                     /db_xref="TAIR:AT3G14517"
+                     /gene_synonym="MOA2.17"
+                     /locus_tag="AT3G14517"
+                     /pseudo=""
+     mRNA            complement(join(12045..12555,12642..12890,12981..13119,
+                     13215..13433,13518..13902,14015..14285,14377..14726))
+                     /db_xref="TAIR:AT3G14520"
+                     /db_xref="Araport:AT3G14520"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:AV557136.1,INSD:BP819717.1,INSD:BP817644.1,
+                     INSD:BP815301.1,INSD:BP651148.1,INSD:BP830753.1,
+                     INSD:AU236988.1,INSD:AU228000.1"
+                     /inference="Similar to RNA sequence,
+                     mRNA:INSD:AF497489.1,INSD:BT004277.1,INSD:BT053762.1,
+                     INSD:BX823073.1"
+                     /locus_tag="AT3G14520"
+                     /product="Terpenoid cyclases/Protein prenyltransferases
+                     superfamily protein"
+     gene            complement(12045..14726)
+                     /db_xref="Araport:AT3G14520"
+                     /db_xref="TAIR:AT3G14520"
+                     /locus_tag="AT3G14520"
+     CDS             complement(join(12256..12555,12642..12890,12981..13119,
+                     13215..13433,13518..13902,14015..14285,14377..14631))
+                     /codon_start=1
+                     /db_xref="TAIR:AT3G14520"
+                     /db_xref="Araport:AT3G14520"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     terpene: Terpene_synth_C"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     terpene: Terpene_synth"
+                     /gene_kind="biosynthetic"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:AV557136.1,INSD:BP819717.1,INSD:BP817644.1,
+                     INSD:BP815301.1,INSD:BP651148.1,INSD:BP830753.1,
+                     INSD:AU236988.1,INSD:AU228000.1"
+                     /inference="Similar to RNA sequence,
+                     mRNA:INSD:AF497489.1,INSD:BT004277.1,INSD:BT053762.1,
+                     INSD:BX823073.1"
+                     /locus_tag="AT3G14520"
+                     /note="Terpenoid cyclases/Protein prenyltransferases
+                     superfamily protein; FUNCTIONS IN: lyase activity,
+                     magnesium ion binding; INVOLVED IN: metabolic process;
+                     EXPRESSED IN: embryo, sepal, pedicel; EXPRESSED DURING: 4
+                     anthesis, C globular stage; CONTAINS InterPro DOMAIN/s:
+                     Terpene synthase, metal-binding domain
+                     (InterPro:IPR005630), Terpenoid synthase
+                     (InterPro:IPR008949), Terpenoid cylases/protein
+                     prenyltransferase alpha-alpha toroid (InterPro:IPR008930),
+                     Terpene synthase-like (InterPro:IPR001906); BEST
+                     Arabidopsis thaliana protein match is: Terpenoid
+                     cyclases/Protein prenyltransferases superfamily protein
+                     (TAIR:AT3G14540.1); Has 1704 Blast hits to 1673 proteins in
+                     177 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi -
+                     0; Plants - 1700; Viruses - 0; Other Eukaryotes - 4
+                     (source: NCBI BLink)."
+                     /product="Terpenoid cyclases/Protein prenyltransferases
+                     superfamily protein"
+                     /protein_id="AEE75534.1"
+                     /sec_met_domain="Terpene_synth_C (E-value: 6e-86, bitscore:
+                     287.3, seeds: 87, tool: rule-based-clusters)"
+                     /sec_met_domain="Terpene_synth (E-value: 6.4e-49, bitscore:
+                     165.1, seeds: 149, tool: rule-based-clusters)"
+                     /transl_table=1
+                     /translation="MDATRTFFGLPNVHNVPLCLTSNLSLFPQRLLQKHTLPLKPAKKH
+                     HLVCVRSTKSSDDLEGSRPSTYFSPSLWGDHFLSVSLDRGEFDELEREIETMKPLVKDM
+                     LMSSQSSDKEKIRLIHLLVSLGSSYHFDKEIQDILKHSFTKLDDIIVGEDDLETISIMF
+                     EVFRLYGHKMSCDAFDRFRGEDGRFKESLAKDVRGMLQLFEVAHLGTPSEDIMDEASSF
+                     AQNHLDSWIGGNVSGATPHLLKHIQNSLYIPRYCNIEVLVAREYISYYEQEEGHNKILL
+                     KFAKLNFNFCQFHYIQELKTLTKWWKDLDLASKLPYIRDRLVESHLGGLGPYFEPHYSL
+                     GRIIVAKIIMTMVVVDDTYDAHATVPEVAVLTECLQRLNIGADDKLPDYLRTVLESVFE
+                     VMGEIEQEMRPKGRSYGVKQVLERFKNVAKADKQLTEWARTGDVPSFDEYMKVGLVTAG
+                     MDGYAGYCFIGMEDVSEKEAFEWLSSNPLIIQALNVMFRLANDVGTYETEINRGEVANG
+                     LNCYMKQYGVTKEEASQELRKIYSNNKKVVMEEFMNSHDHVPRQVLLRCLNFARLFDVM
+                     YTEGDGYSEPKGKIEHFMTSLYVHPIPLS"
+     mRNA            complement(join(15479..16271,16345..16871))
+                     /db_xref="TAIR:AT3G14530"
+                     /db_xref="Araport:AT3G14530"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:AV538229.1,INSD:BP638882.1,INSD:AU226279.1,
+                     INSD:BP639174.1"
+                     /inference="Similar to RNA sequence, mRNA:INSD:BT010463.1"
+                     /locus_tag="AT3G14530"
+                     /product="Terpenoid synthases superfamily protein"
+     gene            complement(15479..16871)
+                     /db_xref="Araport:AT3G14530"
+                     /db_xref="TAIR:AT3G14530"
+                     /locus_tag="AT3G14530"
+     CDS             complement(join(15681..16271,16345..16836))
+                     /codon_start=1
+                     /db_xref="TAIR:AT3G14530"
+                     /db_xref="Araport:AT3G14530"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1182:Polyprenyl synthetase (Score: 231.5; E-value:
+                     1.9e-70)"
+                     /gene_kind="biosynthetic-additional"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:AV538229.1,INSD:BP638882.1,INSD:AU226279.1,
+                     INSD:BP639174.1"
+                     /inference="Similar to RNA sequence, mRNA:INSD:BT010463.1"
+                     /locus_tag="AT3G14530"
+                     /note="Terpenoid synthases superfamily protein; FUNCTIONS
+                     IN: farnesyltranstransferase activity; INVOLVED IN:
+                     isoprenoid biosynthetic process; LOCATED IN: chloroplast;
+                     CONTAINS InterPro DOMAIN/s: Polyprenyl synthetase-related
+                     (InterPro:IPR017446), Terpenoid synthase
+                     (InterPro:IPR008949), Polyprenyl synthetase
+                     (InterPro:IPR000092); BEST Arabidopsis thaliana protein
+                     match is: geranylgeranyl pyrophosphate synthase 3
+                     (TAIR:AT3G14550.1); Has 16918 Blast hits to 16911 proteins
+                     in 2965 species: Archae - 341; Bacteria - 9533; Metazoa -
+                     310; Fungi - 484; Plants - 460; Viruses - 12; Other
+                     Eukaryotes - 5778 (source: NCBI BLink)."
+                     /product="Terpenoid synthases superfamily protein"
+                     /protein_id="AEE75535.1"
+                     /transl_table=1
+                     /translation="MATTVHLSSSSLFSQSRGRRDNSISSVKSLRKRTVLSLSSALTSQ
+                     DAGHMIQPEGKSNDNNSAFDFKLYMIRKAESVNAALDVSVPLLKPLTIQEAVRYSLLAG
+                     GKRVRPLLCIAACELVGGDEATAMSAACAVEMIHTSSLIHDDLPCMDNADLRRGKPTNH
+                     KVYGEDMAVLAGDALLALAFEHMTVVSSGLVAPEKMIRAVVELARAIGTTGLVAGQMID
+                     LASERLNPDKVGLEHLEFIHLHKTAALLEAAAVLGVIMGGGTEQEIEKLRKYARCIGLL
+                     FQVVDDILDVTKSTEELGKTAGKDVMAGKLTYPRLIGLEGSREVAEKLRREAEEQLLGF
+                     DPSKAAPLVALASYIACRHN"
+     mRNA            complement(join(17708..18301,18393..18641,18726..18864,
+                     18944..19162,19238..19622,19722..19992,20079..20400))
+                     /db_xref="TAIR:AT3G14540"
+                     /db_xref="Araport:AT3G14540"
+                     /inference="Similar to RNA sequence, EST:INSD:EL124281.1"
+                     /inference="Similar to RNA sequence,
+                     mRNA:INSD:AF497490.1,INSD:BX826272.1"
+                     /locus_tag="AT3G14540"
+                     /product="Terpenoid cyclases/Protein prenyltransferases
+                     superfamily protein"
+     mRNA            complement(join(17708..18641,18726..18864,18944..19162,
+                     19238..19622,19722..19992,20079..20400))
+                     /db_xref="Araport:AT3G14540"
+                     /db_xref="TAIR:AT3G14540"
+                     /locus_tag="AT3G14540"
+                     /product="Terpenoid cyclases/Protein prenyltransferases
+                     superfamily protein"
+     gene            complement(17708..20400)
+                     /db_xref="Araport:AT3G14540"
+                     /db_xref="TAIR:AT3G14540"
+                     /locus_tag="AT3G14540"
+     CDS             complement(join(18002..18301,18393..18641,18726..18864,
+                     18944..19162,19238..19622,19722..19992,20079..20324))
+                     /codon_start=1
+                     /db_xref="TAIR:AT3G14540"
+                     /db_xref="Araport:AT3G14540"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     terpene: Terpene_synth_C"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     terpene: Terpene_synth"
+                     /gene_kind="biosynthetic"
+                     /inference="Similar to RNA sequence, EST:INSD:EL124281.1"
+                     /inference="Similar to RNA sequence,
+                     mRNA:INSD:AF497490.1,INSD:BX826272.1"
+                     /locus_tag="AT3G14540"
+                     /note="Terpenoid cyclases/Protein prenyltransferases
+                     superfamily protein; FUNCTIONS IN: lyase activity,
+                     magnesium ion binding; INVOLVED IN: metabolic process;
+                     CONTAINS InterPro DOMAIN/s: Terpene synthase, metal-binding
+                     domain (InterPro:IPR005630), Terpenoid synthase
+                     (InterPro:IPR008949), Terpenoid cylases/protein
+                     prenyltransferase alpha-alpha toroid (InterPro:IPR008930),
+                     Terpene synthase-like (InterPro:IPR001906); BEST
+                     Arabidopsis thaliana protein match is: Terpenoid
+                     cyclases/Protein prenyltransferases superfamily protein
+                     (TAIR:AT3G14520.1); Has 1707 Blast hits to 1675 proteins in
+                     180 species: Archae - 0; Bacteria - 6; Metazoa - 0; Fungi -
+                     0; Plants - 1697; Viruses - 0; Other Eukaryotes - 4
+                     (source: NCBI BLink)."
+                     /product="Terpenoid cyclases/Protein prenyltransferases
+                     superfamily protein"
+                     /protein_id="AEE75536.1"
+                     /sec_met_domain="Terpene_synth_C (E-value: 8.5e-86,
+                     bitscore: 286.8, seeds: 87, tool: rule-based-clusters)"
+                     /sec_met_domain="Terpene_synth (E-value: 2.2e-48, bitscore:
+                     163.4, seeds: 149, tool: rule-based-clusters)"
+                     /transl_table=1
+                     /translation="MEATRMGFGGLSVPLSLTPNLSLIPQRLLDKHNLSLKPVKIHHLV
+                     CVRSTKSSDDLETSRPSTYFSPSLWGDHFLSVSLDHAEFVELEREIETMKPLVKDMLMS
+                     SQSSDKEKIRLIHLLVSLGSSYHFDKEIQDILKHSFTKLDGIIVEEDDLETISIMFEVF
+                     RLYGHKMSCDAFDRFRGGDGRFKESLAKDVRGMLQLFEVAHLGTLSEDIMDEALRFTRN
+                     HLESLTSGNVSSASPHILKHIQNSLYIPRYCNIEVLVAREYISYYEQEEGYNEILLKFA
+                     KLNFNFCQCHYIQEIKTLTKWWKDLDLASKLPYIRDRSVESHLGGLGPYFEPQYSLGRI
+                     IVAKTIMIIVVADDTYDAHATIPEATVLTEYFQRLNIGADDKLSGYLRIVLESVFEVMG
+                     EIEQEMSPKGRSYSVKQVLERFKIIAKAYKQLTEWARKGHVPTFDEYMKVGLVTAGMGD
+                     YAGYCFIGMEDINEKEAFEWLNSNPLLIDALNVLFRIANDVGTYETEINRGEVANGLNC
+                     YMKQYGVTKEEASRELRKMYIYNKKVVVEEFMNSHDRVPRQVLLRCLNFARLFDVIYTE
+                     GDGYSEPKGKIEHFMTSLYVHPIPLS"
+     CDS             complement(join(18375..18641,18726..18864,18944..19162,
+                     19238..19622,19722..19992,20079..20324))
+                     /codon_start=1
+                     /db_xref="Araport:AT3G14540"
+                     /db_xref="TAIR:AT3G14540"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     terpene: Terpene_synth_C"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     terpene: Terpene_synth"
+                     /gene_kind="biosynthetic"
+                     /locus_tag="AT3G14540_ANM63377.1"
+                     /product="Terpenoid cyclases/Protein prenyltransferases
+                     superfamily protein"
+                     /protein_id="ANM63377.1"
+                     /sec_met_domain="Terpene_synth_C (E-value: 6.3e-71,
+                     bitscore: 238.1, seeds: 87, tool: rule-based-clusters)"
+                     /sec_met_domain="Terpene_synth (E-value: 1.5e-48, bitscore:
+                     163.9, seeds: 149, tool: rule-based-clusters)"
+                     /transl_table=1
+                     /translation="MEATRMGFGGLSVPLSLTPNLSLIPQRLLDKHNLSLKPVKIHHLV
+                     CVRSTKSSDDLETSRPSTYFSPSLWGDHFLSVSLDHAEFVELEREIETMKPLVKDMLMS
+                     SQSSDKEKIRLIHLLVSLGSSYHFDKEIQDILKHSFTKLDGIIVEEDDLETISIMFEVF
+                     RLYGHKMSCDAFDRFRGGDGRFKESLAKDVRGMLQLFEVAHLGTLSEDIMDEALRFTRN
+                     HLESLTSGNVSSASPHILKHIQNSLYIPRYCNIEVLVAREYISYYEQEEGYNEILLKFA
+                     KLNFNFCQCHYIQEIKTLTKWWKDLDLASKLPYIRDRSVESHLGGLGPYFEPQYSLGRI
+                     IVAKTIMIIVVADDTYDAHATIPEATVLTEYFQRLNIGADDKLSGYLRIVLESVFEVMG
+                     EIEQEMSPKGRSYSVKQVLERFKIIAKAYKQLTEWARKGHVPTFDEYMKVGLVTAGMGD
+                     YAGYCFIGMEDINEKEAFEWLNSNPLLIDALNVLFRIANDVGTYEVHRKS"
+     mRNA            complement(join(20951..21732,21842..22472,22766..23442,
+                     23540..23875))
+                     /db_xref="TAIR:AT3G14550"
+                     /db_xref="Araport:AT3G14550"
+                     /gene="GGPS3"
+                     /gene_synonym="geranylgeranyl pyrophosphate synthase 3"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:AU230010.1,INSD:EG514759.1,INSD:DR323232.1,
+                     INSD:EG514150.1,INSD:DR323228.1,INSD:DR323227.1,
+                     INSD:DR374520.1,INSD:BP588812.1,INSD:BP657858.1,
+                     INSD:AU238772.1,INSD:DR323229.1,INSD:DR323231.1,
+                     INSD:DR323230.1"
+                     /inference="Similar to RNA sequence,
+                     mRNA:INSD:U44877.1,INSD:AY086932.1,INSD:AK117933.1"
+                     /locus_tag="AT3G14550"
+                     /product="geranylgeranyl pyrophosphate synthase 3"
+     mRNA            complement(join(20951..21732,21842..22472,22766..23875))
+                     /db_xref="Araport:AT3G14550"
+                     /db_xref="TAIR:AT3G14550"
+                     /gene="GGPS3"
+                     /gene_synonym="geranylgeranyl pyrophosphate synthase 3"
+                     /locus_tag="AT3G14550"
+                     /product="geranylgeranyl pyrophosphate synthase 3"
+     gene            complement(20951..23875)
+                     /db_xref="Araport:AT3G14550"
+                     /db_xref="TAIR:AT3G14550"
+                     /gene="GGPS3"
+                     /gene_synonym="geranylgeranyl pyrophosphate synthase 3"
+                     /locus_tag="AT3G14550"
+                     /note="Encodes a protein with geranylgeranyl pyrophosphate
+                     synthase activity involved in isoprenoid biosynthesis. The
+                     enzyme appears to be targeted to the chloroplast in
+                     epidermal cells and guard cells of leaves, and in
+                     etioplasts in roots."
+     mRNA            complement(join(20954..21732,21842..22383))
+                     /db_xref="Araport:AT3G14550"
+                     /db_xref="TAIR:AT3G14550"
+                     /gene="GGPS3"
+                     /gene_synonym="geranylgeranyl pyrophosphate synthase 3"
+                     /locus_tag="AT3G14550"
+                     /product="geranylgeranyl pyrophosphate synthase 3"
+     CDS             complement(join(21142..21732,21842..22333))
+                     /codon_start=1
+                     /db_xref="TAIR:AT3G14550"
+                     /db_xref="Araport:AT3G14550"
+                     /gene="GGPS3"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1182:Polyprenyl synthetase (Score: 231.2; E-value:
+                     2.3e-70)"
+                     /gene_kind="biosynthetic-additional"
+                     /gene_synonym="geranylgeranyl pyrophosphate synthase 3"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:AU230010.1,INSD:EG514759.1,INSD:DR323232.1,
+                     INSD:EG514150.1,INSD:DR323228.1,INSD:DR323227.1,
+                     INSD:DR374520.1,INSD:BP588812.1,INSD:BP657858.1,
+                     INSD:AU238772.1,INSD:DR323229.1,INSD:DR323231.1,
+                     INSD:DR323230.1"
+                     /inference="Similar to RNA sequence,
+                     mRNA:INSD:U44877.1,INSD:AY086932.1,INSD:AK117933.1"
+                     /locus_tag="AT3G14550_AEE75537.1"
+                     /note="geranylgeranyl pyrophosphate synthase 3 (GGPS3);
+                     CONTAINS InterPro DOMAIN/s: Polyprenyl synthetase-related
+                     (InterPro:IPR017446), Terpenoid synthase
+                     (InterPro:IPR008949), Polyprenyl synthetase
+                     (InterPro:IPR000092); BEST Arabidopsis thaliana protein
+                     match is: Terpenoid synthases superfamily protein
+                     (TAIR:AT3G14530.1); Has 30201 Blast hits to 17322 proteins
+                     in 780 species: Archae - 12; Bacteria - 1396; Metazoa -
+                     17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other
+                     Eukaryotes - 2996 (source: NCBI BLink)."
+                     /product="geranylgeranyl pyrophosphate synthase 3"
+                     /protein_id="AEE75537.1"
+                     /transl_table=1
+                     /translation="MATTVHLSSFSLFIQSRGRRDNSISSVKSLKKRTGLSPSSALTSQ
+                     GGRDMIPPEGKCNDHNSAFDFKLYMIRKAESVNAALDVSVPLREPLTVQEAVRYSLLAG
+                     GKRVRPLLCIAVCELVGGDEATAMSAACAVEMIHTSSLIHDDLPCMDNADLRRGKPTNH
+                     KVYGEDMAVLAGDALLALAFEHMTFVSSGLVAPERMIRAVVELARAIGTTGLVAGQMID
+                     LASERLNPDKVGLEHLEFIHLHKTAALLEAAAVLGVIMGGGTEEEIEKLRKYARCIGLL
+                     FQVVDDILDVTKSTEELGKTAGKDVMAGKLTYPRLIGLERSKEVAEKLRREAEEQLLGF
+                     DPSKAAPLVALASYIACRHN"
+     CDS             complement(join(21142..21732,21842..22333))
+                     /codon_start=1
+                     /db_xref="Araport:AT3G14550"
+                     /db_xref="TAIR:AT3G14550"
+                     /gene="GGPS3"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1182:Polyprenyl synthetase (Score: 231.2; E-value:
+                     2.3e-70)"
+                     /gene_kind="biosynthetic-additional"
+                     /gene_synonym="geranylgeranyl pyrophosphate synthase 3"
+                     /locus_tag="AT3G14550_ANM64719.1"
+                     /product="geranylgeranyl pyrophosphate synthase 3"
+                     /protein_id="ANM64719.1"
+                     /transl_table=1
+                     /translation="MATTVHLSSFSLFIQSRGRRDNSISSVKSLKKRTGLSPSSALTSQ
+                     GGRDMIPPEGKCNDHNSAFDFKLYMIRKAESVNAALDVSVPLREPLTVQEAVRYSLLAG
+                     GKRVRPLLCIAVCELVGGDEATAMSAACAVEMIHTSSLIHDDLPCMDNADLRRGKPTNH
+                     KVYGEDMAVLAGDALLALAFEHMTFVSSGLVAPERMIRAVVELARAIGTTGLVAGQMID
+                     LASERLNPDKVGLEHLEFIHLHKTAALLEAAAVLGVIMGGGTEEEIEKLRKYARCIGLL
+                     FQVVDDILDVTKSTEELGKTAGKDVMAGKLTYPRLIGLERSKEVAEKLRREAEEQLLGF
+                     DPSKAAPLVALASYIACRHN"
+     CDS             complement(join(21142..21732,21842..22333))
+                     /codon_start=1
+                     /db_xref="Araport:AT3G14550"
+                     /db_xref="TAIR:AT3G14550"
+                     /gene="GGPS3"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1182:Polyprenyl synthetase (Score: 231.2; E-value:
+                     2.3e-70)"
+                     /gene_kind="biosynthetic-additional"
+                     /gene_synonym="geranylgeranyl pyrophosphate synthase 3"
+                     /locus_tag="AT3G14550"
+                     /product="geranylgeranyl pyrophosphate synthase 3"
+                     /protein_id="ANM64718.1"
+                     /transl_table=1
+                     /translation="MATTVHLSSFSLFIQSRGRRDNSISSVKSLKKRTGLSPSSALTSQ
+                     GGRDMIPPEGKCNDHNSAFDFKLYMIRKAESVNAALDVSVPLREPLTVQEAVRYSLLAG
+                     GKRVRPLLCIAVCELVGGDEATAMSAACAVEMIHTSSLIHDDLPCMDNADLRRGKPTNH
+                     KVYGEDMAVLAGDALLALAFEHMTFVSSGLVAPERMIRAVVELARAIGTTGLVAGQMID
+                     LASERLNPDKVGLEHLEFIHLHKTAALLEAAAVLGVIMGGGTEEEIEKLRKYARCIGLL
+                     FQVVDDILDVTKSTEELGKTAGKDVMAGKLTYPRLIGLERSKEVAEKLRREAEEQLLGF
+                     DPSKAAPLVALASYIACRHN"
+     ncRNA           23361..23674
+                     /db_xref="Araport:AT3G02985"
+                     /locus_tag="AT3G02985"
+                     /ncRNA_class="lncRNA"
+                     /product="other RNA"
+     gene            23361..23674
+                     /db_xref="Araport:AT3G02985"
+                     /locus_tag="AT3G02985"
+ORIGIN
+        1 aaagtgtttt cacaaatatc aaagaggaat tggatggatg aacaaagaag tgatgacttc
+       61 tttaagcatt ccgaaataag gatctgtgaa ttcatctctc tccttgtaaa aatgatggat
+      121 gggtcgtgaa acgttgaggc atcgcaccag aatcggacgt ggcacagcgg ttgtcgtcaa
+      181 gtactcctcc attattattt tgtaataatt actataaatc ttgttcatct ctccaatcgc
+      241 ctcttctttg gaaacaccat gttgcttcat gtaacaattc agccctttag ccacttctcc
+      301 tctgctcatc tcttgctgct catccattac acttagttac gttaatgtgt aagacaaaac
+      361 cggttgatga tgtgatcgct tattgtcatg cttttgtatg tatcaattac ctcaaaggtg
+      421 tttatgtcgt tcttaatacg aaacacacca ttcagagctt ccatcatttt aggtctggat
+      481 ttgtaccact cgcacgtttg attctcatca caatcttcca tcgcgataaa gctataggct
+      541 gcaaaatgat ccattgacgt ctgcatacca aactccatgt actcctcaaa ggttggcacg
+      601 tgacttgcgc gtgcccattt cgagatagcc aagtatgctt tccccaactt cttgatctat
+      661 atgcaaagca ctcagttttt cgtaaagata caaacttgac tatagttatt gctaccccag
+      721 tgtggaggac tcacctcatc taccgctact tgcacaatgc gtgaccttcc ctgtggcctc
+      781 atttcttgtt caatctcttc taaagtttca aatacacctc gaaagacgat ttttacataa
+      841 cttggtagct tttctatgtc cccaagatcc cacctggaca agaaaatttg catgtcattt
+      901 tacctatttt taaatttaat catggaaata ggagttagga gtgaaaaaca acacctttgg
+      961 aaagaatcaa cgaggcttgt aacttcagga agagtaccat atgcatcaca tgtatcatta
+     1021 aaaacagtca caatcatggt aattttagtg actataattc tccctagtga ataccgtggc
+     1081 tcaaaataca atgcgagtgc cccaaagtag acctctacaa ttctgtccct gatgtaaggc
+     1141 agcttagatg caagatctag ctccttccac catctgcaat taatgaacat aaacatttta
+     1201 aataaagcaa gacatacaaa tataaagatt gacgacatga actaacacaa cctacttggt
+     1261 cagatctttt agctcttgga tataatgtag ctggcaatag ttgaagttga gttttgcaaa
+     1321 cttgagcagc gtctcgtcat gatcttcttc ttgttcgtag aaagagatat attctcttgc
+     1381 gactaatatc tccaagttat gatatcgagc tctatatagt gcgttttgta tatgtttaga
+     1441 gagatgggga ctagcagttg ctgtgtgatt acttgtcaac gactctaagc gataccgagt
+     1501 gaagctcaat gcttcgtcca taatatcttc agatggtgtc ccgagatgtg ctgcttcgta
+     1561 caactgtagc attcctctaa tatcctcagc tagactttcc ttgaacctcc catcttcacc
+     1621 tttgaatcta ttgaatgcat ctacagtgaa gtcgaaagcc aaattatata tgtgtataca
+     1681 tatatgtgaa tcaaggtcac caatactctt acagcaaggc atatagtaac cgcgtagtct
+     1741 gaaaacctca aacatggtgg agattgtttc caaatcattt tccttggcta ttatatcgtc
+     1801 caaattccca aaagcttggc caagaatctc atcaatctca atctcgaaat gatatgcgat
+     1861 tccgaggttc attagcaaat ggatgagacg gatcctctca ttgtcgctgt ttttggaaga
+     1921 cttgagcatg tctctcactt ttggcttcat cgtcacttca atctctcttg agaaatcatc
+     1981 aaattcctac aattattaaa tatacaatgc aatttataaa aaaaatcgtt catgttgtct
+     2041 gaaccaacaa ttattggggt catcttgtgc ttcttatatc tatctactta cagcgacatg
+     2101 gaggggaaca gaaaggaagt gatctcccca aagagtggga gaaaagtgtg ccaagggacg
+     2161 actactttca agattatcat tactctcagt agccctaacg cagaccaagt ggtgttgttt
+     2221 tgccggtttc aaggaaagag tgtgcttgtg aagccaacgc cgaggaaaaa gagaggggtt
+     2281 tgttgtgggg cagagagggg cgttatgaag accaaaactc gttcttgttg cttccatatt
+     2341 gttgatgtaa aaaaaaagat acaggcgaaa taatatttag aggtactctg ttttgaatgt
+     2401 tcgatatctg ttccaaaatt tgctctgttt tattatgaaa ccctagacgt ggacgttttt
+     2461 aatggctgat ttgaataaaa acaatataag ttaactatac gaatcgtata tatattttta
+     2521 ttttttttga accgggaaac attgcgagaa aaaatgttag acgatgattt aatttgataa
+     2581 tttcatgggg aatcgaagca ttaaatttct tcacgaggta aacagtgttt atcaaagtag
+     2641 tattgttgta ttaaaaccct agaagctgcc ttccgctggc gtttgaaatg gatgatttgt
+     2701 ttttacttta tttttgtttt cttgggctgg gcacatatgt gaacattaaa aatttaaaag
+     2761 caatcactgg aaaatcttag acaatcattt aatatgattg aattaattga gaatccaaac
+     2821 aatcaatgtt caatctctat ctctctagca gaacttcgag gagtttatta tgggttgtat
+     2881 cttacttggg aaaagaagat tatgcgttta gaagtggagg tggattcgga ggtagtagtt
+     2941 gggtttttaa cgacagggat tgaggaaatt gaggaaacta atccgctgtc catccttgta
+     3001 cgcttgtgtc atggctttct tagaaaggac tcgatagtcc gagtgtctca tgtgtatcgg
+     3061 aaggctaacc ggcttacaga tgggttgact aaccatgcat tctctttgct tttgggcttt
+     3121 cacgcgtttg cttcagtacc tgtagaagta gtttcgattt tgcgggaaga cgtcgatgga
+     3181 gttttacgct cacgactagt ccctttgtaa tttagtttct gtatatttca ataaaccctg
+     3241 gagtttctcc cggtcactca ccaaaaaaaa aatctctctc tctctctctc tttctcaatg
+     3301 gcattaaatt ccttccaagt tacgacatag cagtgtttgt aagtacagta tcatgttctg
+     3361 caacaaaaaa ccatttccgg tcgactgtga ttttggtccg tctacatatg aaggctggtc
+     3421 ttaataagga gaggcacact ttgaacataa ctttttgggt ccgaaattcg ttcgtgctac
+     3481 tacttcaata acaaaaacaa atatagtggc aggagtcgta ccctgtttta gttgaaatct
+     3541 tccgcacact tgttctaaat tatctgaatc cttacactat gatttagttc ccatgagaaa
+     3601 cccttattga tatttgttta aacatgacat taagattcac tatgagagag atgatcacaa
+     3661 catatatggt tcacaacttc acaagaaaaa aagatcagag atcgaactaa atgtacttgt
+     3721 taggagatca tatgcattga agatctgata agtccatgaa aagtatcagt cgtttctgca
+     3781 agaaatgtag ctagcaagag ctaccagagg cgccgccttg tcagactcaa accctagaag
+     3841 ctgctcctcg gcttctctgc tcagtttctc cgcaacttcc ctggatctct ccaaacctat
+     3901 cagccttgga tacgtcagct ttccagccat tacgtctttt cctgcagtct ttcccaattc
+     3961 ctctgtagat tttgttacgt caagaatatc atcaacaacc tgaaacaata gtccaataca
+     4021 cctagcatac tttctaagct tttcgatctc ttcctctgtt ccacctccca ttatggcacc
+     4081 tataaccgct gctgcctcca acaacgccgc cgttttgtgg aggtggatga actctagacg
+     4141 ctccaatcca acgtcgtgtg gattcaatct ttcgctgctt aggtcaacca cttgccctgc
+     4201 cactaaccct tttgtcccta tggcccttgc cagctcaacc actgcccgga tcatcctctc
+     4261 ggaagcgacc aacccactcg acacaaccgt catgtgctca aacgccaaag caagaagcgc
+     4321 atcaccggcc aaaaccgcca tgtcttctcc aaataccttg ttagatcaaa cactgattta
+     4381 acactagttc aacattatct ctgagccttt atatgattta ataacatacc ttgtgattgg
+     4441 tgggcttgcc tctacggagg tcggcattgt ccatgcacgg aagatcgtca tgaatgagag
+     4501 agcttgtgtg gatcatctcg accgcgcaag cagctgacat ggcagtagcc tcgtcgcctc
+     4561 ccacaagctc gcagacagca atgcagagca gaggcctcac acgttttccg cccgctagca
+     4621 atgagtaccg cacggcttcc tggaccgtga ggggttctcg gagcggtaca gatcgaaacg
+     4681 tcgagagccg catttacaga ttcggctttg cggatcatat acaacttgaa atcaaaagca
+     4741 gagttgtgat cattgctttt tccctgtggt ggaatcatgt ctctgccacc ttgtgaggtg
+     4801 agggcagaag agggagacaa acctgtgcgt tttttgagac tcttgacgga agatatggag
+     4861 ttgtctcttc ttcctctgga ttggatgaag agggagaatg agctgagatg aacagtagta
+     4921 gccatggccg atccaagagt aattgtgttt gccaattaat agcatgtgga gctcttaata
+     4981 ggtttattgg atttggaaat agtatgaatt aaaaatgcat tatcttccaa caaagtagta
+     5041 tgaattacgg gatgaataaa caaggttata atatttaaat acaacatggt tataagtttt
+     5101 acgagtttac ctttgtccaa tcctttagtc catgactcat gagattgtga actataaaat
+     5161 atgcaacatg gctataactc aacatgtggc aatcaatact tgcgaatttc gatactgtct
+     5221 aaaatatttt cctatagaat attaataaac taaatttaat tggaaaagtg attacattca
+     5281 acatctatta gttttgatta aacgataacg ataaattatg aggtgaattt gctataacaa
+     5341 ctaaattggt gaatataact tgcagaaaag acatggtggc atttttggtt tcaggaagtc
+     5401 acaaaacaac cattctttct actttcataa gaaattttgt ttttttgtag aaattatctg
+     5461 ccttggcgta gcagtgaaca aacagagaac ctgcaaaagg ctacacaaca tcaccaaata
+     5521 gacctagata ggaaaaacgg agtcataata tttcttctta gagattatta aaaaagaaaa
+     5581 acaaaataag aagaagcaag gattaactta gaaaattggt gtgtgttgca cgtcattatg
+     5641 aaaggggtat agggtggacg aacaaggagg tcataaagtg ttcagttttg cctttgggtt
+     5701 cactgtatcc atcaccctct atgtacatca catcgacgag gcgtacaaag ttgaggcatc
+     5761 gcagcagaac ctggcgcggc acatggtcat gtgtgttcat gaattgctcc ataaccattt
+     5821 ttttgttgtc gctgtacatt ttaagcaact cttggcttgc ttcttccttg gtgactccat
+     5881 attgtttcat gtaacaattt atcccattgg ccagctctcc tctgctcatc tcagtctgca
+     5941 aacatcattt attcatgagg actacaagaa gaggaaaaca aaaatcacaa gaaccaaaga
+     6001 tatccttttt agtttgaggt gtacctcgta ggatcctacg tcatttccta aacggaatac
+     6061 taaatgcagt ttttggatga ttaggggagt ggtattaagc caatcttttt ttttttaata
+     6121 aaatgtcaaa ttatattcaa aaagaaaaat aactttttac atcagcttaa tcttatgtga
+     6181 gttgaattat ttgttttgat aagaaattac aatttgagag cttaacagaa agagcagaga
+     6241 gagtctagag ccttgtcgag aaccagactt gtaatccgtt ctcgtagcgg cggtctcctg
+     6301 tcgagattat gatggagagt tgattgcgaa tctgtttgtc catccaagta atgagattgg
+     6361 ctgacgttct aggctcctca ccatggcgtc gatcatttct ctccttccaa accgtgtgta
+     6421 ctgtgagttg gaagatataa cgtgacaaaa agctccgaat tcgatcagtt tgagtctctg
+     6481 agatgtaatt cactattgtc tgccaatctg ttgagaatcg atgttgtaaa acattctttg
+     6541 caattgcagt ccaaatcgct gaggcataac tacacgagaa gaacaagtgg tctcgtgttt
+     6601 caatagatgt ggagcagaat gtacacttca catcagagcc attattccaa agctgcattc
+     6661 gatctcccgt tgataaccta ttacgcaaag caagccaagt acagaactga tatttcggag
+     6721 tagagtgact gaaccatacc cctttatacc aagccacctc gtttgatttt ttacgaacct
+     6781 gattccatgt gtctttggtg gaaaagcttg tcttaaaaac gtccccctta cctctccata
+     6841 aagctgcatc ttcccgaagc aaaatgcgtg tctgatattt ctggtttaag gctgcctcaa
+     6901 tatcatttag ctgttctgtt cgatgtttcc ttctccttct attactccaa gcctcggcca
+     6961 ctgttttgtt ccggcttatt ccaaggtcta tttgccccct ctgtcctgtt acatccatca
+     7021 aatggcccat tcccgaccag ttatcaaacc agaacgaagt ccgagctcca ttattcacct
+     7081 ctactctgct aaacggcttc gctgtttctc tatacttcaa catttttttc cacatccaag
+     7141 atcctaagct tgagttgggc tttagagacc aaaaagactc ttgtttaagc agattcattt
+     7201 ttgaccattt gacccacaat gaatcatcat tcgaggttac tctccatatc aactttaaaa
+     7261 cactcaccac attcgcctct gttaaagacc gcagaccaag tcctccttgt tttggtttgc
+     7321 aaatgtcatc ccatgatacc tttgcctttc gacgatttag ctctggtcct gaccacaaaa
+     7381 atgctgaaca aatactgttt atctctttta ggcatgcact tggtaatcga aatgcactca
+     7441 tccaaaagtt cattgtactc cataaaacag aacttataag atttaaacga cctgcaaaag
+     7501 agagataacg tgaggtccac gttccaattc gattgcgtat ctgctcaaaa aggggggaga
+     7561 ggtcttcttt ggtgagtcgt ttggttacta gtgggagacc gagatatcta accgggagct
+     7621 gagccaaacc aaatgggtag cgactgatca tcatgtgacg attgtgatca gagactccag
+     7681 ctgtgtacaa tgttgttttc tccatattga tttttaaccc tgaacgttta gcaaataggt
+     7741 tcataacttc gacaatgcca tctactgaac ggactttacc atcagtaagt atcatgaggt
+     7801 catcggcaaa acagagatga gtgagtccaa ggtttttgca tttcgggtga aaaccaaacc
+     7861 gtttcgctcc cgctgcctga tctaacatct ttgagagaac ttccatactg atgacaaaca
+     7921 aatatggaga tagcgcgcat ccttgtcgga ttcctcttgc acttctgaaa taacctgcta
+     7981 actcaccatt gacctgaact gaaaaagatg ctgtagtaat gcaacgagat atctagtgaa
+     8041 taaactctcc agggaaattc atagcagata aagcattgat aaggaaggac cattgaagag
+     8101 aatcgaaagc tttcgagata tcaattttca tggcacaacg tgttgaaacg ttactcttat
+     8161 gataatcctt gaccaattcc gttgctagaa gtacattttc aatgagaagt ctatctttta
+     8221 caaacgccga ctgattcccc gagatgaact ttggtaaaat cctcttcagc ctatttgcaa
+     8281 ttatcttaga aatcactttg tataggacat tacaacatga gataggtcgg tagtcccgca
+     8341 tctccttgga ttctttcttc tttggaatga gcgctaaaat agtagagttc accccttttg
+     8401 gcagaaaacc tttagcaaaa aaagattgga tcgctattat gaattcactt ccaacagctt
+     8461 cccaagcttc tttatagaac tcagttgtgt aaccatctgg accgggcgat ttatcacttg
+     8521 gcatagaaaa cagaactttt tttatttctc atgtaaatct tccataccaa taaagctgta
+     8581 tgctgcaaaa tcatccattg cacctgagat atatccaacc ttcatgtact catcaaaggt
+     8641 tgatacatga cccgtccgtg cccactttgc tatctctagg tatgccttca caaggatctt
+     8701 gagctgtgtg tatggactca aagaactaat attaagagtc tattaacctt tttttttctt
+     8761 tgtcaatcaa gaatacacta agtcactaac tgtatatata taatctctat atacaaatac
+     8821 aaatattgat taccttctct gttgattgtt tcacgccgta agatcttcct tttggtctca
+     8881 tttctcgttc aatctctcct atgacctcaa acaaacttcc gaggacgatt cgtaaatagt
+     8941 ctggtagttc atcactgaca ccaatattcc acctggtcat accaatattt ttttccacgc
+     9001 ttgcattaat ttaaaagaga aagaaagagc atatacattg agagagagag agagagagag
+     9061 tacatctgca aacattccgt aagagctgta acttcgggaa gagttgcaga tgatgcatca
+     9121 tatgtatcat caacaacaac caccatcatc atgattttag tcacgatgat tctcgcgagt
+     9181 gaatactgtg gctcgaaata cgctgccaca gacgccaagt gacactccac aagtctatcc
+     9241 ctaatgtaag gtaacttaga tgcaagatct aagttcttcc accatctgaa accatgcata
+     9301 aaagtaaatg aattggaaaa attgaaaccg agaccgatgt tattaacaag atggaagaag
+     9361 agtatgtcac ttggtgagag ttttgagttc ttggatgtaa tgaaactggc aaaagttgaa
+     9421 gttaagcttt gcaaacttga gcaggatctg gtcgtgacca tcttcttgtt cgtagtaaga
+     9481 tatatattct cttgccacta gtacttctat gttacagtat cgaggtgcgt ataatgagtt
+     9541 ttgtatctgc ttcaagagat ggggactagc actggatgcg ctattacttg ccaaagactc
+     9601 caagtggtaa cgcgtgaaac tcagcgcttc gtccattata acttcagagg gtgttccgag
+     9661 atgcgccact tcgaacaact gtagcattcc tttaacatct ctggctagat gctccttgaa
+     9721 cctcccatca tcacctctga atctatcaaa ggcgtctaca ataaaaccgt atatatagcc
+     9781 aatcatatat ataagtaaac atatacataa tatacgaatt aatatgttgc atgcatgtat
+     9841 gcgattcaag gaaaatgata tactcttacc acaagacatc ttgtgaccgt aaaatctaaa
+     9901 gacctcaaaa atgttggaga ttgtttccaa atcatcttcc ccaactatta tgtcttccaa
+     9961 ctttatgaaa ctttgtttaa ggatctctcg aatctcctta tcaaaatgat aagagatccc
+    10021 aaggctgata agtaaatgaa tgagacgaat cttctccttg tcgctgctgt gagaggatat
+    10081 gagcatgtct ctcacgagcg gcttcgtagt ttcaatctct ttttctagct ctttaaactc
+    10141 ctagaaaatt aataataata aaataagtgg ctggtcaagc aagaatcatg tattctgctg
+    10201 caagataagt gaatataggg tcatatcatt cacttacagt gatgttgagg gaaacagaga
+    10261 gaaagtgatc tccccaaaga gagggagaaa agtgcgtcga aggacgacta ccttcaagat
+    10321 cattagaccg tacaacgaac aaattctgtt ttgtggggct ccaagataga gtgtggctgt
+    10381 gaagcaaacg gcgaggaaag agagagaggt tgttcttaag acagagagga gatttgtgaa
+    10441 ggtgaaataa agttctgtga ccaaaaccca ttcttgttgc ttccatgttt tatcacagtc
+    10501 gtcgagaggg agagagagat agctattctg ttttacttga agtactctgt tattaggtta
+    10561 ggtttctatt tcaaaaacta cttcatatct gccggctgct gctcttattc ccgttaagtt
+    10621 aacaaaggaa gctaaacatt tttgtgtaaa aagtaaaaag taataatatt aaggaaattt
+    10681 atgtatacaa gaaaatccgg gaaaagtggg atactttatc acgttcgtat tttcgaaaaa
+    10741 tgtgttccct cctaagtcct aattttcaac taaattataa tgcaagatcc ggaagttaat
+    10801 atacaaacac gatgtcgaga acaccatgac gccatcaaaa ttcaaattcg aattgagtta
+    10861 atgattttgg gatgattttg ttttctgaaa tgtattgaaa tcatgcctta ttggatatag
+    10921 tatttgttga agttattaga ctattattaa tggatcgatc atatataaaa atgttatgat
+    10981 caaatgtcct gaaatttata ctaatcacat actaagattt ctaatagtaa ttctgcaaaa
+    11041 ttatctcaaa tcattttaaa tccgtctaaa tctccacaga tattttaaat attcatataa
+    11101 ccaaaatcac taagccggta tagtcttttt tttttaatgt aatgttaaat tatattcaaa
+    11161 tgaaaaatat cattattaca acaagtgcag ctttggattg aaaacagctg aaaatctaca
+    11221 aatcaagaga ggttaattgt tggattcaaa ccacagttgt agtcccttat catatcgtcg
+    11281 atcgcccatc tgtctttagt gatgatttgg acacatactt cgatctctgc agctttacat
+    11341 atataataca tataatccag tgatgctttg tgatcacgtt tgtattactc caagaaaggt
+    11401 gatgctttgt gattatctgc tttgcgctaa aagtggatcc tgagtctctt atcttcaata
+    11461 cgaatatgtg aagctgcaga gatctctttc atctctattt aaggagatgt tcccattgac
+    11521 tttttagtgt cagcgttttt tcagttcact tgaatttctt aacaacatct ttaatcaggg
+    11581 attctccata tcttaaatag ttacgttctg cttcctagta acttggaaat agaggttaaa
+    11641 aacaaaaaca atccctaaag ctacactctt caagttcgtc tctatctctg cttctatatg
+    11701 tgatgcatct cagctcatac tcaatacgtc tagtccatta atttaactgc ttttaacgtt
+    11761 actatacaga gcttaacaat atactaatct tatcttcggt tattgttgga cccatatgtg
+    11821 aaccgggaaa aatgggaggg acaaagtcat acaatcattt aagttgattt atggagaata
+    11881 caagctatca tgtttttcag ttaaccggtc acctgacctg ttcaatgtct taagtgcatt
+    11941 aaattgagta ttccctcaaa gttacgacat aaccgtcttt acgatcatgt cctgtaacaa
+    12001 gaaccacatc gggtcaactg atctggtata ggcctgtgta gatacggaga ttggtcttaa
+    12061 gatagagagg cacactctta acgtgagcta gcttaagaat gaacaaattc aacatggtta
+    12121 gaagttttac gagttaacca tgcaacaaaa tgactttata ttaaattaaa aattaagaat
+    12181 attttagata ttcagtcttg aggcaggtaa cagagtcata aatttcttct tagaattggt
+    12241 gtgtgttgca cgtcattatg aaaggggtat tgggtggacg tacaaggagg tcataaagtg
+    12301 ttcgattttg cctttgggtt cactgtatcc atcaccctcc gtgtacatca catcgaagag
+    12361 gcgtgcaaag ttgaggcatc gcagcagaac ctggcgtggc acatggtcat gtgagttcat
+    12421 gaactcctcc ataaccactt ttttgttgtt gctgtatatt ttacgcaact cttgggatgc
+    12481 ttcttctttg gtgactccat attgtttcat gtaacagttg agcccattag ccacctctcc
+    12541 tctgtttatc tcggtctaca aatatcattt attcatgaga actaaaaaaa caaaaatcac
+    12601 aagaaaacca aagacatccc tatatttaat gtgccgtgta cctcgtaggt tcctacgtca
+    12661 tttgctaaac ggaacattac atttagcgct tggatgatta ggggattgga actgagccac
+    12721 tcaaaagctt ccttttcact gacatcttcc attcctataa agcaatatcc tgcataacca
+    12781 tccatcccag ctgtcaccaa cccaactttc atgtactcat caaaggatgg tacgtcgccc
+    12841 gttcgtgccc actctgttaa ctgtttgtcc gcctttgcta cgttcttgaa ctgtgtttta
+    12901 gaatccaaga actaattaga ttccactaac tatacatata cattaattgg cttcatattc
+    12961 agcttatttg gctacattac cctttccaac acttgtttca cgccgtatga tcgtcctttc
+    13021 ggtctcattt cttgttcaat ctctcccata acttcaaaca cactttcgag gactgttcgt
+    13081 aaatagtccg gaagtttatc atcggcacca atattcaacc tggtcatgcc aagattttta
+    13141 cacgattgaa taaataaata aagaagaaga aagaggcata tatttatgaa taaacacata
+    13201 aatatagcaa gcacctctgc aaacattcgg taagaaccgc aacttcgggt acagttgcat
+    13261 gtgcatcata agtgtcatcc acaacaacca tggtcatgat gattttagcc actatgatcc
+    13321 tcccaagaga atagtgtggc tcgaagtacg gccccaaacc cccgagatgg ctctctacaa
+    13381 gtctatccct aatgtaaggt aacttagatg caagatctag gtccttccac catctgcaac
+    13441 cataaaagtg actgaattgg ggaaattgaa accgagacta atgtcatcaa caaaaagatt
+    13501 ggagatgagt atgtcacttg gtgagagttt tgagttcttg gatataatga aactggcaaa
+    13561 agttgaagtt aagctttgca aacttgagca ggatcttgtt gtgaccttct tcttgttcgt
+    13621 agtaagatat atattctctt gccactagta cttctatgtt acagtatcga ggtatgtata
+    13681 atgagttttg tatatgcttc aagagatggg gagttgcacc ggatacgtta ccacctatcc
+    13741 aagaatccaa gtgattctgg gcgaaactcg atgcttcgtc cattatatct tcagagggtg
+    13801 ttcctagatg cgcgacttcg aacaactgta gcattcctct aacatctttg gctagactct
+    13861 ccttgaacct cccatcttca cctctgaatc tatcaaaggc atctacaata aaaccgtata
+    13921 gccaaattat atactgttaa gtaattaaat acatatgtcc ttttatgaat atgctgcatg
+    13981 catgcatgcg aatcaaggaa agtgatattc ttaccacaag acatcttgtg accgtatagt
+    14041 ctaaagacct caaacatgat ggagattgtc tccaaatcat cttccccaac tattatgtca
+    14101 tccaactttg tgaaactgtg tttaaggata tcttgaatct ccttatcaaa atgataagag
+    14161 ctcccgaggc taacgagcaa atggattaga cgaatcttct ccttgtcgct gctttgagaa
+    14221 gacatgagca tgtctttcac cagtggcttc atagtttcaa tctctctttc tagttcatca
+    14281 aattcctaga aattgaagac aaaattggct tgtcaagaac catgttttct gctacaagat
+    14341 tcgagaaaaa aaagaagttc atatgaatgc acttacaccg cggtcgaggg aaacagagag
+    14401 aaagtgatct ccccaaagag agggagaaaa gtacgttgaa ggacgactac cctcaagatc
+    14461 atcactactc tttgtagacc ttacacatac caagtggtgt ttttttgccg gtttcagggg
+    14521 aagagtgtgc ttttgaagca aacgctgagg aaagagagag aggttggacg tgagacagag
+    14581 aggaacgttg tgaacgttag gaagaccaaa aaacgttctt gttgcgtcca tgttgttact
+    14641 cttaactctg tttagagaag aagtaatatc tagagaaact ctgtttttaa tgtttgatgt
+    14701 ctatttcaaa ttactctgtt tgattggaca catttgtgaa acatagggag agaaatgtca
+    14761 gatgttcatt gaatttggtt aaatggcttg gaatccaagc tatcatgtta atttacttcc
+    14821 catgtgcaaa aaactcgcaa ttgttgcttg cttccacact gctattgccg aaaacataca
+    14881 tatgatattg atatttagag gtgtactctg tttctaatgt ttgatttcca tttcaaacta
+    14941 ctctgtttta ttttgtttgg gctggacaca tatgtgagtg aacattaaaa gcattcacag
+    15001 gcgcacatat gattgaatta gttgagaatg ttagacaatc atattaatca atcatattta
+    15061 atatgattga attatgttga gaatgttaga caatcattta atatgattga attgattgag
+    15121 aatccaagca atcaatgttc aatctctatc tctatctcat aattgcatta aattctttcc
+    15181 aagttacgac aaagcagtgt ttgtgagtat caaggtctgc tctgcaacaa gaaccacatc
+    15241 gggtcaactg tggttttggt ccggtacata cgaaggctga ggcacacttt caacatgagc
+    15301 tggctttttg ggttccgaaa ttcgttcttg cgaagcttca gtaaccaaaa aatacaaatc
+    15361 tatattctct gtttttggtt gaagtacatt gtttactata gtaggagatc tttcaaactc
+    15421 tggttttaaa taaagctaac ctgcgctcac attttagttc tgatttgtcc gaatccttac
+    15481 gctaagattt agttcctatg agcaaaccgt attgatattt ttccaacatt acattattaa
+    15541 gattcaaaaa cataatacaa cttgaaaaca catgagagag atgatcacac agcattgatg
+    15601 atttataaaa aacaagacca tagatccaag taaaaggact tgttagaaga ttagatgcat
+    15661 tgatcagtcc atgaaaagta tcagttgtgt ctgcaagcaa tgtagctggc aagagccacc
+    15721 aaaggcgccg ccttacttgg atcaaaccct agaagctgtt cctctgcttc tctcctcagt
+    15781 ttctctgcaa cttccctgga tccctccaaa cctatcagcc ttggatacgt cagctttccg
+    15841 gccattacgt cttttccggc tgtcttaccc aattcctcag tagattttgt tacgtcgaga
+    15901 atgtcatcaa caacctgaaa cagtagtcca atacacctag catactttct aagcttttcg
+    15961 atttcttgct ctgttccacc tcccattata acccctaaaa ctgccgctgc ctccaacaat
+    16021 gccgccgttt tgtggagatg gatgaactct agatgctcca atccaacctt gtctggattc
+    16081 aatctttcgc tggctaggtc tatcatttgt ccagcaacta gccctgtagt ccctatggcc
+    16141 ctggccagct caaccacggc gcgaatcatc ttctcgggag cgaccaaccc actcgacaca
+    16201 accgtcatgt gctcaaacgc caatgcaagg agtgcatcac ccgccaaaac cgccatgtct
+    16261 tctccatata ccttgtttga gcaaaagttg gttcaacact agttcagcat tatctctgag
+    16321 ccttcatata attaaacaac ataccttgtg attggtgggc ttgcctctac ggaggtcggc
+    16381 attgtccatg cacggaagat cgtcatgaat gagagagctt gtgtggatca tctcgaccgc
+    16441 gcaagcggct gacatggcag tagcctcgtc gccccccaca agctcacaag cggcaatgca
+    16501 gagcagaggc ctcacacgtt ttccgcccgc tagcaaagag tacctgaccg cttcttggat
+    16561 agtaaggggt ttcagaagcg gtacggaaac gtcgagagcc gcatttacag actcggcttt
+    16621 gcggatcata tacaacttga aatcaaaagc agagttgtta tcgttgcttt ttccctctgg
+    16681 ttgaatcatg tgccctgcgt cttgtgaggt gagggcagaa gagagagata aaacggtgcg
+    16741 ttttcggaga ctcttgacgg aagatatgga gttgtctctt cttcctctgg attggctgaa
+    16801 gagggaggat gagctgagat gaacagtagt agccatggcc gatccaagag taattgtgtt
+    16861 tgccaattaa tagcatgtgg agctcttaat aggtttattg gatttggaaa tagtatgaat
+    16921 taaaaaatgc attatcttcc aacaaagtag tatgaattac gggatgaata aacaaggtta
+    16981 taatatttaa atgcaatatg gttataagtt ttacgatcct tacttcctta gccatgagat
+    17041 tttgaacttt ataaaaaata cgacatggtt ataagcgcac aacatgtggt aatcaaattt
+    17101 tccaaatttt aatattgttt taaaatttgg ttaaactact ctgtttgaac tttgaaccaa
+    17161 gaaaaaagaa agataaagta ctctgttttg gttaaactat gtttgtatcg aagaactcga
+    17221 ttttatgttt gatttctatt tcgaaagcag tctctttgca ctctattttt cgttaatctc
+    17281 gaaagaaaac tcgttctcaa gtttcagttc cactcacctg aatcccacat atgtcattga
+    17341 cgaggctgaa acattaatga atgtatctta tcttcgactt ggtttcaata cacataggaa
+    17401 aatacttaca actttgataa gtcttcaaag aggaattggt agtatgaatt acggaatgaa
+    17461 taaagaaggt tagaatacaa catggttata agttttacga gtttaccttt gttcagtcct
+    17521 ttagtccatg actcatgaga ttgtgaacta taaaatatgc aacatggcta taatgtggca
+    17581 atcaatactt gcgaattttg atactgtcta aaatattttc ctatagaata ttaataaact
+    17641 aaatttaatt ggaaaagtga ttacattcaa aatctattag ttttgattaa acgataaatt
+    17701 atgtggtgaa tttgctatac aactaaattg gtgaataaaa cttgcagaaa agacatggtg
+    17761 acatttttgg tttcaggaag tcacaaaaca accattcttg ctactctcat aagaattttt
+    17821 ttttttgtag aaattatctg ccttggcgta acagtgaata aacagagaac ccaaaaggct
+    17881 acacaacatc accaaatagg aaaaacggag tcagaaaatt tcttcttaag agattattaa
+    17941 aaaagaaaaa agaagaagaa gcaagggtta acttagaatt ggtgtgtgta gttcgacgtc
+    18001 attatgaaag gggtattggg tggacgtaca aggaggtcat aaagtgttcg attttgcctt
+    18061 tgggctcact gtatccatca ccctctgtgt atatcacatc gaagaggcgt gcaaagttta
+    18121 ggcatcgcag cagaacctgg cgcggtacac ggtcatgtga gttcatgaac tcctccacaa
+    18181 ccactttttt gttgtatatg tacattttac gcaactcacg ggatgcttct tccttggtga
+    18241 ctccatattg tttcatgtaa cagttgagcc cattagccac ctctcctctg tttatctcgg
+    18301 tctacaaata tcatttgttc atgaaagact aaaagaagag gaaaacagaa accactagaa
+    18361 aaccaatgag atctctaaga tttgcggtgt acctcgtagg ttcctacgtc atttgctata
+    18421 cggaacagta cattcagagc gtcgatgagt aggggattgg aattgagcca ctcaaaagct
+    18481 tccttctcat tgatatcttc cattcctata aagcaatatc ctgcataatc acccatccca
+    18541 gctgtcacca atccaacctt catgtactca tcaaaggttg gtacgtggcc tttccgtgcc
+    18601 cactctgtca actgtttgta cgccttcgca atgatcttga actgatgttt ggaatcaaag
+    18661 aactaattag agtccactaa ctatacatgt acattggtta gtttcatgtt cagcttatac
+    18721 attacccttt ccaacacttg tttcacgctg tatgatcttc ctttcggtga catttcttgt
+    18781 tcaatctctc ccataacttc aaacacactt tcgaggacga ttctcaaata gcctgatagt
+    18841 ttatcatcgg caccaatatt caacctggtc atgccaagat ttttcacacg cttgaataaa
+    18901 ttttaaagat atgaataaac acacacacac atatatatag cacctctgaa aatattccgt
+    18961 aagaaccgta gcttcgggta tagttgcatg tgcatcatat gtgtcatccg caacaacgat
+    19021 tatcatgatg gtcttagcca ctatgatcct cccaagagaa tactgtggct cgaagtacgg
+    19081 tcccagaccc ccgagatggc tctctacaga tctatcccta atgtaaggta gtttagatgc
+    19141 aagatctaag tccttccacc atctgcaacc ataaaaagaa aatcaattgg gagatcgaga
+    19201 ccaatgttat gaacaaggtt gaagatgaga atgtcacttg gtgagagttt tgatttcttg
+    19261 gatgtaatga cactggcaaa agttgaagtt aagttttgca aactttagca ggatctcgtt
+    19321 gtaaccttct tcttgttcgt agtaagatat atattctctt gctactagta cttctatgtt
+    19381 acagtatcga ggtatgtaca atgagttttg tatatgcttc aagatgtggg gacttgcact
+    19441 ggatacgtta ccacttgtca aagactccaa gtgattccgc gtaaacctca atgcttcatc
+    19501 cattatatct tcagagagtg ttcctagatg cgcgacttcg aacaactgta gcattcctct
+    19561 aacatcttta gctagactct ctttaaacct cccatctcca cctctgaatc tatcaaaggc
+    19621 atctacaata ataataataa agaaaaccgt atatccacta taagtaatta aacatggttc
+    19681 atcaatgtat ttatgtgaat aaaggaaact gatattttta ccacaagaca tcttatgacc
+    19741 gtatagccta aagacctcaa acataatgga gattgtttcc aaatcatctt cctcaactat
+    19801 tatgccatcc aactttgtga aactgtgttt aaggatatct tgaatctcct tatcaaaatg
+    19861 ataagagctc ccgaggctaa cgagcaaatg gatgagacga atcttctcct tgtcgctgct
+    19921 ttgagaagac atgagcatgt ctttcaccag cggcttcata gtttcaatct ctctttctag
+    19981 ttcaacaaat tcctagaaaa tgaatacaaa ttggctagtc agtaaccatg ttttctgcaa
+    20041 catgattctt gaaaaaaggc tcatatgaat acacttacag cgtggtcgag ggaaacagag
+    20101 agaaagtgat ctccccaaag agaaggagaa aagtacgtcg aaggacgact agtctcaaga
+    20161 tcatcactac tcttagtaga ccttacacat accaagtggt gtatctttac cggtttcagg
+    20221 gaaagattgt gcttgtcaag caaacgctga ggaatgagag agaggttggg cgtgagagag
+    20281 agaggaacgc taagaccacc aaaacccatt cttgttgctt ccatgttgtt actgtaaaaa
+    20341 ggataaagac gaaaaactat ttagagaaac tctgttctta atgtttgcgc tgatgcttca
+    20401 aactttcaaa tggctgattt gaataaaaca aaataaagta actacgaatc gtaattagtg
+    20461 gttttttttt ttttttttta tggttggaca catattgcga gggaaaatgt cagacgaaga
+    20521 tttagtttga tttagtggga aaatccaagc tattattaaa ttctgtaatg tttgggttgg
+    20581 gcacattagt gaacattaaa agcattcatt agacaaatca tttaatatga ctgaattatg
+    20641 ttgagaatgt tagacaatca tttaatatga ttgaattaat tgagaatcca agcaatcaat
+    20701 gttcaatctc tatctctgac tggcattaag ttcgttccaa gttacgatac agcagtgttt
+    20761 gtgaatatca tggtctgcat tcaacaagaa ccacatcggg tcaactgtgg tttttgtctg
+    20821 gaattcgttc ttgctgctgc ttcaataaca aaaattcaga tctttatact ctgttttggg
+    20881 tgaagaaaac ccataagcta aacttgcgct cacgttttag ttctgatcat ctgaatcctt
+    20941 acgctacgat ttagttccta tgagcaaatc ttattgatat ttttcgaaca ttacattatt
+    21001 aagattcaaa aacataatac aacttgaaaa caaatgagag agatgatcac acggcataga
+    21061 tgatttataa gaaacaagac catagatcta agtaaaagga cttgttagga gattgatgca
+    21121 ttgaggatat gatcagtcca ttcagttgtg tctgcaagcg atgtagctag caagagccac
+    21181 cagaggcgcc gccttacttg gatcaaaccc tagaagttgt tcctctgctt ctctcctcag
+    21241 tttctctgca acttcctttg atctctccaa acctatcagc cttggatacg tcagctttcc
+    21301 agccattacg tcttttcctg cagtctttcc caattcctca gtagattttg ttacgtcgag
+    21361 aatgtcatca accacctgaa acagtagtcc aatacaccta gcatactttc taagcttttc
+    21421 gatctcttcc tctgttccac ctcccattat aacccctaaa accgccgctg cctccaacaa
+    21481 tgccgccgtt ttgtggagat ggatgaactc tagatgctcc aatccaacct tgtctggatt
+    21541 cagtctttcg ctggctaggt ctatcatttg tccagcaact agccctgtag tccctatggc
+    21601 cctggccagc tcaaccaccg cgcgaatcat cctctcggga gcgaccaacc cactcgacac
+    21661 aaacgtcatg tgctcaaacg ccaatgcaag gagtgcatca cctgccaaaa ccgccatgtc
+    21721 ttctccatat accttgtttg agcaaaaatt ggtccaacac gagtgaatat ttactaaaat
+    21781 caatgaacga ttcaaatcta gtgagcattt ctttgagcct ttatatgatt taacaacata
+    21841 ccttgtggtt ggtgggcttg cctctgcgga ggtcggcatt gtccatgcac ggaagatcgt
+    21901 catgaataag agagcttgtg tggatcatct caaccgcgca agcagctgac atggcagtag
+    21961 cctcgtcgcc tcccacaagc tcgcagacgg caatgcagag cagaggcctc acacgttttc
+    22021 cgcccgctag caatgagtac cgcacggctt cctggacagt gaggggttct cggagcggta
+    22081 cagaaacgtc gagagccgca tttacagatt cggctttgcg gatcatatac aacttgaaat
+    22141 caaaagcaga gttgtgatca ttgcattttc cctctggtgg aatcatgtct ctgccacctt
+    22201 gtgaggtgag ggcagaagag ggagacaaac ctgtgcgttt tttgagactc ttgacggaag
+    22261 atatggagtt gtctcttctt cctctggatt ggatgaagag ggagaatgag ctgagatgaa
+    22321 cagtagtagc catggcctat ccaccgtctc taatagaact ttataaatgt ggagctctta
+    22381 ataggttttt ctttcttctt aataggtttc ttgtagttgg aagcaatgag ggtcaacatc
+    22441 ttcagcttca ctgttatttt gaattgtaat ttctgcaaac aatatagtat gaatattttt
+    22501 caattatggg atgaaaaagt aaacaatcta tgtacatact ttaacaaagt aagaagttta
+    22561 aaataatgat tagaataatt gaatgcaaat cagatttcgt ttaagtagtg ataggaggaa
+    22621 attctaataa aaagattgac atcacaagta gagaaaatca agtaccccaa tttgtgaagt
+    22681 ccgatcctag aacataatga ttgtcttaac gtttatgcca cttgatcaga gtaagtgaaa
+    22741 tacagagaat taattaagta cttacagttc ataatcgatt tgttctagga gaatatgtaa
+    22801 gtgaattttg aactaacaag ttacacgcca tgctcatctt cacaattctg cagttcatag
+    22861 aagttagatc aatgcagcca aagcagatgt tgtgacaaac acacactact gagagcacag
+    22921 agctttggat gaaacttttt tcctaaagca tacatcttat taaaccaacg aagcgcctcc
+    22981 tcatgctctc cactgctgac aaacacagat actataacgg tacagttgat attgtcctta
+    23041 tttagctaac actaagaaca actccacaaa tttagagagg actccttttc ctagaaaatc
+    23101 catttggtta tatttgccaa ggaaaccaca tctttcttct aaaaaaggtt cataagcttc
+    23161 aaatatttgg tcatgctcag actctagagg aaatggaaga aacgaaccca aaaatcttcc
+    23221 cacaggcttt aaacatgaca gcaaaagtgc ttcaattaac taaaacctca acttgtctca
+    23281 attatcagaa aacaaaccaa acccatctct gaaacaagct tcaatcatat atatagcagt
+    23341 tcatgcaacc atatttttct cagggctcct ctctggcttc aacaaaaaag ttcccatcaa
+    23401 acagcaagct aatacgatct cagaattctc ttctaccaca ccctgaaaaa aagatgctaa
+    23461 tagcctcgtt taatttgatt attttcaaat aaccacttat ctaggcgttc gaagaaacca
+    23521 taaatattcc cccttttacc taacgctaag tcacgttttt ctcaggcata gaagcgaaca
+    23581 ccacgtagta gtcttcctcc gacatcgaac tataacaagt ttagttgtgg ttctctcagg
+    23641 catttcatcg aacactttgt ctgctttgat catcttacca tttttcatac atcgcagcac
+    23701 aagtaattat atttcaaaac gacatacacc tgaaagattc ttccagattt gatattccag
+    23761 aggaaacgcc acaagtataa acccatgtgg ttgaaatcgc ccgcatgagt tgattccacg
+    23821 gaaaggcggg aaaatatcga gggtttctat cagcgcaaac gcaagcccgt cgtat
+//

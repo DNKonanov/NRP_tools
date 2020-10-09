@@ -101,7 +101,7 @@ sub treescanner{
 	}
 	$head = length($head);
 	$tail = length($tail);
-	substr($s, -1, $tail) = '';
+	subst(r$s, -1, $tail) = '';
 	substr($s, 0, $head) = '';
 	$s =~ s/-//g;
 	## Compile all seqs

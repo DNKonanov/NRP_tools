@@ -38,7 +38,7 @@ gen_ex_adomains_file('adom.faa', args.genome)
 
 
 print('Substrates predictions...')
-call('./predictnrps.sh {adomains} .'.format(adomains='adom.ex.faa'), shell=True)
+call('./predictnrps_asm.sh {adomains} .'.format(adomains='adom.ex.faa'), shell=True)
 
 
 clusters, cluster_positions  = find_biosynthesis_clusters('ind.res.tsv', eps=100000, min_samples=1)

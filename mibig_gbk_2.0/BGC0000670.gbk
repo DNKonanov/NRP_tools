@@ -1,0 +1,1390 @@
+LOCUS       BGC0000670             32802 bp    DNA     linear   CON 14-FEB-2019
+DEFINITION  Arabidopsis thaliana chromosome 5 sequence.
+ACCESSION   BGC0000670
+VERSION     BGC0000670.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+COMMENT     REVIEWED REFSEQ: This record has been curated by TAIR and Araport.
+            The reference sequence is identical to CP002688.
+            On Jun 19, 2009 this sequence version replaced NC_003076.7.
+            ##antiSMASH-Data-START##
+            Version      :: 5.0.0-0e6921f
+            Run date     :: 2019-10-16 01:32:32
+            NOTE: This is a single cluster extracted from a larger record!
+            Orig. start  :: 19428887
+            Orig. end    :: 19461689
+            ##antiSMASH-Data-END##
+FEATURES             Location/Qualifiers
+     subregion       1..32802
+                     /aStool="mibig"
+                     /contig_edge="False"
+                     /label="Terpene"
+                     /subregion_number="1"
+                     /tool="antismash"
+     region          1..32802
+                     /contig_edge="False"
+                     /product="unknown"
+                     /region_number="1"
+                     /subregion_numbers="1"
+                     /tool="antismash"
+     mRNA            1..1630
+                     /db_xref="GeneID:834849"
+                     /db_xref="TAIR:AT5G47980"
+                     /db_xref="Araport:AT5G47980"
+                     /gene_synonym="MDN11.1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:AU235283.1,INSD:AV552191.1,INSD:AV543790.1,
+                     INSD:AU225944.1"
+                     /inference="similar to RNA sequence,
+                     mRNA:INSD:BX832455.1,INSD:BT005830.1,INSD:AK227304.1"
+                     /locus_tag="AT5G47980"
+                     /product="HXXXD-type acyl-transferase family protein"
+                     /transcript_id="NM_124172.3"
+     gene            1..1630
+                     /db_xref="Araport:AT5G47980"
+                     /db_xref="GeneID:834849"
+                     /db_xref="TAIR:AT5G47980"
+                     /gene_synonym="MDN11.1"
+                     /locus_tag="AT5G47980"
+     CDS             83..1414
+                     /codon_start=1
+                     /db_xref="GeneID:834849"
+                     /db_xref="TAIR:AT5G47980"
+                     /db_xref="Araport:AT5G47980"
+                     /gene_synonym="MDN11.1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:AU235283.1,INSD:AV552191.1,INSD:AV543790.1,
+                     INSD:AU225944.1"
+                     /inference="similar to RNA sequence,
+                     mRNA:INSD:BX832455.1,INSD:BT005830.1,INSD:AK227304.1"
+                     /locus_tag="AT5G47980"
+                     /note="HXXXD-type acyl-transferase family protein;
+                     FUNCTIONS IN: transferase activity, transferring acyl
+                     groups other than amino-acyl groups, transferase activity,
+                     acyltransferase activity; LOCATED IN: cellular_component
+                     unknown; EXPRESSED IN: root; CONTAINS InterPro DOMAIN/s:
+                     Transferase (InterPro:IPR003480); BEST Arabidopsis thaliana
+                     protein match is: HXXXD-type acyl-transferase family
+                     protein (TAIR:AT4G15400.1); Has 1807 Blast hits to 1807
+                     proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa
+                     - 736; Fungi - 347; Plants - 385; Viruses - 0; Other
+                     Eukaryotes - 339 (source: NCBI BLink)."
+                     /product="HXXXD-type acyl-transferase family protein"
+                     /protein_id="NP_199609.1"
+                     /transl_table=1
+                     /translation="MELNLEVIQREVIKPSSPAPHDRLQLSVIDFGIAEACVPMIFFYN
+                     LADLAEKSPDIVSTRLRSSLSQALSRFYPLAGKKEGVSISCNDEGAVFTEARTNLLLSE
+                     FLRNIDINSLKILIPTLAPGESLDSRPLLSVQATFFGSGSGLAVGICVSHCICDAASVS
+                     TFVRGWAATARGDSNDELSTPQFAEVAIHPPADISIHGSPFNALSEVREKCVTNRFVFE
+                     SDKITKLKIVAASKSVPSPTRVEAVMSLIWRCARNASHANLIVPRATMMTQSMDLRLRI
+                     PTNVLSPDAIGNLQGVFFLKRGPGSEIEISEVVAEFRKEKEEFNEMIKENVNGGHTNTT
+                     LGQKIMSGIANYMSELKPNIDTYTMSSWCRKAFYEVDFGWGRPAWVGLGHQDIQDGVMY
+                     VLLVDAKDGEGVEVWVGIPEQDMAAFVCDQELLSYASLNPPVLI"
+     ncRNA           3111..4005
+                     /db_xref="GeneID:28720859"
+                     /db_xref="Araport:AT5G07035"
+                     /locus_tag="AT5G07035"
+                     /ncRNA_class="lncRNA"
+                     /product="other RNA"
+                     /transcript_id="NR_142971.1"
+     gene            3111..4005
+                     /db_xref="Araport:AT5G07035"
+                     /db_xref="GeneID:28720859"
+                     /locus_tag="AT5G07035"
+     mRNA            join(5871..6860,6943..7862)
+                     /db_xref="GeneID:834850"
+                     /db_xref="TAIR:AT5G47990"
+                     /db_xref="Araport:AT5G47990"
+                     /gene="CYP705A5"
+                     /gene_synonym="cytochrome P450; family 705; MDN11.4;
+                     MDN11_4; polypeptide 5; subfamily A; THAD; THAD1;
+                     THALIAN-DIOL DESATURASE"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:N97058.1,INSD:BP867301.1,INSD:BP807545.1,
+                     INSD:AV538685.1,INSD:BP808834.1,INSD:BP574814.1,
+                     INSD:T04417.1,INSD:BP603311.1,INSD:BP664312.1,
+                     INSD:BP579897.1,INSD:BP622958.1,INSD:AV538898.1,
+                     INSD:BP568707.1,INSD:BP798760.1,INSD:BP574308.1,
+                     INSD:BP583477.1,INSD:BP603702.1,INSD:BP607068.1,
+                     INSD:BP600411.1,INSD:BP565469.1,INSD:T43499.1,
+                     INSD:BP582488.1,INSD:BP575126.1,INSD:BP601201.1,
+                     INSD:BP583125.1,INSD:AV550991.1,INSD:BP598825.1,
+                     INSD:EG514576.1,INSD:BP567799.1,INSD:BP582015.1,
+                     INSD:BP567789.1,INSD:BP616525.1,INSD:BP618551.1,
+                     INSD:BP576701.1,INSD:BP806567.1,INSD:BP623097.1,
+                     INSD:BP801870.1,INSD:BP579547.1,INSD:EH800259.1,
+                     INSD:BP806982.1,INSD:AV551284.1,INSD:AU226259.1,
+                     INSD:T45789.1,INSD:AV551169.1,INSD:BP852448.1,
+                     INSD:BP611256.1,INSD:T04613.1,INSD:BP608690.1,
+                     INSD:BP567551.1,INSD:BP566248.1,INSD:EG528090.1,
+                     INSD:BP570197.1,INSD:BP577565.1,INSD:EG528091.1,
+                     INSD:BP567378.1,INSD:BP582246.1,INSD:BP607028.1,
+                     INSD:BP868524.1,INSD:BP803596.1,INSD:BP636571.1,
+                     INSD:EG514720.1,INSD:BP564569.1,INSD:BP565080.1,
+                     INSD:BP801818.1,INSD:BP614162.1,INSD:BP859336.1,
+                     INSD:BP619690.1,INSD:BP621221.1,INSD:EL090983.1"
+                     /locus_tag="AT5G47990"
+                     /product="cytochrome P450, family 705, subfamily A,
+                     polypeptide 5"
+                     /transcript_id="NM_124173.3"
+     gene            5871..7862
+                     /db_xref="Araport:AT5G47990"
+                     /db_xref="GeneID:834850"
+                     /db_xref="TAIR:AT5G47990"
+                     /gene="CYP705A5"
+                     /gene_synonym="cytochrome P450; family 705; MDN11.4;
+                     MDN11_4; polypeptide 5; subfamily A; THAD; THAD1;
+                     THALIAN-DIOL DESATURASE"
+                     /locus_tag="AT5G47990"
+                     /note="Encodes an endomembrane system-expressed member of
+                     the CYP705A family of cytochrome P450 enzymes. It appears
+                     to catalyze the addition of a double bond to thalian-diol
+                     at carbon 15. Reduced levels of THAD expression lead to a
+                     build up of thalian-diol in root extracts. thad1-1 mutants
+                     also have longer roots than wild type seedlings and show
+                     altered gravitropic responses."
+     CDS             join(5940..6860,6943..7557)
+                     /codon_start=1
+                     /db_xref="GeneID:834850"
+                     /db_xref="TAIR:AT5G47990"
+                     /db_xref="Araport:AT5G47990"
+                     /gene="CYP705A5"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1034:cytochrome P450 (Score: 249.1; E-value: 1.5e-75)"
+                     /gene_kind="biosynthetic-additional"
+                     /gene_synonym="cytochrome P450; family 705; MDN11.4;
+                     MDN11_4; polypeptide 5; subfamily A; THAD; THAD1;
+                     THALIAN-DIOL DESATURASE"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:N97058.1,INSD:BP867301.1,INSD:BP807545.1,
+                     INSD:AV538685.1,INSD:BP808834.1,INSD:BP574814.1,
+                     INSD:T04417.1,INSD:BP603311.1,INSD:BP664312.1,
+                     INSD:BP579897.1,INSD:BP622958.1,INSD:AV538898.1,
+                     INSD:BP568707.1,INSD:BP798760.1,INSD:BP574308.1,
+                     INSD:BP583477.1,INSD:BP603702.1,INSD:BP607068.1,
+                     INSD:BP600411.1,INSD:BP565469.1,INSD:T43499.1,
+                     INSD:BP582488.1,INSD:BP575126.1,INSD:BP601201.1,
+                     INSD:BP583125.1,INSD:AV550991.1,INSD:BP598825.1,
+                     INSD:EG514576.1,INSD:BP567799.1,INSD:BP582015.1,
+                     INSD:BP567789.1,INSD:BP616525.1,INSD:BP618551.1,
+                     INSD:BP576701.1,INSD:BP806567.1,INSD:BP623097.1,
+                     INSD:BP801870.1,INSD:BP579547.1,INSD:EH800259.1,
+                     INSD:BP806982.1,INSD:AV551284.1,INSD:AU226259.1,
+                     INSD:T45789.1,INSD:AV551169.1,INSD:BP852448.1,
+                     INSD:BP611256.1,INSD:T04613.1,INSD:BP608690.1,
+                     INSD:BP567551.1,INSD:BP566248.1,INSD:EG528090.1,
+                     INSD:BP570197.1,INSD:BP577565.1,INSD:EG528091.1,
+                     INSD:BP567378.1,INSD:BP582246.1,INSD:BP607028.1,
+                     INSD:BP868524.1,INSD:BP803596.1,INSD:BP636571.1,
+                     INSD:EG514720.1,INSD:BP564569.1,INSD:BP565080.1,
+                     INSD:BP801818.1,INSD:BP614162.1,INSD:BP859336.1,
+                     INSD:BP619690.1,INSD:BP621221.1,INSD:EL090983.1"
+                     /locus_tag="AT5G47990"
+                     /note="''cytochrome P450, family 705, subfamily A,
+                     polypeptide 5'' (CYP705A5); FUNCTIONS IN: oxygen binding,
+                     thalian-diol desaturase activity; INVOLVED IN: thalianol
+                     metabolic process, root development; LOCATED IN:
+                     endoplasmic reticulum; EXPRESSED IN: hypocotyl, root,
+                     callus; CONTAINS InterPro DOMAIN/s: Cytochrome P450
+                     (InterPro:IPR001128), Cytochrome P450, conserved site
+                     (InterPro:IPR017972), Cytochrome P450, E-class, group I
+                     (InterPro:IPR002401); BEST Arabidopsis thaliana protein
+                     match is: cytochrome P450, family 705, subfamily A,
+                     polypeptide 32 (TAIR:AT3G20950.1); Has 1807 Blast hits to
+                     1807 proteins in 277 species: Archae - 0; Bacteria - 0;
+                     Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0;
+                     Other Eukaryotes - 339 (source: NCBI BLink)."
+                     /product="cytochrome P450, family 705, subfamily A,
+                     polypeptide 5"
+                     /protein_id="NP_199610.1"
+                     /transl_table=1
+                     /translation="MASMITVDFENCFIFLLLCLFSRLSYDLFFRKTKDSRAGCALPPS
+                     PPSLPIIGHLHLILFVPIHQSFKNISSKYGPLLHLRFFNFPIVLVSSASTAYEIFKAQD
+                     VNVSSRPPPPIEESLILGSSSFINTPYGDYSKFMKKFMVQKLLGPQALQRSRNIRADEL
+                     ERFYKTLLDKAMKKQTVEIRNEAMKLTNNTICKMIMGRSCSEENGEAETVRGLVTESIF
+                     LTKKHFLGAMFHKPLKKLGISLFAKELMNVSNRFDELLEKILVEHEEKLQEHHQTSDML
+                     DMLLEAYGDENAEYKITRDQIKSLFVDLFSAGTEASANTIQWTMAEIIKNPKICERLRE
+                     EIDSVVGKTRLVQETDLPNLPYLQAIVKEGLRLHPPGPVVRTFKETCEIKGFYIPEKTR
+                     LFVNVYAIMRDPDFWEDPEEFKPERFLASSRLGEEDEKREDMLKYIPFGSGRRACPGSH
+                     LAYTVVGSVIGMMVQHFDWIIKGEKINMKEGGTMTLTMAHPLKCTPVPRNLNT"
+     mRNA            complement(join(15216..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18121,18204..18483))
+                     /db_xref="GeneID:834851"
+                     /db_xref="TAIR:AT5G48000"
+                     /db_xref="Araport:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:EG470677.1,INSD:AV540804.1,INSD:AI993171.1,
+                     INSD:BP624254.1,INSD:T13661.1,INSD:EG470689.1,
+                     INSD:EG470679.1,INSD:BP622711.1,INSD:AV553800.1,
+                     INSD:AA713328.1,INSD:DR262795.1,INSD:R90011.1,
+                     INSD:BP853579.1,INSD:EL322187.1,INSD:EG470690.1,
+                     INSD:T45729.1,INSD:EH987236.1,INSD:AV540176.1,
+                     INSD:BP564375.1,INSD:EL056583.1,INSD:AV541544.1,
+                     INSD:BP565179.1,INSD:AV825238.1"
+                     /inference="similar to RNA sequence,
+                     mRNA:INSD:AY136329.1,INSD:BT000124.1"
+                     /locus_tag="AT5G48000"
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /transcript_id="NM_001344755.1"
+     mRNA            complement(join(15216..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18117,18200..18483))
+                     /db_xref="GeneID:834851"
+                     /db_xref="TAIR:AT5G48000"
+                     /db_xref="Araport:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:EG470677.1,INSD:R90011.1,INSD:AV540804.1,
+                     INSD:AI993171.1,INSD:BP801462.1,INSD:BP624254.1,
+                     INSD:EL322187.1,INSD:T13661.1,INSD:EG470690.1,
+                     INSD:EG470689.1,INSD:AV540176.1,INSD:T45729.1,
+                     INSD:EG470679.1,INSD:BP564375.1,INSD:AV541544.1,
+                     INSD:EL056583.1,INSD:BP565179.1,INSD:AV553800.1,
+                     INSD:BP622711.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:BT000124.1"
+                     /locus_tag="AT5G48000"
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /transcript_id="NM_001085263.2"
+     gene            complement(15216..18979)
+                     /db_xref="Araport:AT5G48000"
+                     /db_xref="GeneID:834851"
+                     /db_xref="TAIR:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /locus_tag="AT5G48000"
+                     /note="Encodes a member of the CYP708A family of cytochrome
+                     P450 enzymes. THAH appears to add a hydroxyl group to the
+                     triterpene thalianol. thah1 mutants have an elevated
+                     accumulation of thalianol. thah1-1 mutants have longer
+                     roots than wild type plants. Thalian-diol and desaturated
+                     thalian-diol are lost from the root extracts of thah1-1
+                     mutants. Overexpression of the sequence from At5g48000.1
+                     rescues the thah1-1 mutant phenotype (Field 2008); it is
+                     unknown whether the shorter sequences associated with other
+                     gene models would provide functional complementation."
+     mRNA            complement(join(15251..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18121,18235..18262))
+                     /db_xref="GeneID:834851"
+                     /db_xref="Araport:AT5G48000"
+                     /db_xref="TAIR:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /locus_tag="AT5G48000"
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /transcript_id="NM_124174.3"
+     mRNA            complement(join(15251..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18159,18242..18387))
+                     /db_xref="GeneID:834851"
+                     /db_xref="TAIR:AT5G48000"
+                     /db_xref="Araport:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:DR262795.1,INSD:EG470677.1,INSD:R90011.1,
+                     INSD:AV540804.1,INSD:AI993171.1,INSD:BP624254.1,
+                     INSD:EL322187.1,INSD:T13661.1,INSD:EG470690.1,
+                     INSD:EG470689.1,INSD:AV540176.1,INSD:EH987236.1,
+                     INSD:T45729.1,INSD:EG470679.1,INSD:BP564375.1,
+                     INSD:AV541544.1,INSD:EL056583.1,INSD:BP565179.1,
+                     INSD:AV553800.1,INSD:BP622711.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:BT000124.1"
+                     /locus_tag="AT5G48000"
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /transcript_id="NM_001036953.1"
+     mRNA            complement(join(15251..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18117,18204..18393))
+                     /db_xref="GeneID:834851"
+                     /db_xref="TAIR:AT5G48000"
+                     /db_xref="Araport:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:DR262795.1,INSD:BP855971.1,INSD:EG470677.1,
+                     INSD:R90011.1,INSD:AV540804.1,INSD:AI993171.1,
+                     INSD:BP624254.1,INSD:EL322187.1,INSD:T13661.1,
+                     INSD:BP868864.1,INSD:EG470690.1,INSD:EG470689.1,
+                     INSD:AV540176.1,INSD:EH987236.1,INSD:T45729.1,
+                     INSD:EG470679.1,INSD:BP564375.1,INSD:AV541544.1,
+                     INSD:EL056583.1,INSD:BP565179.1,INSD:AV553800.1,
+                     INSD:BP622711.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:BT000124.1"
+                     /locus_tag="AT5G48000"
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /transcript_id="NM_180822.2"
+     mRNA            complement(join(15251..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18493))
+                     /db_xref="GeneID:834851"
+                     /db_xref="Araport:AT5G48000"
+                     /db_xref="TAIR:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /locus_tag="AT5G48000"
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /transcript_id="NM_001344756.1"
+     mRNA            complement(join(15251..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18121,18819..18979))
+                     /db_xref="GeneID:834851"
+                     /db_xref="TAIR:AT5G48000"
+                     /db_xref="Araport:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:EG470677.1,INSD:R90011.1,INSD:AV540804.1,
+                     INSD:AI993171.1,INSD:BP624254.1,INSD:EL322187.1,
+                     INSD:T13661.1,INSD:EG470690.1,INSD:EG470689.1,
+                     INSD:AV540176.1,INSD:T45729.1,INSD:H76703.1,
+                     INSD:EG470679.1,INSD:BP564375.1,INSD:AV541544.1,
+                     INSD:AI994293.1,INSD:EL056583.1,INSD:BP565179.1,
+                     INSD:AV553800.1,INSD:BP622711.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:BT000124.1"
+                     /locus_tag="AT5G48000"
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /transcript_id="NM_180821.3"
+     CDS             complement(join(15426..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18083))
+                     /codon_start=1
+                     /db_xref="GeneID:834851"
+                     /db_xref="TAIR:AT5G48000"
+                     /db_xref="Araport:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1034:cytochrome P450 (Score: 192; E-value: 3.1e-58)"
+                     /gene_kind="biosynthetic-additional"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:EG470677.1,INSD:AV540804.1,INSD:AI993171.1,
+                     INSD:BP624254.1,INSD:T13661.1,INSD:EG470689.1,
+                     INSD:EG470679.1,INSD:BP622711.1,INSD:AV553800.1,
+                     INSD:AA713328.1,INSD:DR262795.1,INSD:R90011.1,
+                     INSD:BP853579.1,INSD:EL322187.1,INSD:EG470690.1,
+                     INSD:T45729.1,INSD:EH987236.1,INSD:AV540176.1,
+                     INSD:BP564375.1,INSD:EL056583.1,INSD:AV541544.1,
+                     INSD:BP565179.1,INSD:AV825238.1"
+                     /inference="similar to RNA sequence,
+                     mRNA:INSD:AY136329.1,INSD:BT000124.1"
+                     /locus_tag="AT5G48000_NP_001032030.1"
+                     /note="''cytochrome P450, family 708, subfamily A,
+                     polypeptide 2'' (CYP708A2); FUNCTIONS IN: thalianol
+                     hydroxylase activity, oxygen binding; INVOLVED IN:
+                     thalianol metabolic process, root development; LOCATED IN:
+                     endoplasmic reticulum; EXPRESSED IN: hypocotyl, root,
+                     callus; CONTAINS InterPro DOMAIN/s: Cytochrome P450
+                     (InterPro:IPR001128), Cytochrome P450, E-class, group IV
+                     (InterPro:IPR002403), Cytochrome P450, conserved site
+                     (InterPro:IPR017972); BEST Arabidopsis thaliana protein
+                     match is: cytochrome P450, family 708, subfamily A,
+                     polypeptide 3 (TAIR:AT1G78490.1); Has 28669 Blast hits to
+                     28599 proteins in 1593 species: Archae - 49; Bacteria -
+                     4977; Metazoa - 10233; Fungi - 5005; Plants - 7168; Viruses
+                     - 6; Other Eukaryotes - 1231 (source: NCBI BLink)."
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /protein_id="NP_001032030.1"
+                     /transl_table=1
+                     /translation="MSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPII
+                     GETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSF
+                     VFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRS
+                     KANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLI
+                     SIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFA
+                     ILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTF
+                     TNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEF
+                     NPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFI
+                     RAPLPYFPKGLPIKISQSL"
+     CDS             complement(join(15426..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18083))
+                     /codon_start=1
+                     /db_xref="GeneID:834851"
+                     /db_xref="Araport:AT5G48000"
+                     /db_xref="TAIR:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1034:cytochrome P450 (Score: 192; E-value: 3.1e-58)"
+                     /gene_kind="biosynthetic-additional"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /locus_tag="AT5G48000_NP_199611.2"
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /protein_id="NP_199611.2"
+                     /transl_table=1
+                     /translation="MSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPII
+                     GETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSF
+                     VFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRS
+                     KANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLI
+                     SIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFA
+                     ILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTF
+                     TNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEF
+                     NPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFI
+                     RAPLPYFPKGLPIKISQSL"
+     CDS             complement(join(15426..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18083))
+                     /codon_start=1
+                     /db_xref="GeneID:834851"
+                     /db_xref="TAIR:AT5G48000"
+                     /db_xref="Araport:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1034:cytochrome P450 (Score: 192; E-value: 3.1e-58)"
+                     /gene_kind="biosynthetic-additional"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:DR262795.1,INSD:BP855971.1,INSD:EG470677.1,
+                     INSD:R90011.1,INSD:AV540804.1,INSD:AI993171.1,
+                     INSD:BP624254.1,INSD:EL322187.1,INSD:T13661.1,
+                     INSD:BP868864.1,INSD:EG470690.1,INSD:EG470689.1,
+                     INSD:AV540176.1,INSD:EH987236.1,INSD:T45729.1,
+                     INSD:EG470679.1,INSD:BP564375.1,INSD:AV541544.1,
+                     INSD:EL056583.1,INSD:BP565179.1,INSD:AV553800.1,
+                     INSD:BP622711.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:BT000124.1"
+                     /locus_tag="AT5G48000_NP_851153.1"
+                     /note="''cytochrome P450, family 708, subfamily A,
+                     polypeptide 2'' (CYP708A2); FUNCTIONS IN: thalianol
+                     hydroxylase activity, oxygen binding; INVOLVED IN:
+                     thalianol metabolic process, root development; LOCATED IN:
+                     endoplasmic reticulum; EXPRESSED IN: hypocotyl, root,
+                     callus; CONTAINS InterPro DOMAIN/s: Cytochrome P450
+                     (InterPro:IPR001128), Cytochrome P450, E-class, group IV
+                     (InterPro:IPR002403), Cytochrome P450, conserved site
+                     (InterPro:IPR017972); BEST Arabidopsis thaliana protein
+                     match is: cytochrome P450, family 708, subfamily A,
+                     polypeptide 3 (TAIR:AT1G78490.1); Has 28655 Blast hits to
+                     28585 proteins in 1591 species: Archae - 49; Bacteria -
+                     4965; Metazoa - 10231; Fungi - 5005; Plants - 7168; Viruses
+                     - 6; Other Eukaryotes - 1231 (source: NCBI BLink)."
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /protein_id="NP_851153.1"
+                     /transl_table=1
+                     /translation="MSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPII
+                     GETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSF
+                     VFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRS
+                     KANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLI
+                     SIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFA
+                     ILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTF
+                     TNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEF
+                     NPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFI
+                     RAPLPYFPKGLPIKISQSL"
+     CDS             complement(join(15426..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18083))
+                     /codon_start=1
+                     /db_xref="GeneID:834851"
+                     /db_xref="TAIR:AT5G48000"
+                     /db_xref="Araport:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1034:cytochrome P450 (Score: 192; E-value: 3.1e-58)"
+                     /gene_kind="biosynthetic-additional"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:DR262795.1,INSD:EG470677.1,INSD:R90011.1,
+                     INSD:AV540804.1,INSD:AI993171.1,INSD:BP624254.1,
+                     INSD:EL322187.1,INSD:T13661.1,INSD:EG470690.1,
+                     INSD:EG470689.1,INSD:AV540176.1,INSD:EH987236.1,
+                     INSD:T45729.1,INSD:EG470679.1,INSD:BP564375.1,
+                     INSD:AV541544.1,INSD:EL056583.1,INSD:BP565179.1,
+                     INSD:AV553800.1,INSD:BP622711.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:BT000124.1"
+                     /locus_tag="AT5G48000_NP_001078732.1"
+                     /note="''cytochrome P450, family 708, subfamily A,
+                     polypeptide 2'' (CYP708A2); CONTAINS InterPro DOMAIN/s:
+                     Cytochrome P450 (InterPro:IPR001128), Cytochrome P450,
+                     E-class, group IV (InterPro:IPR002403), Cytochrome P450,
+                     conserved site (InterPro:IPR017972); BEST Arabidopsis
+                     thaliana protein match is: cytochrome P450, family 708,
+                     subfamily A, polypeptide 3 (TAIR:AT1G78490.1); Has 28655
+                     Blast hits to 28585 proteins in 1591 species: Archae - 49;
+                     Bacteria - 4965; Metazoa - 10231; Fungi - 5005; Plants -
+                     7168; Viruses - 6; Other Eukaryotes - 1231 (source: NCBI
+                     BLink)."
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /protein_id="NP_001078732.1"
+                     /transl_table=1
+                     /translation="MSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPII
+                     GETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSF
+                     VFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRS
+                     KANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLI
+                     SIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFA
+                     ILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTF
+                     TNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEF
+                     NPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFI
+                     RAPLPYFPKGLPIKISQSL"
+     CDS             complement(join(15426..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18083))
+                     /codon_start=1
+                     /db_xref="GeneID:834851"
+                     /db_xref="Araport:AT5G48000"
+                     /db_xref="TAIR:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1034:cytochrome P450 (Score: 192; E-value: 3.1e-58)"
+                     /gene_kind="biosynthetic-additional"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /locus_tag="AT5G48000_NP_001330320.1"
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /protein_id="NP_001330320.1"
+                     /transl_table=1
+                     /translation="MSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPII
+                     GETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSF
+                     VFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRS
+                     KANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLI
+                     SIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFA
+                     ILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTF
+                     TNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEF
+                     NPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFI
+                     RAPLPYFPKGLPIKISQSL"
+     CDS             complement(join(15426..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18083))
+                     /codon_start=1
+                     /db_xref="GeneID:834851"
+                     /db_xref="TAIR:AT5G48000"
+                     /db_xref="Araport:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1034:cytochrome P450 (Score: 192; E-value: 3.1e-58)"
+                     /gene_kind="biosynthetic-additional"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:EG470677.1,INSD:R90011.1,INSD:AV540804.1,
+                     INSD:AI993171.1,INSD:BP801462.1,INSD:BP624254.1,
+                     INSD:EL322187.1,INSD:T13661.1,INSD:EG470690.1,
+                     INSD:EG470689.1,INSD:AV540176.1,INSD:T45729.1,
+                     INSD:EG470679.1,INSD:BP564375.1,INSD:AV541544.1,
+                     INSD:EL056583.1,INSD:BP565179.1,INSD:AV553800.1,
+                     INSD:BP622711.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:BT000124.1"
+                     /locus_tag="AT5G48000_NP_001318756.1"
+                     /note="''cytochrome P450, family 708, subfamily A,
+                     polypeptide 2'' (CYP708A2); FUNCTIONS IN: thalianol
+                     hydroxylase activity, oxygen binding; INVOLVED IN:
+                     thalianol metabolic process, root development; LOCATED IN:
+                     endoplasmic reticulum; EXPRESSED IN: hypocotyl, root,
+                     callus; CONTAINS InterPro DOMAIN/s: Cytochrome P450
+                     (InterPro:IPR001128), Cytochrome P450, E-class, group IV
+                     (InterPro:IPR002403), Cytochrome P450, conserved site
+                     (InterPro:IPR017972); BEST Arabidopsis thaliana protein
+                     match is: cytochrome P450, family 708, subfamily A,
+                     polypeptide 3 (TAIR:AT1G78490.1); Has 28655 Blast hits to
+                     28585 proteins in 1591 species: Archae - 49; Bacteria -
+                     4965; Metazoa - 10231; Fungi - 5005; Plants - 7168; Viruses
+                     - 6; Other Eukaryotes - 1231 (source: NCBI BLink)."
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /protein_id="NP_001318756.1"
+                     /transl_table=1
+                     /translation="MSFVWSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPII
+                     GETCDFFEPHGLYEISPFVKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSF
+                     VFSYPEAFVKPFGKENVFLKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRS
+                     KANQGSFDAKEAVESVIMAHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLI
+                     SIYKVFIARRYALQVIKDVFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFA
+                     ILVVAKESTSSVTSLAIKFLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTF
+                     TNMVINETLRMANMAPIMYRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEF
+                     NPWRWEGKELRSGSKTFMVFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFI
+                     RAPLPYFPKGLPIKISQSL"
+     CDS             complement(join(15426..15644,15719..15825,15964..16042,
+                     16681..16773,16883..17131,17223..17375,17470..17794,
+                     17875..18121,18819..18903))
+                     /codon_start=1
+                     /db_xref="GeneID:834851"
+                     /db_xref="TAIR:AT5G48000"
+                     /db_xref="Araport:AT5G48000"
+                     /gene="CYP708A2"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1034:cytochrome P450 (Score: 191.6; E-value: 4.1e-58)"
+                     /gene_kind="biosynthetic-additional"
+                     /gene_synonym="''cytochrome P450; CYP708 A2; cytochrome
+                     P450; CYTOCHROME P450; family 708; FAMILY 708; MDN11.7;
+                     MDN11_7; polypeptide 2; POLYPEPTIDE 2; polypeptide 2'';
+                     subfamily A; SUBFAMILY A; THAH; THAH1; THALIANOL
+                     HYDROXYLASE; THALIANOL HYDROXYLASE 1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:EG470677.1,INSD:R90011.1,INSD:AV540804.1,
+                     INSD:AI993171.1,INSD:BP624254.1,INSD:EL322187.1,
+                     INSD:T13661.1,INSD:EG470690.1,INSD:EG470689.1,
+                     INSD:AV540176.1,INSD:T45729.1,INSD:H76703.1,
+                     INSD:EG470679.1,INSD:BP564375.1,INSD:AV541544.1,
+                     INSD:AI994293.1,INSD:EL056583.1,INSD:BP565179.1,
+                     INSD:AV553800.1,INSD:BP622711.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:BT000124.1"
+                     /locus_tag="AT5G48000"
+                     /note="''cytochrome P450, family 708, subfamily A,
+                     polypeptide 2'' (CYP708A2); FUNCTIONS IN: thalianol
+                     hydroxylase activity, oxygen binding; INVOLVED IN:
+                     thalianol metabolic process, root development; LOCATED IN:
+                     endoplasmic reticulum; EXPRESSED IN: hypocotyl, root,
+                     callus; CONTAINS InterPro DOMAIN/s: Cytochrome P450
+                     (InterPro:IPR001128), Cytochrome P450, E-class, group IV
+                     (InterPro:IPR002403), Cytochrome P450, conserved site
+                     (InterPro:IPR017972); BEST Arabidopsis thaliana protein
+                     match is: cytochrome P450, family 708, subfamily A,
+                     polypeptide 3 (TAIR:AT1G78490.1); Has 28765 Blast hits to
+                     28695 proteins in 1599 species: Archae - 49; Bacteria -
+                     5026; Metazoa - 10250; Fungi - 5008; Plants - 7191; Viruses
+                     - 6; Other Eukaryotes - 1235 (source: NCBI BLink)."
+                     /product="cytochrome P450, family 708, subfamily A,
+                     polypeptide 2"
+                     /protein_id="NP_851152.1"
+                     /transl_table=1
+                     /translation="MDRRGKYWAGPMWIGLSMCGSGSDTILECRLRLFKLQRQNQMSFV
+                     WSAAVWVIAVAAVVISKWLYRWSNPKCNGKLPPGSMGLPIIGETCDFFEPHGLYEISPF
+                     VKKRMLKYGPLFRTNIFGSNTVVLTEPDIIFEVFRQENKSFVFSYPEAFVKPFGKENVF
+                     LKHGNIHKHVKQISLQHLGSEALKKKMIGEIDRVTYEHLRSKANQGSFDAKEAVESVIM
+                     AHLTPKIISNLKPETQATLVDNIMALGSEWFQSPLKLTTLISIYKVFIARRYALQVIKD
+                     VFTRRKASREMCGDFLDTMVEEGEKEDVIFNEESAINLIFAILVVAKESTSSVTSLAIK
+                     FLAENHKALAELKREHAAILQNRNGKGAGVSWEEYRHQMTFTNMVINETLRMANMAPIM
+                     YRKAVNDVEIKGYTIPAGWIVAVIPPAVHFNDAIYENPLEFNPWRWEGKELRSGSKTFM
+                     VFGGGVRQCVGAEFARLQISIFIHHLVTTYDFSLAQESEFIRAPLPYFPKGLPIKISQS
+                     L"
+     mRNA            join(28073..28317,28411..28596,28735..28824,28906..29106,
+                     29225..29309,29428..29594,30141..30332,30425..30538,
+                     30644..30898,30987..31085,31491..31547,31740..32249,
+                     32535..32802)
+                     /db_xref="GeneID:834852"
+                     /db_xref="TAIR:AT5G48010"
+                     /db_xref="Araport:AT5G48010"
+                     /gene="THAS1"
+                     /gene_synonym="Arabidopsis thaliana thalianol synthase 1;
+                     AtTHAS1; MDN11.9; MDN11_9; THALIANOL SYNTHASE; thalianol
+                     synthase 1; THAS"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:BP574295.1,INSD:AV554387.1,INSD:BP566108.1,
+                     INSD:BP799369.1,INSD:BP788012.1,INSD:BP573676.1,
+                     INSD:AU226451.1,INSD:BP567642.1,INSD:BP567303.1,
+                     INSD:BP565966.1,INSD:BP567095.1,INSD:BP584086.1,
+                     INSD:BP778278.1,INSD:BP799362.1,INSD:AU235702.1,
+                     INSD:BP855132.1,INSD:BP574960.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:AY327541.1"
+                     /locus_tag="AT5G48010"
+                     /product="thalianol synthase 1"
+                     /transcript_id="NM_124175.4"
+     CDS             join(28114..28317,28411..28596,28735..28824,28906..29106,
+                     29225..29309,29428..29594,30141..30332,30425..30538,
+                     30644..30898,30987..31085,31491..31547,31740..32249,
+                     32535..32651)
+                     /codon_start=1
+                     /db_xref="GeneID:834852"
+                     /db_xref="TAIR:AT5G48010"
+                     /db_xref="Araport:AT5G48010"
+                     /gene="THAS1"
+                     /gene_synonym="Arabidopsis thaliana thalianol synthase 1;
+                     AtTHAS1; MDN11.9; MDN11_9; THALIANOL SYNTHASE; thalianol
+                     synthase 1; THAS"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:BP574295.1,INSD:AV554387.1,INSD:BP566108.1,
+                     INSD:BP799369.1,INSD:BP788012.1,INSD:BP573676.1,
+                     INSD:AU226451.1,INSD:BP567642.1,INSD:BP567303.1,
+                     INSD:BP565966.1,INSD:BP567095.1,INSD:BP584086.1,
+                     INSD:BP778278.1,INSD:BP799362.1,INSD:AU235702.1,
+                     INSD:BP855132.1,INSD:BP574960.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:AY327541.1"
+                     /locus_tag="AT5G48010_NP_199612.3"
+                     /note="thalianol synthase 1 (THAS1); CONTAINS InterPro
+                     DOMAIN/s: Terpene synthase, conserved site
+                     (InterPro:IPR002365), Terpenoid cylases/protein
+                     prenyltransferase alpha-alpha toroid (InterPro:IPR008930),
+                     Squalene cyclase (InterPro:IPR018333),
+                     Prenyltransferase/squalene oxidase (InterPro:IPR001330);
+                     BEST Arabidopsis thaliana protein match is: baruol synthase
+                     1 (TAIR:AT4G15370.1); Has 35333 Blast hits to 34131
+                     proteins in 2444 species: Archae - 798; Bacteria - 22429;
+                     Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0;
+                     Other Eukaryotes - 9610 (source: NCBI BLink)."
+                     /product="thalianol synthase 1"
+                     /protein_id="NP_199612.3"
+                     /transl_table=1
+                     /translation="MWRLRTGPKAGEDTHLFTTNNYAGRQIWEFDANAGSPQEIAEVED
+                     ARHKFSDNTSRFKTTADLLWRMQFLREKKFEQKIPRVIIEDARKIKYEDAKTALKRGLL
+                     YFTALQADDGHWPAENSGPNFYTPPFLICLYITGHLEKIFTPEHVKELLRHIYNMQNED
+                     GGWGLHVESHSVMFCTVINYVCLRIVGEEVGHDDQRNGCAKAHKWIMDHGGATYTPLIG
+                     KALLSVLGVYDWSGCNPIPPEFWLLPSSFPVNGGTLWIYLRDTFMGLSYLYGKKFVAPP
+                     TPLILQLREELYPEPYAKINWTQTRNRCGKEDLYYPRSFLQDLFWKSVHMFSESILDRW
+                     PLNKLIRQRALQSTMALIHYHDESTRYITGGCLPKAFHMLACWIEDPKSDYFKKHLARV
+                     REYIWIGEDGLKIQSFGSQLWDTALSLHALLDGIDDHDVDDEIKTTLVKGYDYLKKSQI
+                     TENPRGDHFKMFRHKTKGGWTFSDQDQGWPVSDCTAESLECCLFFESMPSELIGKKMDV
+                     EKLYDAVDYLLYLQSDNGGIAAWQPVEGKAWLELLNIMIFRYVECTGSAIAALTQFNKQ
+                     FPGYKNVEVKRFITKAAKYIEDMQTVDGSWYGNWGVCFIYGTFFAVRGLVAAGKTYSNC
+                     EAIRKAVRFLLDTQNPEGGWGESFLSCPSKKYTPLKGNSTNVVQTAQALMVLIMGDQME
+                     RDPLPVHRAAQVLINSQLDNGDFPQQEIMGTFMRTVMLHFPTYRNTFSLWALTHYTHAL
+                     RRLLP"
+     CDS             join(28114..28317,28411..28596,28735..28824,28906..29106,
+                     29225..29309,29428..29594,30141..30332,30425..30538,
+                     30644..30898,30987..31085,31491..31547,31625..31671,
+                     31763..32249,32535..32651)
+                     /codon_start=1
+                     /db_xref="GeneID:834852"
+                     /db_xref="TAIR:AT5G48010"
+                     /db_xref="Araport:AT5G48010"
+                     /gene="THAS1"
+                     /gene_synonym="Arabidopsis thaliana thalianol synthase 1;
+                     AtTHAS1; MDN11.9; MDN11_9; THALIANOL SYNTHASE; thalianol
+                     synthase 1; THAS"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:BP574295.1,INSD:AV554387.1,INSD:BP566108.1,
+                     INSD:BP799369.1,INSD:BP788012.1,INSD:BP573676.1,
+                     INSD:AU226451.1,INSD:BP567642.1,INSD:BP567303.1,
+                     INSD:BP565966.1,INSD:BP567095.1,INSD:BP584086.1,
+                     INSD:BP778278.1,INSD:BP799362.1,INSD:AU235702.1,
+                     INSD:BP855132.1,INSD:BP574960.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:AK227776.1"
+                     /locus_tag="AT5G48010"
+                     /note="thalianol synthase 1 (THAS1); CONTAINS InterPro
+                     DOMAIN/s: Terpene synthase, conserved site
+                     (InterPro:IPR002365), Squalene cyclase
+                     (InterPro:IPR018333), Terpenoid cylases/protein
+                     prenyltransferase alpha-alpha toroid (InterPro:IPR008930),
+                     Prenyltransferase/squalene oxidase (InterPro:IPR001330);
+                     BEST Arabidopsis thaliana protein match is: baruol synthase
+                     1 (TAIR:AT4G15370.1); Has 1966 Blast hits to 1917 proteins
+                     in 564 species: Archae - 4; Bacteria - 840; Metazoa - 80;
+                     Fungi - 239; Plants - 603; Viruses - 0; Other Eukaryotes -
+                     200 (source: NCBI BLink)."
+                     /product="thalianol synthase 1"
+                     /protein_id="NP_001078733.1"
+                     /transl_table=1
+                     /translation="MWRLRTGPKAGEDTHLFTTNNYAGRQIWEFDANAGSPQEIAEVED
+                     ARHKFSDNTSRFKTTADLLWRMQFLREKKFEQKIPRVIIEDARKIKYEDAKTALKRGLL
+                     YFTALQADDGHWPAENSGPNFYTPPFLICLYITGHLEKIFTPEHVKELLRHIYNMQNED
+                     GGWGLHVESHSVMFCTVINYVCLRIVGEEVGHDDQRNGCAKAHKWIMDHGGATYTPLIG
+                     KALLSVLGVYDWSGCNPIPPEFWLLPSSFPVNGGTLWIYLRDTFMGLSYLYGKKFVAPP
+                     TPLILQLREELYPEPYAKINWTQTRNRCGKEDLYYPRSFLQDLFWKSVHMFSESILDRW
+                     PLNKLIRQRALQSTMALIHYHDESTRYITGGCLPKAFHMLACWIEDPKSDYFKKHLARV
+                     REYIWIGEDGLKIQSFGSQLWDTALSLHALLDGIDDHDVDDEIKTTLVKGYDYLKKSQI
+                     TENPRGDHFKMFRHKTKGGWTFSDQDQGWPVSDCTAESLECCLFFESMPSELIGKKMDV
+                     EKLYDAVDYLLYLQSDNGGIAAWQPVEGKAWLEWLSPVEFLEDTIVEYEYVECTGSAIA
+                     ALTQFNKQFPGYKNVEVKRFITKAAKYIEDMQTVDGSWYGNWGVCFIYGTFFAVRGLVA
+                     AGKTYSNCEAIRKAVRFLLDTQNPEGGWGESFLSCPSKKYTPLKGNSTNVVQTAQALMV
+                     LIMGDQMERDPLPVHRAAQVLINSQLDNGDFPQQEIMGTFMRTVMLHFPTYRNTFSLWA
+                     LTHYTHALRRLLP"
+ORIGIN
+        1 acatttgtat cttcaagctt aaccaatatc acgtgtctaa aattttctgc tcttgtttca
+       61 ctaaaacgtt gacttttaga taatggaact caatctagag gtgatccaaa gagaagtgat
+      121 caaaccttca tcacctgcac ctcatgatcg ccttcaacta tcagtcatcg attttggcat
+      181 tgcagaagct tgcgtgccca tgatcttctt ctacaacctc gcggatcttg cggaaaagtc
+      241 cccggatatt gtctcaacaa ggctgagaag ctctctatcc caggcgctgt cacgtttcta
+      301 tcctctcgct ggaaaaaaag aaggtgtctc catcagctgt aacgacgaag gagctgtgtt
+      361 cacagaggca cgcacaaatc tcctcttgtc tgagttccta agaaacatcg atatcaactc
+      421 tctaaagatt ttgattccga cactcgcacc aggagaatct ctggattctc ggccgttgct
+      481 gagtgtccag gctactttct tcgggtcggg atcaggtctt gctgttggga tctgcgtctc
+      541 tcactgtatc tgtgacgcag cctcagtgtc tacgtttgtc cgaggctggg ctgcaacagc
+      601 cagaggggat tctaatgatg agttgagtac tcctcaattt gcagaggtgg ccatccatcc
+      661 tccagctgat atctctattc atggctcacc tttcaatgcc ttgtccgagg ttagagaaaa
+      721 atgtgtcaca aatcggtttg tgtttgaatc agataagatc acaaagctca aaatcgtggc
+      781 cgccagcaag agtgtgccgt cccctacacg tgtggaagcc gtcatgtcac ttatatggcg
+      841 atgtgccaga aatgcctcac acgctaactt gatcgtccca agggccacaa tgatgactca
+      901 atccatggac ttgcggctta gaattcctac taatgttttg tcacctgacg cgattggaaa
+      961 cttacaaggg gtattctttc tcaaaagagg cccagggagc gagatagaaa tcagtgaagt
+     1021 cgtggctgag tttaggaagg agaaagaaga gttcaatgag atgataaaag aaaatgttaa
+     1081 tggcggccat actaacacta cacttggtca gaaaatcatg agtggtattg caaattacat
+     1141 gtcggagttg aagcccaaca tagatacgta caccatgtct agttggtgca gaaaggcttt
+     1201 ttatgaggtc gatttcggat ggggtcgtcc agcttgggtt ggactcggcc atcaagatat
+     1261 ccaggatggt gtgatgtatg tcctgttggt ggatgctaag gatggtgaag gtgttgaagt
+     1321 atgggtaggc atacctgaac aagacatggc agcttttgtc tgtgaccaag aattgctttc
+     1381 ttatgcatct ttaaatcccc cagtcctgat ctaagcacgt accatgatat acatcaagat
+     1441 tgtccaaact ttgtcatgca tgaattgatt gttatcgcac attgctgctc tatgtttctt
+     1501 tgaatattta cttttgcatt tcgttatgtt tgcttttatc aaccaaggag gtcactcctt
+     1561 tttcatattc gtttactatt tactctctta aatttatggt gtttatcttc tttttttttt
+     1621 tttttttaat gcaatctagt tgtatactct tatttacaga tatctacgta cgcacaaggt
+     1681 aattattcta ctacacaatg cgtttgttgt gagataggga aaaaaaaaaa ccccctacta
+     1741 aaatagatgt ttttcaatca caaatttagc aaacatgatc aaaaacaaat aaagaacttg
+     1801 cacaaaaaag ttcagaaatc tgaatgtaga ccacaacact aagaaaaaca attgatgaac
+     1861 tatcaaaaat agctattttt gcaaatcacc cattttacat tcatgctaaa aaaaaaaaga
+     1921 acatggaaga atctgaaggc agattagttc agattctaaa aatactatgg gggtctagtc
+     1981 ctaaatacta tggtagatat atatatcact ttataatgca tcaagggata cattcaaacc
+     2041 tgagaaactt cacaaaaccc aacccgttca aaaacttgtt agtcatttgc caaatcaaca
+     2101 gccatgcatt ttaagaaaca atgattacgt ggaaactata ggcactaata tggagtatca
+     2161 acatgcacaa catgtttact cgttggttag agatgaataa aggtgatcaa gaagctcgaa
+     2221 atctgacata ccttcaattt ccaacgaaat ttgtatggaa caaaagttca cagaattgga
+     2281 aagacgtaaa attggtacat cactaggaag aataaataat atatatccct catctggtga
+     2341 gttatattat cttcgaatgt taatcaatta taaaaaaaga ccaacaagtt atgaagatag
+     2401 tcttattata gatggtataa ctcataaatc tttcaaagat gcatctgttg caatgggtct
+     2461 attagtagga gatgaagagt ggcatgaggc gatgaaagaa gcctctcttt gggctacaaa
+     2521 aaatcagttg cgtcaattat ttgccatatt attagctaac tctgaagtta caaatccttt
+     2581 acaattatgg aattcacatt ggaaagatct gagcgaagac atgcctttcg agcataggaa
+     2641 gttaactaat ttaaatgatg aggaaatgca gtgttatagt gtaatggagt tcgagtcatt
+     2701 tttttaaaac tattatcggt catttgttga ttattccaac atgccaaact taaacagcta
+     2761 cagtttatca accaagttat ataacccaat gataaagttc gattgcatga aggaaaaaaa
+     2821 aaaaaaaaaa gagttgattt ttagagactt ttttgatgta agaagtggag aacataaacg
+     2881 atgtattcat caacataact tccttccaaa cttcccaact acggtgaact atgatattga
+     2941 gaagttggct ccaacatttg tgagagaggg acccatcgta aacatcacat cagattctta
+     3001 agcttttcat ttcttttgat atacaatttt tggttttgtt atttgtaata ataataataa
+     3061 aaataataat aaaatattat atttttggat ctctatctcg gccaccggag aattgttctg
+     3121 atttgcttcc gcaatgcaat tttgctggtt tggtacagtt tctgaaatct ctctctaagc
+     3181 atatagcttc tagatatctt tgcgtcgatg atgctgttgt gtcatttgga gttttttcgg
+     3241 actgtgagtg tgcctgtaga cagatggtga tttggttaga aaacgttcaa cagaatcttg
+     3301 aactttggtg ctcacgttgt tgactttggt gctttactta tagtaaccat ggtttggtat
+     3361 gtggtttact atggtcggat cctactggag acgtcaaagc ctggggcatg aatgattgtg
+     3421 gtgaatcata gacttttgga gctgacaaag tcgcagagtt ttttgaaaaa aatgatatgg
+     3481 accttatctg ccgtgcccac caggatttaa cttgagttat atttgtcatt gagtttattc
+     3541 tgaaaactgt tcaaccttaa ggtgagtatc ttgactatct atatttagac catcattatt
+     3601 ggtgattata ttgattttta tgttaagaat gactcttata taagagccaa aactatccct
+     3661 aagagatgga cgtgtgtcaa tttttaagtg ggtgaactat ttatcagaag aaaaaaataa
+     3721 actttcgtgt tctcttctca cttcctctca aactttttgt cgactttctc tctttctatc
+     3781 aacgagagcc gatggcgata ccatcgtcaa gtaaagtaca aagcttttcg atcttattcg
+     3841 tatcctttac cggcgaggat tgtctttttc tcttcctgaa ttacactctc tttttttaaa
+     3901 ggatccatct ttgatttggg tttcgttttt tcttttcttt tttggtttta agattcgaac
+     3961 aacattcaat agaaagaact tgttgtcacc cccatcgagt tgttttaatg tgtattaggt
+     4021 atagttaaaa tccctaatta aagtctatga gttctcctag agattcacta agtagtttgc
+     4081 tagttgagat aacttcgcaa aatcttgtct ttggttctga aaaaagtggc tgcttccaca
+     4141 tggattctat ccaagagttg taggaatctg ctaggtcttg tcgaccaact ttgctttgat
+     4201 gattcgatgg ttgtgtatcc caacaaataa gaagctttga ttttcttttg attttgctct
+     4261 ggtgcaaaac agaacaagcg attttgctgg aacaatcgtg tgaccttttt cttgtcaaac
+     4321 accacatcag cttagacgtg tgttgattgt tatccgactc atgcaatgct tgagtccgtt
+     4381 catttgctta tgttaaacgt atggaatttt aagtaatatc tttgactttc tagaatgtgt
+     4441 tcaatgtgtt tttgttgttg aagacatcaa ctctctgtct tcactatgct tcaaaattac
+     4501 atgcgttctt caacgtaatt ggatttggtg aattacatac actgtgatta tgaatctttg
+     4561 ttttgcattt gagaagttgt tgatgttgat tatgaactct ttttttttta agaaccccag
+     4621 tttaaatact accattggac attgcctaaa attttaattc ttacctaagc tcttaacttc
+     4681 aaaattttca aattcagtaa tagaaatatt gttaagagcc tttgctaata tactaccaat
+     4741 attgttaaga gcctttacat ggctttcaaa caagtagaaa ttaaaaactt attttttctt
+     4801 ctccccatga tgattaaaaa ctctctacaa ctttacatat attttttcgc aaaatcgttt
+     4861 ttgataaatg aataatatca atttttttct ttcttttaag gtctatttta caaacaacta
+     4921 ttttcttttt atcatcacca ttaatgtgtt catacacgtc attcaattat ttcattaact
+     4981 gcttcatcat taatagtact caatatacag ctactcacta aaaaaaaaaa catttcaaca
+     5041 attaaaaaac aattttttaa ttagcgatca ttttggaact aatttgtgtt tgaaacacgg
+     5101 caaaaatagt ttggataatt tgaagaagca attcaacatt tatcattata atctcaaagt
+     5161 tccacaacac ccccgccccc aaattttctt agtttatctc acttcttatt tggttattaa
+     5221 aaataaatga atgaataata catatccaat ttatttgttg agaatattta tttagtcatt
+     5281 tatttaagaa tttctatgat gttattttta ttattattaa aatttatttt tgttactatg
+     5341 ttgcaacata attcaatttt aacataattt atattcataa aaaatattaa ataataataa
+     5401 aaattgacat tcacaacttc tacagttttt agttactaat cttaactgta aaatttttgt
+     5461 aagttgaaac ctctatagcc aaaattaacc actcaaacca ataagtccca acatccacat
+     5521 tggttaattt tttatgggtg tctttagtat aaattagtaa aactgaagac atctttcttt
+     5581 tcagatgttt aaaatgtctc taaaaataca caaaactaat attaaagaca ctctttattt
+     5641 tattatcatt atttttatta gttttatatt taaaatcatc cttcaaaaat taaccaatgt
+     5701 gaatgctata acgaattata tattaaactc gattgtgctt gtcccagaga acaacttatt
+     5761 tgattatcta ttcttaaaaa gtaatgacgt cagctttcaa tatttcacgt tttttcaaag
+     5821 agaaaacata ttatatttag gtaataaaca aagcctgatc attgatcaat gcatgggatc
+     5881 tttttttgta ttataaaagg ctactctgtg tcatttgcat ctctccactt tgagcaacaa
+     5941 tggcatcaat gatcactgtt gactttgaaa actgcttcat cttcctcctc ttatgtcttt
+     6001 tctcacgcct ctcttacgat cttttcttca ggaaaacaaa agactcacga gctggctgtg
+     6061 ctcttcctcc gagccctcct tcattaccaa tcattggtca tcttcacctt atactctttg
+     6121 tcccaatcca ccagtctttc aagaacatct catctaaata tggacctctc ctccacctcc
+     6181 gcttctttaa cttccccata gtcctcgtct cctcggcctc aacggcctac gagatcttca
+     6241 aggcccaaga cgtgaatgtc tcctctcgcc ctccccctcc tatcgaggag tctctcattt
+     6301 taggatcttc cagcttcatc aacactccct atggagatta ctcgaagttc atgaagaagt
+     6361 tcatggtcca aaagctgctt ggaccacaag cactccaacg gtcccgaaat atccgtgcag
+     6421 atgagctgga acggttctac aaaaccctgc ttgataaggc gatgaagaag cagactgttg
+     6481 agattcgtaa tgaagcaatg aagctcacta acaacaccat ttgcaagatg attatgggga
+     6541 ggagttgttc agaggagaac ggtgaggctg agacagtcag aggcttggtg accgagtcga
+     6601 ttttcttgac aaagaaacat ttcttgggag ccatgtttca caaaccactt aagaagctcg
+     6661 ggatctcatt attcgcaaag gaattgatga atgtttccaa caggtttgat gagctactgg
+     6721 agaagattct tgttgaacat gaagagaaat tgcaggagca tcatcaaact agtgacatgt
+     6781 tggatatgtt gttggaagct tatggagacg aaaacgcaga gtataagatc actagagacc
+     6841 aaatcaagtc tttgttcgtg gtaaatgttc atctcattaa gtaggtggat ttgtaagcaa
+     6901 acaatattgg ttgccctgac taaaactttt ttactattgc aggatctgtt cagtgcaggc
+     6961 actgaagcct cggcgaacac tatacagtgg accatggcgg agatcattaa gaatcctaag
+     7021 atttgtgaga gactgagaga agaaattgat tctgttgtag ggaaaacaag gttggttcaa
+     7081 gagactgatc taccaaatct cccttacttg caagcaatag ttaaagaagg gctaagattg
+     7141 catcctccgg gaccagtggt aaggacgttc aaagagacat gtgaaatcaa aggattctac
+     7201 ataccggaga agacaagact ttttgttaat gtttatgcga taatgagaga tcctgatttc
+     7261 tgggaagacc ctgaggagtt taagccagag aggtttttag cttcttcaag attaggggaa
+     7321 gaggatgaga aaagagagga catgctaaaa tacattcctt tcggtagcgg aaggagagct
+     7381 tgtcctggat cacatctagc ttataccgtt gtaggaagtg taattggaat gatggtgcaa
+     7441 cactttgact ggataatcaa aggagaaaaa atcaacatga aggagggtgg aacaatgacc
+     7501 ttgaccatgg ctcaccctct taagtgcact cctgttcctc gaaacctaaa cacttaaact
+     7561 tcaagtctat agattcccaa taattcttga cgtggagatg tgaacttgct tttgttgttt
+     7621 caaataatat catgattaca catgtttcct gatttctttg ttaccttttg tttggttcag
+     7681 tttgctgtat gaaactgtat acatttctta atgttcatca tcttatgtct ctcatagtag
+     7741 tgatccaatg ttgtttatca ttacaagttg tgcttttgag ctttttgtgt tatggggcat
+     7801 aatttgtttt tctttgataa ctagtgatga accaagtttt taccacctga ttaacccaag
+     7861 atcttaccac atgactaatc tctttagtgt gagtgtagcc gtcaagtagt ttactcacca
+     7921 gcttttctaa tggttctaac gcatgacaac atttcgactg acaaacgaaa agtgattaga
+     7981 taattctaag cttgagaaat tgatctataa cctagaccta aactacaact cttccaaaaa
+     8041 tggaaattac cactataatt ctatgagttg gtaattctga agtggtagac cattagaaaa
+     8101 agagttattt ctactcataa gctttcattc acttctggat tgctgggtat tttgtattaa
+     8161 acatggttaa acgacgttta agcctttgaa tctctttgcc tcaccattct ccttagaact
+     8221 aatcctcccc atgatcatct tgtagatgtt gttgttaatg agcttcattg cttcctttcc
+     8281 attctcatca atgctctcgt tcatcatcgc tttatcaagc aggcttgtgt aagacctcac
+     8341 gaggttctta tatatgttgg agctatatga tcgaaactat ttcgttcatg aatcctccca
+     8401 cgagcctgag aaaggacagg gggccatcta gtaggaacag tcggagtgtt ttattttctc
+     8461 atgcggaatc aaataatcgt tctttgtttt ctccaaagcc atcttaagaa ataaatattt
+     8521 gtctgacccg ttgggatgtt aattttcatc caccatgaaa tagaatttct acaatttttt
+     8581 aattttatcc atagtaaggc catcctttcc gacccatctc ttataaaatc aaaattttgg
+     8641 ttttcttcta ctcaatgact tttcgcaact caataaaatc tatgagcaaa accaatcatt
+     8701 tccagatatt ctgttttaga ataagaaaac taattatgca agccctcatt tcctaaggtc
+     8761 cgataaagcc tgcatctgac tatctgttgg ttcgtattac ctctctatga taactgattt
+     8821 ccataatatt gaaattctaa cataccatta tgtcgaatta taaaattaag ggttacaaaa
+     8881 gaagctgcca atcttaagtt acctccggtt ttttcatgat ttccagtaaa ctcattaaaa
+     8941 tctccaatca ttagctatgg ttttttccga ttagaaccta gtagtattat tttttaccat
+     9001 acaatttcgc gttttgtacc aataagattg ccataaataa acgaaataaa caccatttgt
+     9061 tttctgagta atgttttaac gtcaatgacc cgatttcttt catagagaat ctctctattt
+     9121 ttatatcagt attacaaaac taaactaaac tttcactagc tttgagagga tcagctgatt
+     9181 acaaattatt attaccaaat taagactgaa atatttgcta ataagaataa catcttttag
+     9241 tttctgattt attgttcaaa aaataaaata aaaagtttct gataaaacta aaatatatga
+     9301 cttgtacgtt ttccataaat ccattatgta attttctatc atatcggccc ctactcccta
+     9361 atcaaaataa atctttctaa aaaaaagaaa aaaaaaaaaa aaatcataca ataccgttgt
+     9421 aactaacgag taacgacggc aataacctaa aacaataacc cattattcta aataaataga
+     9481 taggcatata aaaacatttt ttgctaaaca cgtaacactt tttttaattt ggttagcacc
+     9541 tacctctttt ttaatgttag ttttatttaa tcagtattga ttactgttaa atgagtcaaa
+     9601 gctcatcgaa agagaatttt tttttaaaaa ttatttctta atatcttatc atatcatatt
+     9661 ggtataagat cagtcattgc acgttataga ttataaaata caactttata ttttgaataa
+     9721 ttttcatatc gtaatcagat catattacga tcttcttata tgattccaac gttgattttc
+     9781 ccattataaa atgcaacgtg gttttttctt atagttttca atgtgatata ttataaaatg
+     9841 caaccctttt tacttattaa cagttgacac ttaacggggg gttaaatact atttgtaata
+     9901 tcaatatcaa ttatacgatt aattaacatt accgaataaa atgtcaacga aagggaaaat
+     9961 gagaaaaata tacttctatc gtttttttat aaaaattact tatatcttaa taatctgaat
+    10021 atatcttatt attatattaa ttttttttga tcattttcta aatcatcatt tcaagtgatg
+    10081 aaacaacgtg aatatttatg ggaattttgc aaaatctgtt atattttgct ttcaatctta
+    10141 taatttctgc catattctaa ctcagcttac aaaatctacc acattttatc acatgttgca
+    10201 attcgaggac gaaaatactc ttacgatggg acagagactc tgacttagat ggtgacatga
+    10261 cagcttttgg ctgatgtgat gatacatgac gaaaaatcag agtagaaaca taaaggatta
+    10321 ggagacagaa tagtggagaa cagctggctt ctactgttgt tattggatat ttaaaaatga
+    10381 cttgtttaaa caaattggtt atcgaaattc tgcgggggac aacgtaatat ataatacatt
+    10441 aggagacata attaccagct agcgggggac aacgtaatat ataatgcatt agggacatga
+    10501 ttacctgtta gcggaggaca acgtaatata taatgcatta agggacatga ttacctgtta
+    10561 gaggaggaca attggtgaca gacttttgtt tttgtcttta gatcttgtct ccgaatagaa
+    10621 attctctgtt gcgttgacat tttgtcctcg atttcattat tttgctctat tattatgaat
+    10681 cgtacctctt atatgcaatt attttcattt aagaattttg aattttattt agtattgtga
+    10741 aatatgaaga caataatgct caactaatct gtagaccaaa atatatggtg aaaaatctaa
+    10801 ataaattttg aaatccttaa atgataataa ttggtggata agatgtgaga ttcatgataa
+    10861 ttttgaaaga tgatgaaatc agggacaaga tctagataca acagataatt tatgatgaat
+    10921 aaaattggga gacaaattta attgaaagtt acatgtagag aatctgtgca ggttgtcacg
+    10981 ggaaatgata gagagacaaa aacgtttcgt tttgtcttcg agaagataat gatgtatggt
+    11041 taaagcacac atatttcaaa gaaaaagaga taaaatagag aagaaatagt aagggtaaaa
+    11101 ttgatatttc gttatgaaat atggtatgat gtgtaaggga ggtagattat ggtagattgc
+    11161 ataaagattt tagaaattat ggtaaatttt ataatttttc caatattgat agccttgaga
+    11221 tcgtaacaac tgatgacatg tattatttta ataataaatt atggttggtc atctggcgtc
+    11281 ttcaggattg aattataaat catatgcaat aatttagcat gacagattaa aaattgcaac
+    11341 gtgaatcacg tgatagattt attatcaaat ggaacgctag gtttttgtca tttccagatc
+    11401 gtcataagat catatgattg ctaaatcgaa tcgtaataac tgaactatat caattatagt
+    11461 aataaatgat gttttgtctt cgcatcttgc ctattgggaa accaaaaaca ggggatgtgg
+    11521 cgtaacactt tttttaattt ggttagcacc taccgcattt ttaatgttaa ttttatttaa
+    11581 tcagtatttg ttactgtttg agtcaaaggt catcgaaaga gattaaaaaa tatttcttaa
+    11641 tatcttgtca tatcatttag tataagatca atcatttcac gtgatagatt ataaaatgca
+    11701 atatttttga atagttttca atttcatatc gtaatcagat catattacga tctttttata
+    11761 tgatttcaat gttgattttc ccattataaa atacaacgtg attttattct tatggttttc
+    11821 aacgtgatgt attataaaat gcaacccttt ttacttgtta acagttaaca cttaacgggt
+    11881 gttttcaata ctatctgttc ataaatcacg attatacgat taaaaaaaaa agaaaagaaa
+    11941 aacgattata cgattaatat taacgtataa aatgtcaacg aaagagaaaa tgtgaaaata
+    12001 tacttatatc gttttgtttt aggtgaaata cttatatctt aataatttga atatatatct
+    12061 ttattatatt ttaatatttt tggtcaattg ttaaggaact gatggcatgt attatgtaaa
+    12121 taataaatga tggttggtca tcttgcgtat tcaggattgg attatgaatc aaaatgcaat
+    12181 aatttataaa ttgcaaattg atagattact acaaaatgaa aacgctaagt tttttttatc
+    12241 atttccagat cgtgataaga tcatatgatt gcttaatcga atcgtaataa ctgaacgata
+    12301 taaattataa taataaatga tgttttgtct tcgcatcttg cctcttggga aattaaaaaa
+    12361 acaggggagg tgacgttggt aaacttcttt aaataggtct taaaaaaatt gttaataaat
+    12421 taacaattta atcgtccaat aattcaaccg gtaaatactt tcgaactaag ttttaaaatt
+    12481 gccggttagt ataacattta ggagagtacc atatacaatt ttctttgtcc ttaatataaa
+    12541 gggatacagg ggtttacgtc cataaccttg catctctaac cagactgcaa aacattaaat
+    12601 aatagtgcta ataattttcc aatcgaactg tataaacaac accaaattat cttttagtgt
+    12661 tttgtgaaca atattacacc atattttttt agatgtaata ctgttcacaa aacactaaaa
+    12721 aaatatttta tttatgtttt tatttagtat tatatttaaa ttgtagttta ttcactaaaa
+    12781 tataaataca ctttaaaaac cattcaaaaa aagaaaatag aagttatttt agaaactttt
+    12841 aaaacttaat ataataataa gatgatgttt tttttttaag ttttctatat aatgtacata
+    12901 tatagtcatt ttaattttat aaaataagta agatagaagt gaaacagttg aaaatactat
+    12961 actctttaaa acaagattac atataaaaaa ggcccaattt tcttttaata aattaatagg
+    13021 tctaattttt taatatcatc tactaataat agcaatctca ataaatgctt tagagatttg
+    13081 catatttatc ataaagtttc ataattgtgt taagtaatat ttttaacggt ttcgaaaagt
+    13141 agaattagtg tttattcttg ggtatttttt tattttattt ttttttgtcg agaacaagtt
+    13201 tgtagtagca gaggcacgat tttttgtgcg attttttcta gtttctaaga ttgttctcct
+    13261 tttcattgtt ttgtttaaag attcttaata ccttttgcaa atctctacac aaactcaatg
+    13321 atgtgattgt tcttcttgtg tttattattg atgtgattgt tcttcttgtg tttattattt
+    13381 gattattctt catgatatag ttgaattagg ccgatttaaa tcttacccta tcatcgaatt
+    13441 cgtcaaaatg gtgttatgac tctatcatta gatggacaaa gcttcctttg ccacccaacc
+    13501 attgatggta ttatgctttg tgaattttga ttgaattaag atcttaatgc ttgttagaat
+    13561 ttcctgaaac aaacgataat ttagtattta ggaaatattt ttatagataa ttattacatg
+    13621 cgagagaagg ataattaaac ctaattaatt caaattcaat aacggatcta atgcttctct
+    13681 taattaattt ttatatattt tatattagtt tcctttgttg acaaaaaaat aaaaaaatat
+    13741 tagtttcctg atgatttcta ggctcaatgt tctctttctc tatttgcttt tatttattta
+    13801 tttaactctg tggattaaaa ctctaagtac tactgcgttt cagctgtgaa cttataattt
+    13861 atatttaggg ttaaaatatg tgctacacat actatagaag attacattta ctcattcagg
+    13921 gttgcgtgtc tttatcttta tgtttttaat tttgatggaa aatttattca atctccaaaa
+    13981 gacaacgttt taacatcaaa tgcataataa gttttaggag tagataatat tacaaaggat
+    14041 atgatttagc tttttgagag aaccacactt caaagcaatt gtctaacttc gtgtctcttt
+    14101 ttcatgatac tgttaattat tttttataac atcagctttc ttattaagca ttgactgtga
+    14161 ctcagtcata atgtaaagag tttagaatta caaaaggaac atagatatga aagacgaatt
+    14221 gagaatcatt tggtactcgt tccttggcaa gggtatccgc cgaattggaa tctcggcttg
+    14281 tccaaaggaa ttgacattcg tcaaatcttt ttctcctagc acttgttctc ttatccaggt
+    14341 gaaagcttca aagttgaatt tattcccatt ctgcaagctg tttgtgatgt ttctattttt
+    14401 catcatcact attcgtttaa atggttatga attttttttt tctctctctc cctcaacggt
+    14461 tatgtatacc taagatttta tgtcttttag ttctacttaa aagttttcct atttttacat
+    14521 aactagcact taggtattat ttctaatgaa ttttagtttt agaataaatc tcattaaaac
+    14581 attggaatat caattctccc tatcatctct ttttcttttc catttaagaa actattttta
+    14641 atgtatgttt gttagaaata gttaaggtta aatatactat agtttgtaga atagaattcc
+    14701 tgttgacaac gtaaatatag tgtatatact aaaaatataa aatatctact aataataacc
+    14761 atctcaatat atacttccaa aaattacaca tttctctttt atcatctgtc tttgaatata
+    14821 ttttatatca ataatcattt aaaaacatat tttaaaagac tacttctaat cactataact
+    14881 ctttgtttgg tacctttttc acttttcgag tctctttact ctctttagca taatcttttt
+    14941 agttatatta atattttttt ctagagacca acaatgtttt tttgttaata cctaggaacc
+    15001 gataatgttc cactacacaa ctcgtgctca ctaacatact gattcagact catgttagta
+    15061 agaaagcctg tcgcgttata aacaaaagaa cttttttgcg accatatata tatgactctg
+    15121 cattgcctca taagggattc aaacacaaat ttttttttgt tgttgttaat aattcaaaat
+    15181 gttctattgt tttatatgat aacctttgat taatcctcta atatatatat aatgttggaa
+    15241 gtttcatctt tgaatacctt atcgatatat tcatcgtaaa aatacttgta atattattat
+    15301 tattactatt attatcatct aataaagcat aatatgaaaa tagatttatt tattatttta
+    15361 gtattgcccc attgaaaata cttccccgga ttctttacta gtgacatata tgattacaca
+    15421 agatactaga gtgactggga aatcttgata ggcagtcctt tggggaagta tgggagtggt
+    15481 gcacggatga actccgattc ttgggccaat gagaaatcgt aggttgttac aagatgatga
+    15541 atgaagatag aaatttgtag tctcgcaaac tccgcgccga cacactgtct cactccacct
+    15601 ccaaacacca tgaacgtctt agatccagac cgcaactctt tcccctgtcc aaatatattc
+    15661 attaattttg agttacactt ttgtttacag gaactataga gtaagtgaaa atttatacct
+    15721 cccatctcca tggattgaac tccaaaggat tctcataaat agcatcattg aaatggacag
+    15781 ctggtggtat aaccgccaca atccagcccg ctggaattgt gtaacctgtt gaaccaatta
+    15841 taatttattt ctctataaat ctgaacagtc tttatttatt tttttggtca acgatctcaa
+    15901 ctttaaaata taatatatat agaattttga cttcgagtgc tgccatgctt gagtgatact
+    15961 tgcctttgat ttcgacatcg ttcacagcct ttctatacat tataggagcc atgtttgcca
+    16021 ttcgaagagt ctcatttatc acctgcatga gtcgtaatat ttaaaatatc gatgccttac
+    16081 ttattatact agaaaaataa gaactatata atcttaaaaa gcaaatatta tatgttttct
+    16141 aaggattgtg tcttttcacc ataattactt tctattaaaa ttataaatct caataaatgt
+    16201 ttatgaatgt tgtgtttctt tatcataatt tttttgcaaa atatatctta tagtttttat
+    16261 cgttaaaaat atttttgcaa ggttgtctcg attcattatg actctctgtt tgatattttt
+    16321 cttattaaaa tcggctcttt tactcatata tattttaaat tatgtccaca gttttaatca
+    16381 taattttgtt ttgatggttg tgtatttttt tgctaagaat tgtttttata acacttattt
+    16441 tttacactat tttctccttt attagatcat ttgaatttat tgatatccta taatttcaaa
+    16501 cgatatagta atatacatta ttttgagttt aaatttgttt ttatttattc ttagttatct
+    16561 agagattttt ggaatagaaa atcaaaatgg tagtgagtta ctagtttaat gtcaatgaga
+    16621 tggttagtaa ttgtttacaa aatttactgt tgttttcaat gtatataaat aaataattac
+    16681 catgttagtg aaagtcattt ggtgtctgta ttcttcccag ctaactccag ctcctttacc
+    16741 atttctattt tgaaggatgg ccgcatgctc cctctgccaa aattaaaata aacatatcag
+    16801 ccccgatcca tttgcttctt ttgttgttct tctttatatc aataactttt tagctttctg
+    16861 gattatatat tattattaat accttcaact ctgcgagagc tttatggttt tcggcaagaa
+    16921 atttgatggc caagctagta acggaagagg tagattcttt agcgacgacc aaaatagcga
+    16981 atatgagatt tatagcactt tcttcattaa aaatgacgtc ttctttctcc ccctcttcta
+    17041 ccattgtgtc gaggaagtct ccgcacattt ctctggacgc tttcctcctc gtgaaaacgt
+    17101 cctttatcac ctggagggcg tatctacgtg cctagatgga agccattgag agaacattat
+    17161 catgtgtagc atacagtaaa tctaaataat ataaacccat agaaactatt taaagaactc
+    17221 acaataaaga ctttgtagat agaaatcaaa gtcgtaagct tcaagggtga ctgaaaccat
+    17281 tcagatccta gggccattat attgtccaca agagttgctt gtgtttctgg tttgaggtta
+    17341 cttattatct ttggggtcaa gtgcgccatt ataacctgca cagaaacgtt aatggttgtg
+    17401 agtattgaga attagcaact agtatcaacc aataatatca aaaaagatat taagaaatta
+    17461 tgtaagtaca ctttcaactg cctccttagc atcgaagcta ccctggttag ccttcgatct
+    17521 aagatgctca taggttactc tgtctatttc tcctatcatc ttttttttta aagcctcaga
+    17581 gccaagatgt tgaagactga tttgcttgac gtgcttgtgg atgtttccat gtttgaggaa
+    17641 cacgttttct tttccaaatg gcttgacaaa agcttctgga tagctaaaca caaaagactt
+    17701 gttctcttgc cgaaaaactt cgaagatgat atcaggttct gtcaaaacca cggtgttcga
+    17761 tccgaaaata tttgtccgaa acaatggccc gtacctgaaa tattgacttt attatacaag
+    17821 gtatccattc gttatataaa aaataataaa gaaagaaaga gattgatatc tgactttaac
+    17881 atcctcttct tgacaaaggg tgagatctcg tataatccat ggggctcaaa gaagtcgcat
+    17941 gtctctccga tgatcggtaa acccattgat cccggtggta acttgccatt gcacttcggg
+    18001 ttcgaccatc ggtataacca tttgctaatc acaacagcgg ctacagctat gacccacacc
+    18061 gcagcggacc acacgaagct catttggttt tgcctttgaa gtttgaataa tcttaaccta
+    18121 cctatggatt aaatagagaa agtcattaca aacaaacaac tcaatataac aaacaaaaaa
+    18181 cattcaacga ctgcttaacc tacctttgga ttaaatagag aaagtcatac ttacaaataa
+    18241 ctttatacta gaccttctta agtttttttt cacctcaact tagacctagt ttttgtattt
+    18301 acctcaaatt atacctagtt tttggttttt tttttttccg aatatcaagt acacttctct
+    18361 tataacctat acatttcttg gttaatatat ttcttcagga tagtgttact caatatatat
+    18421 tagttctaca atatattcta tgaagaaaag ttgtgtctca caagaatttg acacatagca
+    18481 ccccactttt gacaaatcat tattcaaatg acaaataatt aaagttttaa aacttggtaa
+    18541 gtactggaac ctcttgctag ttgttacctc ttcattttca aaatgtttta taaattaatt
+    18601 gtctgatgac ctttttcatg atactatata gtttcaatat aaaatagttt catgaagaag
+    18661 gttgtaaaca ccttttgtaa ttgcaaaaag aaaaaaaaaa aaacagaaga taatatatgt
+    18721 tttttgcaga gtgcagacac gccaatatac ttatttacgt taacatgtat agtatacttc
+    18781 gaaaaaaaaa aaagagagat tttaggttag aagctcacac tctaatatgg tatcagagcc
+    18841 cgatccgcac atactcaacc cgatccacat cggtccggcc caatacttgc cccgtcgatc
+    18901 catgcccaaa catatcgaga tcaatggcta gaagagccat catctcgagg gggcgtatta
+    18961 gggacaatgt cccacatcgg aagttgagta ggatcttaag tggtatatat aagatatgag
+    19021 tctctccacc tattgccaat tgattttagg ttggaacccc acactctaat acttatgtgt
+    19081 caaacacaca attattatca tcatttttta tttttcattt aattaattct actattcaac
+    19141 ttgccaagca cttttaattc atatactatt tattcttatt aagtaaactt accaaactta
+    19201 aatatctcga agttttaaat aagaaaactt ctatataatg ttttttattt attaaatcca
+    19261 atgtgtttcc aattgaaaat taaacaatat atacaaacat ataacatatg catttcaaca
+    19321 tccataaatt cgtttatata ttatagacat tttacagtaa aaccgtaaac ttatgtctaa
+    19381 atttatgaat gacataaatg caattttgtt tgtatatata aatcattaaa atatttgaaa
+    19441 tttaatttaa aagtttattt ttatactaaa aggttgcgta attgcagaat actatatata
+    19501 tgtacgattt tttttaaaaa aagaaaaaaa aaacatgtag atgtacaaga atataattga
+    19561 tttgtaaaaa aagcaattgg tgatttagtt gacaaaagat gattctttta tagagaaatt
+    19621 tttgtctaaa tttgttagaa aatgtttttt agtgttctac taatattaga gtttttattc
+    19681 taaacttttg tgcatgttcc acgatattta gactagtttt tctttctaac aaatttagaa
+    19741 aactggataa caaatttcca tgtattctac actttcttta attttctcat ttttgtgtga
+    19801 aaatgtaatt tacggttatc tatatgttct aaaaacacta aaaaatgttt tctactttta
+    19861 gaattcattt tctaaaagaa tttagatttt agattctaaa aagtttagaa ttcctagata
+    19921 caaaaagtgt atttttgaaa aagtaatatt gtaaatatta cgtttaaata gtatattgtt
+    19981 tgttaagctt acgttgaatt ggtatattgt tagccacgaa acacttcacc ggcggaaaga
+    20041 gatgagtgtt ttattgttca agtttcagat aatgagattg aaaaaagcaa aaacaggttt
+    20101 taattaaggc cttaagggtg taggagaaga ctccatttca actagagaat ttgaaaacca
+    20161 taaatttatc tgaattattg taaataaatt aggaaatatt gtttttgtta aaatttctgt
+    20221 taaataaatt caaaatcctg ttaattaaat tttcgacaaa aagaggtaac attgggggtt
+    20281 ttatttttaa aaaccctatt tcaccaaatt ttgtagataa atgtgtatat agacattatc
+    20341 cattgaaata tcctttattt ccgttccctg gattatttgg attccatttc tagatgcttt
+    20401 agaaaagaaa aaacatgtag ccagacccct aatgatttgt atatctaccg gatctataaa
+    20461 cttttgtaaa atgggtaggt gccattcttt agatactaga ttaattaagt agttaactat
+    20521 cagatttaga tggagaaatt ttcctattcc gtttgctgga agtggataat atctagagtc
+    20581 catggatcta gccataacaa aagattgacc cccaaaccta gagaccatct cgctcccatt
+    20641 tcattagttt tttctttgtc gaaaaaatac tctccatcaa acgatggaga gttgtgtttt
+    20701 tatttttttc ttgtaaatga tgaatattcc taaaatattt atgttttagc acttagctac
+    20761 taaagagttt ggaaaaatgt attaaacgcc aatactgaca tcattaaatt tatcttggta
+    20821 atgagatcct aaatctcttt ttccttatcc ttacacagtt tctcctatga tagtatgata
+    20881 cctagaagga ttccacgatc tcgcccattg aaacttcacc aataatttga aatagcactt
+    20941 gttaacttac atgttaactt ttgagaaagt ttaaagcaag acatgctata ggttggaagg
+    21001 gcaaaagcaa ctgttttgat cattgtctat tttccaaccc cttgacaaat acttggctga
+    21061 ccacccattt attctttcat tgtctttttt ggacataatt aaatatttta ctttttgaac
+    21121 cctttaaact ctctggtata cccaagtagg tatccatacc accttcctta gtaattccaa
+    21181 ggaaatgttt taattgactt ttttgtttgg tttgctacac gtttaccaaa cataactgat
+    21241 gacttactga aattgatttc ttgccgtgaa acttttccat actttccagt aatatccatg
+    21301 actattttac attgctccat gtgtgcttta taaaaaaaaa aagactatta cccaaaaagg
+    21361 aaatgtgaaa tagaaagaat tcctttagct ttttaaattc cggttagttt cttctcttgt
+    21421 tatgccttgt taatattatt aatcagcatt tctgaacata aaataaataa attgggtgat
+    21481 tgaggattac cctgacgtaa atccattttg aggattatat ttcttttagg ttgtccattt
+    21541 aacaaaacct gatacaaaac caaactaaca gttcacacaa tcccagagct caattaggat
+    21601 taaaacctca ccgagtcata atgggttcta taaaatctca ttatatctta tcatacgatt
+    21661 tgctagctta tatttgtttt ctttgccaaa aagttcgatt tacataatct attcgtccat
+    21721 aagtcatgaa acattttctg aagtagcaaa atgttatatg taataagtct gtctgaaatg
+    21781 aaatctgatt gtgtttcaga gactatatgt ggtaaatatt tttaagcctc aaacaaattt
+    21841 ttttagatat gatcttataa ctcttattac aaagacttat tagcctaaac tctaccattc
+    21901 ttcgtggtct ttctattttt tggaattaaa caaatattta tttcatttat tctcttctca
+    21961 aaacatcatt tttggaaaaa ttatctaact aatactacta aatcttcctt taagaagtgt
+    22021 caaaacctgt tgtctttttt ggatgcatag aaatttaagt tttcctaact tctgcttccg
+    22081 caacctcttt tttaaatttt ccataataat tggagatata ccatttcatc tataccattt
+    22141 tgtattacat ctttaaaata aactttgcca tttctccatt tctattatta aaacatttgt
+    22201 tttatataat ttttggtaat ataaatttgt gattcggaaa atatacctat cattattaaa
+    22261 caaattaata ttgtggtcct caaaatttta aataaattga cagtcttaaa cagttgttta
+    22321 gtagcctttt tgtaaggaac gggactgtga tctggcaatc atatggtatg aaaactgtca
+    22381 tttacctgaa aacaccattc tttattttaa aacaatcaat acgcaatgag tcaagatgca
+    22441 attagttgac aatcgtatcg tatcgtatcg cgtaataagg tcggaatcat attacgatcg
+    22501 ctataaaaaa actccaggtc gcattttata atctatcacg tgaaatgatt gattgtatta
+    22561 tactaatatt aagatattta tagattgtta agaggagtat atttttgtct ctttcaatta
+    22621 ttactttttg atgacgactc attattaaac aaaactatta aaaaagtata ccacgcgttt
+    22681 cacgagatca ggaaccctta ataaacgtct cctgacatgt gacagtaagg tgttaacaaa
+    22741 agaagccgtt gaatttcata atgaacaaat ctacacggaa atcatataag atcgtaatat
+    22801 tcgatataaa accattttat aatttatcac gtgaaatgat tgatcttatg ctgaccccta
+    22861 tctattaatt ttaatatgaa ttttgtttaa tcattattaa tgtgttacgt tattgagtcc
+    22921 agatgcaaag aagaccaacc atcaaatttt ctctttcgaa tgacatttga attaataatg
+    22981 ttaatcgata tttgattaag caaaaataac attaaaaagc gttaggtgtt aaaaaacaaa
+    23041 cgtaacgact aacgtgttta atgagacata tttttgacgg taagcgcata acgatccata
+    23101 aattaaagaa acaaactgat aattcaaagt acagcagaaa atttaaaata ttttttttct
+    23161 caacataaca tggtcacgaa attttgttgg acaaaataga tttattctcc caattagctt
+    23221 ttgtcgtttt gacgttttaa ttaagaattg gggttttaat gatattaaat ttacatgaca
+    23281 taatatgata tttgatttat atttaagatt tattttactt catgatattt gattatatat
+    23341 atataacatt tttttatcat aaagattgta acgtaattac aatgtaaatc gtcgtaaaat
+    23401 aaacgaagaa acgtattata tttttattta cttcttggat tcaaccctaa ttacatatat
+    23461 gattaaacaa gttggttgaa atttggaaaa tctcgatata tagtcccttg gaatatcgat
+    23521 aaaatagttt ttaaagcttt ccagatatcg cgaaccgact gtaaaaatat attgtcctac
+    23581 aaacggagag agtacgtatg tggaatccac taaaaaaagt gacggtcgaa gcattacaag
+    23641 tagtatcaaa gctgaactta gacgagggtg gagtcaagag ggctcatacc gtcgggaatg
+    23701 acggtcttga tacgcaacaa ggacgttatg atctgtttgg tgaattataa caccccggtt
+    23761 tttagtaaat atggtagtgc ataaaaacat tcaaaaaatt gatttgacca ttaccatctc
+    23821 taaaaggtac ttattttttt atcaaacgtc acgaaagaac tccacaatta gtgatgcttg
+    23881 agctagaata attttatggt aaattatttc ctgaaaaaaa ttgttgcaat cacttgagtg
+    23941 aaaacaaaac ataaaaatat tgtggtaaat ttttagatcg ataaacaaat attcaagttt
+    24001 cccggacata acgtactaat catcgaaaga ctagaaaaaa cgtgggaccc attaaaaatg
+    24061 gcggtcatgg cgttgcaact tacaaccata ctaaaatcat tttcctcttt acctcttaga
+    24121 agtcccacag tagaatccat actcacattc acatcatcgt aaggtgaata ggaatatgaa
+    24181 aaaagtgtaa aaatctaaat tagaaatgaa atatcatctt ttggcaagtt tcactctcta
+    24241 taatggtatg atcatctcta cctatctttg gcaaaaacaa agtgttcatg caacatgttg
+    24301 aacgttttct tgattgttaa acgactagat atgcctcgac catgtgcttc atgaatcaac
+    24361 tgttatgcta tatctcttaa gaacccatcc tgtttacctt aaaaggaaaa tttatcttgc
+    24421 aaaaaattta tctttaaaaa aaaacgacaa aaaaatgaga gaaataaata aaagagaaga
+    24481 tctgatggtg gtgaaaaaaa taaaagagga gatccgatag gaaaaaaaat agatgctggt
+    24541 gaaaaaatcc gatgagaggg aaaaaaggag aaagaaaaga ggagatccaa cgaaaataaa
+    24601 agaaatctaa tgagggaaag aaaagaaatt aatggcgaga gaaaaaaaaa cgaccaaaaa
+    24661 agaataatat gaaataaaaa gtgacaaccg tcatttacca ctctctcctg gtagatgtaa
+    24721 ataatttatt aaaattcaat aatacaacat atgaacattt tttgtaataa attattgact
+    24781 aatttattaa aattcaaccg cattattcta aatctctcgc tttacatttt tgaatatcgt
+    24841 aacttataat aaacaaaaat tatatctaac aaaaaatatt ttagttgaat tataatatga
+    24901 atataaacaa tgtttttagt gaaaccaaaa aaatattatc atacaaattt atcagtaaat
+    24961 acaatgtaaa tataataata taacaggatc gtcatatttt gacttgatgt ccagttttgt
+    25021 aaatagtaga catttttttg tttttttaaa tagtattcca tctgttattt tattttggaa
+    25081 aaaaaaattg aataaaaaaa attgaatttt tatattttct atgcaatatt tattagttat
+    25141 tattcataaa tggtaaactt taataaaaat aattaaatat tattggtgaa tattattggt
+    25201 ttaaagttat aagaaattgt aaattacaaa ataatacatt ttaaatcaac tttaatatgt
+    25261 ttaccttaat atgtgtgttt ttcctaaaca atcaaataaa aaggaacaga ggaagtaaga
+    25321 cttttatatc tcgttgcttc taattcttaa cattaaaaag atacgcccat caactttctt
+    25381 attgaagtct agatagcttt taatattttt gaattgaaaa gtaattgaaa acaatgaata
+    25441 taaaacattc acgcatcata atcatacgac aattagtcaa atttatgcca tgatgaaact
+    25501 accaaatcca aaaatttaaa tttggaaccc gtttggaaaa aaaacaatca tagaaaatat
+    25561 ccaacggatc ttagatttag gaattttgca catcggataa tacttgaaca aaacccgaaa
+    25621 atagtacagt aaaaaactca aagctaagtt aacttattaa ccatttttat atggaaaaag
+    25681 ttaaaaaaaa tttacgtact tttaaatttg gaacgtttaa atcctatgta agaagataaa
+    25741 aaaatcgtaa tgcttttgtt aactttaaat ttaaataaga aagtttggtt aacaagccat
+    25801 tttagtcatg acgttatgta aactaacaga aaacctttac ggtgttaaaa tctcgttagt
+    25861 cttctttatt atttctaaac aacatcattt atcgtataga gaaaacgacg tcattttgtc
+    25921 gatttaaaaa aacaaaaacc ttaatcccta aatcgaaact catttttccc taatcgattt
+    25981 ctaatcctag aatctttatg tctctctttt gaaattccga ttgaaatggt tacaactcgt
+    26041 gggggggggg gggaaggggg gaaggttcgt cttcatcggt cacagagact aaatgaaaca
+    26101 gcagccgtac aaaatgacga cacatgatgt gacagagctt gaactcatca aaacatactg
+    26161 aaaggaagaa gtctcgagct aatttcaaca tagagatctt tggggattgt gttttcgatt
+    26221 tgggaaattt ttagctttca gggattgttt tttcgatgtg gggattttgt ctattttcat
+    26281 ttatcaatac gacttcgttt agtgtacaat aaaccgatga cgtttagcca taacagaaac
+    26341 gactaacggg attttaacac cgtaaagttt ttctgttaac ctacttaacg acatgtctaa
+    26401 attggcttgt caaccaacat tgtcatttaa atttaaagtt aacaaaaact ttacgatttt
+    26461 tttgttatcc tcgcagttca tgatttaatc atcccaaatt tgaaagttag tgattttttt
+    26521 gacattttcc ccatttttat atagccttaa gtaattaaga tattttcgag tatttttgga
+    26581 tagctttttc ttatcaagtt tttcggttaa ttcaaatatt ttggagtact ttcgaatact
+    26641 tatgagtagt ttggatttct ttttgaccaa attttccgga tgacagatat ttgaatgctc
+    26701 gcttgggtta gcgggaagtc taagtaaaga aggaggcaag caaatgaaat tcggatatgt
+    26761 tgtagagtat ttttgatatt tcctcatagt tcttttaacc ttaaacatat aaaaaaaaac
+    26821 acaaaaaaat atctgaaagt ttgaacccta tctgaaacaa acgtaaatat tatagatacc
+    26881 caaacggggc tatgagcctc acccaaaaac ccgaatcgag tccaaacccc gaaccctagt
+    26941 gaaaagcatt tgcagtaaaa gattataaac atgaagtaat aaattagttg gaacttataa
+    27001 tattgattta tatcaccagt tccccacacg caacgtggtt tctttcatca atctatatag
+    27061 tattataagt agaatgtgta ctctctttcc aaataaacta ggaggattca aaatagatgt
+    27121 ggaggctaag acttggaccg aaggccggtg aggatactcg cttgttcacc accaacaact
+    27181 aattaagcca ggaggcagat ttgggtgttg aataccaact caggatctcc acaagaaatt
+    27241 gccgagatag agaacgctcg tcagaatttt tcaaacaaca tgtcacgttt caaaacgatg
+    27301 cagatatata tgtaccttaa aaaatcctag atatacgcaa cttgcaaaca aagcaataat
+    27361 ttgttatcaa agctagttag tttttttttt tttgtaattc catatgcctt gtttttgaga
+    27421 ttaacaagaa aacgacttct tttttttctt aaattctact ttccatttct ctcaactctc
+    27481 ggaatcacct atgctgattc tactcgcaca ttgcatatag ttcttaatct taaactaggt
+    27541 acggcgaaca actttcctat agatgtctac ttggcttata atatttttgt attgaaaaac
+    27601 taattagaaa gatatgaata tcgttaagca aatataaaac aattactaat acgtcaagaa
+    27661 gtcaaagtga tgacaatgcg aaacgtagtt gcttacgaaa taaacgttaa ggaataaaat
+    27721 tatttgagaa cttataattt atattcacac ccgtttctca catgcatcgt gtttattaac
+    27781 aacaatctat ataatattct tttctacgta tttttgtggt tgatgtttaa aatttttaca
+    27841 aaacaatttt ttttttttta atttttgttt ttctcaaaac taacacattg tttataatct
+    27901 attataactc aaacaaacca ataataaaat catttacata atagaaatca tcaaaaataa
+    27961 aaataaaaat taattggttt gtattaaaat ttgaaaacat aatttaattg caagaaaaaa
+    28021 aaattcctaa aacatcgact ataaaaaata cgaagcgagt ataaagtata atgtgtcctc
+    28081 cttgtccaag taaacttaga gcaaccttac aaaatgtgga ggctgagaac tggaccgaag
+    28141 gctggagagg atactcacct gttcaccacc aacaactatg cagggaggca gatttgggaa
+    28201 tttgatgcca acgcaggctc tccacaagaa attgccgagg tagaggatgc tcggcacaaa
+    28261 ttctcagaca acacgtcacg tttcaagact actgccgatc tcttatggcg catgcaggtg
+    28321 aaatactttg aagtttaaca atatattata atttgatcta tatgaataca cttcagaaga
+    28381 taaatttttt attctgtgtg gacataacag tttcttaggg agaagaaatt cgaacagaag
+    28441 attccacgag tgataatcga ggatgcaaga aagataaagt acgaagatgc aaagacagca
+    28501 ttgaaaagag ggttactcta tttcacagcc ttgcaggctg atgatggaca ctggccagct
+    28561 gaaaactctg gcccaaattt ctatacccct ccttttgtga gttactatta taaactagct
+    28621 tcttcttttt tttttccttt tttttatata tataaacttg ctttaatagc tatatacaga
+    28681 cattttccaa ataattattt ctgtaataat aataataaat attgtgctgc acagttgata
+    28741 tgcttgtaca tcactggaca tctggagaaa atcttcactc ccgagcatgt taaagagtta
+    28801 ctacgtcaca tctacaacat gcaggtacgt acacatatat ttcatatact tgaaggttta
+    28861 tatatgaact atagaaagag tatttaagca aaactgtttt tgtagaacga agatggtggg
+    28921 tggggtttac acgtagaaag ccacagtgtt atgttctgta cagtcattaa ttacgtctgt
+    28981 ctacgaattg tgggagaaga agtcggtcat gatgatcaaa gaaatggttg tgcaaaggct
+    29041 cataagtgga tcatggacca tggtggtgct acctacacgc ccttgatcgg aaaagcgttg
+    29101 ctttcggtat gtggctacta tttattttat aaagatccat attactatac ttaaaaaact
+    29161 atattattta ttgttaaata ttagatcata tgtcttttgt catcttcacc ttggaattga
+    29221 tcaggttctt ggagtgtatg attggtctgg ctgcaatcct atacctccag agttctggtt
+    29281 gcttccgtct tcttttcctg ttaatggagg ttttactttt ggacacctca taatattgtg
+    29341 ctgttggtta tatcattaaa tgtttgactt taaagtaatt ttgtttatat atttaataaa
+    29401 aatatatgta tgtatgtaaa tgtgtaggga ctctctggat ttatttacgg gatactttca
+    29461 tggggttgtc atacttgtat ggtaaaaaat ttgtggctcc cccaacacct ctcattctcc
+    29521 agctccgaga agagctttat ccggagcctt atgcaaaaat caattggacg caaacacgaa
+    29581 accgatgtgg aaaggtaagt tctatattag aaaacaaaga tgtattcagg ttttatgtgt
+    29641 tttaataatc tatcttacgt acaaactaat gtattcgggt cttaaaacta aaaagaaaag
+    29701 aaaagaagaa gctagtatta ctaacacact taccatacac aataaaaata aagaaacata
+    29761 caattagttt ttgaactttc tccctgaaat tattcgtgat gttttgatta ttatacccaa
+    29821 gtaacacttc atttctacta tttcttttat atgtgaatcg gtatgcaaat taaaactata
+    29881 tatttatcta ttgtgaacac acatatatac atagtttcct aaacgtccaa agtagatcaa
+    29941 tcatttttca aacaataact agttgataat caacattata tgtgggggat gaagatattg
+    30001 ctaataataa atacataaaa tatttaagaa aaaccaaaat aaataaatta attcccttag
+    30061 tttgcaatta attttctaaa gaagtctttg tttaccaaat aattcatata ttaaatgaat
+    30121 gtaatgattc tcatatgcag gaagatctct actatccacg ctcattttta caagatttgt
+    30181 tttggaagag tgttcacatg ttctcagaga gtatcctaga tcgatggcct ttaaacaagc
+    30241 taataagaca aagagctctt caatccacta tggcactcat tcactatcat gacgaatcca
+    30301 ccagatatat tacaggcgga tgcctgccaa aggtagtcgt tgtgatagtt ttattttgtt
+    30361 attcttctcg taacaaatta agtaattaag attttgtttt ctttcttact tttgtttcat
+    30421 ataggccttt catatgcttg catgttggat agaagaccct aagagtgatt attttaaaaa
+    30481 acatcttgct cgagttcgcg aatacatatg gattggcgag gatggcctga aaattcaagt
+    30541 gggtgctttt ttaattatga ctcttactta tatactccga actcaaaacc aaaatcctcc
+    30601 atagcattaa agagctgcgt taacacatgt gcaacttttg tagtcttttg gtagccaatt
+    30661 atgggataca gccttatcgc tacatgcatt actagacgga attgatgatc atgatgttga
+    30721 tgatgagatt aaaacaacgc tcgttaaagg atatgattac ttgaagaaat cacaaattac
+    30781 agagaaccct cgcggtgatc acttcaaaat gtttcgtcac aagacaaaag gtggatggac
+    30841 attttcagat caagatcaag gatggcctgt ttcagattgt actgctgaaa gcttagaggt
+    30901 aaccgtcatt attacaccgc ctttttgtac taatatccta gtcattagtc tgaaatgtaa
+    30961 acaaatgttt tggccatttt ctttagtgtt gtctattctt cgagagcatg ccgtccgagc
+    31021 ttattggaaa aaaaatggat gtggagaaac tctatgatgc cgttgattat cttctctatc
+    31081 tgcaggtaat cacctaagaa tccactaata aattattact atatgatatt cgaaatgata
+    31141 ttaaattaca tagctcagta taatattaaa attgctaagt tgttttaaaa aaagtttgat
+    31201 agtataaaat agattcaaaa ttttagatta ttagtggtgt ctgcatgttt ctttagcatg
+    31261 agaattcgac tctgcctccc cgtattgaca atgaacaatg gaccctattg acacaataaa
+    31321 agagactata tatactggtg aaatttgaaa acatatatat tgaaatgatt aaattgtata
+    31381 atttttagta tcaaattaaa caataggcaa tatttgaaaa aagaatgata caaattactt
+    31441 taccgaccat acaccaatct aatatatttt cttatatatg attattatag agtgataatg
+    31501 gaggcatagc agcatggcaa ccagttgaag gaaaagcctg gttagaggta aaactattat
+    31561 ctagttatat atcatggacg cttttttgtg atataacgta acaaattact taaattaaat
+    31621 gcagtggctt agtccagtgg agttccttga agacacaatc gtggagtatg agtacgaacg
+    31681 atatacttat caccctctct tcatcgatat ttattttgtt tgtttgagca taattaaagt
+    31741 tgttaaatat catgattttt aggtatgtag aatgtacggg gtcagcgatt gcagcattga
+    31801 ctcagtttaa caaacagttt ccagggtata aaaacgtaga ggttaaacgg tttataacaa
+    31861 aggctgcaaa gtacattgaa gacatgcaaa cggtggatgg ttcatggtac ggaaattggg
+    31921 gagtgtgttt tatatacggg accttctttg cggtaagagg tcttgtggcc gctgggaaga
+    31981 cttacagtaa ctgtgaagca attcgtaaag cagttcgttt tcttctagac acacaaaatc
+    32041 cggagggtgg ctggggagag agctttctct cttgtccaag caagaaatat actcctttga
+    32101 aaggaaacag cacaaatgtg gtgcaaacag cacaagcact tatggtgcta attatgggtg
+    32161 atcagatgga gagagatcct ttaccggttc atcgtgctgc tcaagtgttg atcaattcac
+    32221 agttggataa tggcgatttt ccacagcagg tgattttaat cctataactg gttttcatta
+    32281 ttcatatata atgtgcatat tattagtatt tcaaacacct aacatgaccc tctaaagcac
+    32341 aactaaagaa agaaatatat gtcaacagaa ttaatagttc tcattactag gcagccatta
+    32401 gtccattatt aggcacatga tgaggtttaa tttggcttat catcactcaa attcaaggca
+    32461 tgtgtcaaaa tgttgttgac aagtataaaa ttatagatat cataacactt aattttgttt
+    32521 ttatatattt ccaggaaata atgggaacgt tcatgagaac tgtgatgctc cattttccga
+    32581 cctataggaa cacgttctct ctttgggctc tcacacatta cacacatgct ctgcgacgtc
+    32641 tcctccctta accatgtcac atctatcttc ttcaccgttt tatatatcaa ttctgttttt
+    32701 gtttttattt tcctttgcat gtataataaa agaaatgtta tgtacttcta tgaaatgaac
+    32761 tatggttatt gacagattac atattaattc cacaaattta tt
+//

@@ -1,0 +1,324 @@
+LOCUS       BGC0000805              4726 bp    DNA     linear   BCT 04-APR-2007
+DEFINITION  Streptomyces ghanaensis moe gene cluster 2, complete sequence; and
+            putative permease gene, complete cds.
+ACCESSION   BGC0000805
+VERSION     BGC0000805.1
+KEYWORDS    .
+SOURCE      Streptomyces viridosporus ATCC 14672
+  ORGANISM  Streptomyces viridosporus ATCC 14672
+            Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+            Streptomyces.
+COMMENT     ##antiSMASH-Data-START##
+            Version      :: 5.0.0-0e6921f
+            Run date     :: 2019-10-16 01:53:57
+            NOTE: This is a single cluster extracted from a larger record!
+            Orig. start  :: 897
+            Orig. end    :: 5623
+            ##antiSMASH-Data-END##
+FEATURES             Location/Qualifiers
+     gene            complement(1..1551)
+                     /gene="moeA4"
+     CDS             complement(1..1551)
+                     /NRPS_PKS="Domain: AMP-binding (9-413). E-value: 1.1e-115.
+                     Score: 378.3. Matches aSDomain:
+                     nrpspksdomains_moeA4_AMP-binding.1"
+                     /NRPS_PKS="type: NRPS-like protein"
+                     /codon_start=1
+                     /gene="moeA4"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1002:AMP-dependent synthetase and ligase (Score:
+                     438.6; E-value: 4.1e-133)"
+                     /gene_kind="biosynthetic-additional"
+                     /note="acy-CoA ligase"
+                     /product="MoeA4"
+                     /protein_id="ABJ90146.1"
+                     /transl_table=11
+                     /translation="MTLTAASVLAESAGRRPDHPALVFGSERITYAELWLATRRYAAVL
+                     RDRGVRPGDRIALLLPNTPHFPMVYYGVLALGAVVVPVHGLLRADEIVHVLGDSEAKAM
+                     VCAAPMLTEGAKAAGTAGVPLLTVMVENGEDDDGPARLDVLAERAEPLDGLVPRAPDDL
+                     ALVLYTSGTTGRPKGAMITHLNLVMNVSTTMRSPFDLGPEDVLLGCLPLFHTFGQTCGM
+                     SACFLAGGTLVLMNRFDGPGALDLMVTEGCTVFMGVPTMYLALLDAAAHDARRPVLDRA
+                     FSGGSALPVKVLEEFQEVYGCPIYEGYGLTETSPVVAYNQKAWPRRPGTVGRPIWGVEA
+                     EIAAADVEDRIELLPAGEIGEIVVRGHNVMAGYLNRPEATAAVLVDGWFRSGDLGMKDA
+                     DGYLTIVDRKKDMVLRGGYNVYPREVEEVLMRHPAVAQVAVIGVPDDKYGEEVCAVVRT
+                     RPGTDPDAALAAHIVSWSRQRIAAYKYPRRVEFVEDFPLGPSGKVLKRELAARFAGGG"
+     misc_feature    1..4726
+                     /note="moe gene cluster 2; involved in C5N chromophore unit
+                     biosynthesis"
+     subregion       1..4726
+                     /aStool="mibig"
+                     /contig_edge="False"
+                     /label="Saccharide"
+                     /subregion_number="1"
+                     /tool="antismash"
+     region          1..4726
+                     /contig_edge="False"
+                     /product="unknown"
+                     /region_number="1"
+                     /subregion_numbers="1"
+                     /tool="antismash"
+     aSDomain        complement(313..1524)
+                     /aSDomain="AMP-binding"
+                     /aSTool="nrps_pks_domains"
+                     /database="nrpspksdomains.hmm"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksdomains_moeA4_AMP-binding.1"
+                     /evalue="1.10E-115"
+                     /label="moeA4_AMP-binding.1"
+                     /locus_tag="moeA4"
+                     /protein_end="413"
+                     /protein_start="9"
+                     /score="378.3"
+                     /tool="antismash"
+                     /translation="AESAGRRPDHPALVFGSERITYAELWLATRRYAAVLRDRGVRPGD
+                     RIALLLPNTPHFPMVYYGVLALGAVVVPVHGLLRADEIVHVLGDSEAKAMVCAAPMLTE
+                     GAKAAGTAGVPLLTVMVENGEDDDGPARLDVLAERAEPLDGLVPRAPDDLALVLYTSGT
+                     TGRPKGAMITHLNLVMNVSTTMRSPFDLGPEDVLLGCLPLFHTFGQTCGMSACFLAGGT
+                     LVLMNRFDGPGALDLMVTEGCTVFMGVPTMYLALLDAAAHDARRPVLDRAFSGGSALPV
+                     KVLEEFQEVYGCPIYEGYGLTETSPVVAYNQKAWPRRPGTVGRPIWGVEAEIAAADVED
+                     RIELLPAGEIGEIVVRGHNVMAGYLNRPEATAAVLVDGWFRSGDLGMKDADGYLTIVDR
+                     KKDMVL"
+     aSModule        313..1524
+                     /domains="nrpspksdomains_moeA4_AMP-binding.1"
+                     /incomplete
+                     /locus_tags="moeA4"
+                     /starter_module
+                     /tool="antismash"
+                     /type="nrps"
+     CDS_motif       complement(406..489)
+                     /aSTool="nrps_pks_domains"
+                     /database="abmotifs"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksmotif_moeA4_0002"
+                     /evalue="5.50E-11"
+                     /label="NRPS-A_a6"
+                     /locus_tag="moeA4"
+                     /protein_end="382"
+                     /protein_start="354"
+                     /score="34.7"
+                     /tool="antismash"
+                     /translation="PAGEIGEIVVRGHNVMAGYLNRPEATAAV"
+     CDS_motif       complement(1003..1062)
+                     /aSTool="nrps_pks_domains"
+                     /database="abmotifs"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksmotif_moeA4_0001"
+                     /evalue="3.40E-09"
+                     /label="NRPS-A_a3"
+                     /locus_tag="moeA4"
+                     /protein_end="183"
+                     /protein_start="163"
+                     /score="28.7"
+                     /tool="antismash"
+                     /translation="ALVLYTSGTTGRPKGAMITHL"
+     gene            complement(1548..3113)
+                     /gene="moeB4"
+     CDS             complement(1548..3113)
+                     /NRPS_PKS="Domain: AMP-binding (14-423). E-value: 4.6e-70.
+                     Score: 227.9. Matches aSDomain:
+                     nrpspksdomains_moeB4_AMP-binding.1"
+                     /NRPS_PKS="type: NRPS-like protein"
+                     /codon_start=1
+                     /function="putatively involved in attachment of C5N unit to
+                     pentasaccharide moiety of moenomycin A"
+                     /gene="moeB4"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1002:AMP-dependent synthetase and ligase (Score:
+                     294.8; E-value: 1.6e-89)"
+                     /gene_kind="biosynthetic-additional"
+                     /note="amide synthetase"
+                     /product="MoeB4"
+                     /protein_id="ABJ90147.1"
+                     /transl_table=11
+                     /translation="MSSNENYVRRVLEALASDPDRIALWADGEEITAGQVSRAVLTAAE
+                     LLLRHFTEHRDPSAEGKAPVVAVLTVTNSPATIILRYAANLAGATLVHLHSTNAVDPTD
+                     QLAAAARLDILSKTGATFLAVDKENLDAARELCDRLPEPPRLAALGALGPDVLDLSSGD
+                     PDAFGHDAVEADPEQPAVVIYTSGTSGRPKGVTQPYRLRRANLQVALQSPEPIVYLSTL
+                     PVSNSSGSAVDVALASGGTVVLHDGFEAGEVLRAVEQHRVSTLTITPPQLYMLIDHPDT
+                     ATTDRSSIRLITYLGSPAAPARLAEAVEVFGPVLLQLYGTTEVNGISMLMPQDHFDPEL
+                     RRTVGRPTTEIRIRDVDDDRDLPPGEIGEVCVQSPSTMLGYWGEPELTAAIIRDGWVHT
+                     GDLGSLDENGFLRLHGRMGEVMKTNGIKVHPTDVENALLTHPEVTQAAVYCVVDEDRVE
+                     HIHAAVVVRPGGTADSGTLIGHVAAELSPKHVPAVVTFHDALPLTRAGKPDKPALAARH
+                     NGAA"
+     aSDomain        complement(1845..3071)
+                     /aSDomain="AMP-binding"
+                     /aSTool="nrps_pks_domains"
+                     /database="nrpspksdomains.hmm"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksdomains_moeB4_AMP-binding.1"
+                     /evalue="4.60E-70"
+                     /label="moeB4_AMP-binding.1"
+                     /locus_tag="moeB4"
+                     /protein_end="423"
+                     /protein_start="14"
+                     /score="227.9"
+                     /tool="antismash"
+                     /translation="LASDPDRIALWADGEEITAGQVSRAVLTAAELLLRHFTEHRDPSA
+                     EGKAPVVAVLTVTNSPATIILRYAANLAGATLVHLHSTNAVDPTDQLAAAARLDILSKT
+                     GATFLAVDKENLDAARELCDRLPEPPRLAALGALGPDVLDLSSGDPDAFGHDAVEADPE
+                     QPAVVIYTSGTSGRPKGVTQPYRLRRANLQVALQSPEPIVYLSTLPVSNSSGSAVDVAL
+                     ASGGTVVLHDGFEAGEVLRAVEQHRVSTLTITPPQLYMLIDHPDTATTDRSSIRLITYL
+                     GSPAAPARLAEAVEVFGPVLLQLYGTTEVNGISMLMPQDHFDPELRRTVGRPTTEIRIR
+                     DVDDDRDLPPGEIGEVCVQSPSTMLGYWGEPELTAAIIRDGWVHTGDLGSLDENGFLRL
+                     HGRMGEVMKTN"
+     aSModule        1845..3071
+                     /domains="nrpspksdomains_moeB4_AMP-binding.1"
+                     /incomplete
+                     /locus_tags="moeB4"
+                     /starter_module
+                     /tool="antismash"
+                     /type="nrps"
+     CDS_motif       complement(1944..2027)
+                     /aSTool="nrps_pks_domains"
+                     /database="abmotifs"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksmotif_moeB4_0002"
+                     /evalue="1.60E-09"
+                     /label="NRPS-A_a6"
+                     /locus_tag="moeB4"
+                     /protein_end="390"
+                     /protein_start="362"
+                     /score="30.0"
+                     /tool="antismash"
+                     /translation="PPGEIGEVCVQSPSTMLGYWGEPELTAAI"
+     CDS_motif       complement(2526..2576)
+                     /aSTool="nrps_pks_domains"
+                     /database="abmotifs"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksmotif_moeB4_0001"
+                     /evalue="1.20E-06"
+                     /label="NRPS-A_a3"
+                     /locus_tag="moeB4"
+                     /protein_end="196"
+                     /protein_start="179"
+                     /score="21.0"
+                     /tool="antismash"
+                     /translation="AVVIYTSGTSGRPKGVTQ"
+     gene            3488..4726
+                     /gene="moeC4"
+     CDS             3488..4726
+                     /NRPS_PKS="Domain: Aminotran_1_2 (51-393). E-value:
+                     4.2e-76. Score: 248.1. Matches aSDomain:
+                     nrpspksdomains_moeC4_Aminotran_1_2.1"
+                     /NRPS_PKS="type: other"
+                     /codon_start=1
+                     /function="produces 5-aminolevulinate from succinyl CoA and
+                     glycine"
+                     /gene="moeC4"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1109:8-amino-7-oxononanoate synthase (Score: 408.4;
+                     E-value: 4.9e-124)"
+                     /gene_kind="biosynthetic-additional"
+                     /note="5-aminolevulinic acid synthase"
+                     /product="MoeC4"
+                     /protein_id="ABJ90148.1"
+                     /transl_table=11
+                     /translation="MTTQYLDLFARLTENSDGGKREFLEIGRLAGSFPAASVRSSGPVT
+                     GRDSISVWCSNDYLGMGQHPAVLKAMKDAIDEYGAGAGGSRNIGGTNHYHVLLERELAA
+                     LHGKDEALLFTSGYTANDGALSVIAGRMEKCVVFSDALNHASIIDGLRHSRAQKQIFRH
+                     NDPAHLEELIAAADPDVPKLIVAESVYSMNGDIAPLSEIADIAKRHGAMTYLDEVHAVG
+                     MYGPEGAGIAAREGIADDFTVIMGTLAKGFGTTGGYIAGPAEIIEAVRMFSRSFVFTTA
+                     LAPAVAAGALAAVHHLRSSEVEREQLWSNAQLMHRLLNERGIPFISDQTHIVSVMVGDE
+                     AVCKRMSALLLDRHGIYVQAINAPSVRVGEEILRVAPGAVHTADDVREFVDALSQVWEE
+                     VGSARVPATPAAL"
+     aSDomain        3641..4666
+                     /aSDomain="Aminotran_1_2"
+                     /aSTool="nrps_pks_domains"
+                     /database="nrpspksdomains.hmm"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksdomains_moeC4_Aminotran_1_2.1"
+                     /evalue="4.20E-76"
+                     /label="moeC4_Aminotran_1_2.1"
+                     /locus_tag="moeC4"
+                     /protein_end="393"
+                     /protein_start="51"
+                     /score="248.1"
+                     /tool="antismash"
+                     /translation="VWCSNDYLGMGQHPAVLKAMKDAIDEYGAGAGGSRNIGGTNHYHV
+                     LLERELAALHGKDEALLFTSGYTANDGALSVIAGRMEKCVVFSDALNHASIIDGLRHSR
+                     AQKQIFRHNDPAHLEELIAAADPDVPKLIVAESVYSMNGDIAPLSEIADIAKRHGAMTY
+                     LDEVHAVGMYGPEGAGIAAREGIADDFTVIMGTLAKGFGTTGGYIAGPAEIIEAVRMFS
+                     RSFVFTTALAPAVAAGALAAVHHLRSSEVEREQLWSNAQLMHRLLNERGIPFISDQTHI
+                     VSVMVGDEAVCKRMSALLLDRHGIYVQAINAPSVRVGEEILRVAPGAVHTADDVREFVD
+                     ALS"
+ORIGIN
+        1 tcagccaccg ccggcgaagc gggcggcgag ttcgcgtttc agtaccttgc cgctcggccc
+       61 gagggggaag tcctcgacga actccacccg gcgcgggtac ttgtacgcgg cgattcgctg
+      121 cctgctccag gacacgatgt gcgcggccag cgccgcgtcc ggatccgtgc ccggccgcgt
+      181 ccgcaccacg gcgcacacct cctcgccgta cttgtcgtcg gggacaccga tgacggcaac
+      241 ctgggcgacg gccgggtgac gcatcagcac ctcctccacc tcgcgtggat agacgttgta
+      301 gccaccgcgc agcaccatgt ccttcttgcg gtcgacgatg gtcagatagc cgtcggcgtc
+      361 cttcatcccc aggtcgcccg agcggaacca gccgtcgacc agcacggctg cggtggcttc
+      421 cggccggttg aggtagccgg ccatgacgtt gtggccgcgt acgacgatct ccccgatctc
+      481 cccggccggc agcagctcga tacggtcctc cacgtcggcg gcggcgatct ccgcctccac
+      541 gccccagatg gggcgcccca cggtgccggg cctgcgcggc cacgccttct ggttgtacgc
+      601 caccaccggc gaggtctccg tgaggccgta cccctcgtag atcgggcagc cgtagacctc
+      661 ctggaactcc tcgagcacct tgaccggtag cgccgaaccg ccggagaagg cgcggtcgag
+      721 cacggggcgg cgggcgtcgt gagcggcggc gtcgaggagg gccaggtaca tggtcgggac
+      781 gcccatgaac accgtgcagc cctcggtgac catgaggtcg agcgcgccgg ggccgtcgaa
+      841 gcggttcatg agcaccaggg tgccgccggc caggaaacag gcgctcatgc cgcaggtctg
+      901 gccgaaggtg tggaacagcg gcagacagcc cagcagcacg tcctcggggc cgaggtcgaa
+      961 cggcgagcgc atcgtggtgc tgacgttcat caccaggttg aggtgggtga tcatcgcgcc
+     1021 cttgggccgg ccggtggtgc ccgaggtgta cagcaccaag gccaagtcgt cgggcgcgcg
+     1081 cggcaccaga ccgtccaggg gctccgcccg ttcggcgagc acgtcgaggc gtgccgggcc
+     1141 gtcgtcgtcc tcgccgttct cgaccatgac ggtgagcagc ggaaccccgg ccgtcccggc
+     1201 cgccttggcg ccctcggtca gcatcggggc cgcgcacacc atggccttcg cctcggagtc
+     1261 gcccagcacg tggacgatct cgtcggcacg cagcaggccg tgcaccggga ccaccacggc
+     1321 accgagcgcc agcacgccgt agtacaccat cgggaagtgc ggtgtgttcg gcagcagcag
+     1381 ggcgatccgg tcgcccgggc gcacaccgcg gtccctcagc accgccgcgt accggcgggt
+     1441 tgcgagccag agctcggcgt aggtgatgcg ttcggagccg aagacgagcg cggggtggtc
+     1501 ggggcgtcgc ccggcggact cggccagtac ggacgcggcg gtcagggtca tgccgcaccg
+     1561 ttgtgccgtg cggccagcgc cggcttgtcc ggttttccgg cacgggtgag gggcagcgcg
+     1621 tcgtggaacg tcaccacggc cggtacgtgc ttcggagaca gctcggcggc gacgtggccg
+     1681 atcagcgtcc cggagtcggc ggtgccgccc ggccgtacca cgacggcggc gtggatgtgc
+     1741 tccacgcggt cctcgtcgac cacgcagtac acagcggcct gggtgacctc cggatgggtc
+     1801 agcagcgcgt tctccacatc ggtgggatgg accttgatgc cgttggtctt catcacctcg
+     1861 cccatgcggc cgtgcaggcg cagaaagccg ttctcgtcga gggaaccgag gtcgccggtg
+     1921 tgcacccagc cgtcgcggat gatcgcggcg gtcagctccg gttcgcccca gtagccgagc
+     1981 atggtggacg ggctctgcac gcacacctcg ccgatctcgc cgggcggcag gtcgcggtcg
+     2041 tcgtccacgt cgcggatgcg tatctccgtg gtcggacgtc cgacggtccg gcgcagttcc
+     2101 gggtcgaagt ggtcctgcgg catcagcatg ctgatgccgt tgacttccgt ggtcccgtag
+     2161 agctggagca acaccgggcc gaacacctcg accgcctcgg ccagtcgggc gggggccgcg
+     2221 ggggaaccga ggtaggtgat gagcctgatg ctcgaacggt cggtggtggc ggtgtcgggg
+     2281 tggtcgatca gcatgtacag ctgcggcggg gtgatggtca gcgtggagac gcggtgctgt
+     2341 tccacggccc gcagcacttc gcccgcctcg aacccgtcgt gcaggacgac cgttccgccg
+     2401 gaggcgagcg cgacgtcgac ggcggagccg ctggagttgc tcaccggcag ggtcgacagg
+     2461 tacacgatgg gttcggggga ctggagggcc acttggaggt tggcacggcg aaggcggtac
+     2521 ggctgcgtga cacccttggg acgtccgctg gtaccgctgg tgtagatcac cacggccggc
+     2581 tgttcggggt cggcctcgac ggcgtcgtgg ccgaaggcgt ccgggtcgcc cgacgagagg
+     2641 tccaggacat cggggccgag ggcaccgaga gcggcgagac gcggtggctc gggcagccgg
+     2701 tcgcacagct ctcgggccgc gtcgaggttc tccttgtcga cggcgaggaa ggtcgccccg
+     2761 gtcttgctga gaatgtccag ccgggcggcg gcggccagct ggtcggtggg gtccaccgcg
+     2821 ttcgtggagt gcaggtggac cagggtggcc ccggccaggt tggccgcgta gcggaggatg
+     2881 atggtcgccg ggctgttggt gacggtcagc accgccacaa ccggggcctt gccttccgca
+     2941 ctcgggtctc gatgttccgt gaagtgccgg agcagaagtt ccgctgccgt gagaaccgcc
+     3001 ctggagacct ggcccgcggt gatttcttca ccatccgccc acagggcaat ccggtcgggg
+     3061 tcggaggcca gcgcctcaag cacccggcgg acgtaattct cgttcgagga catcgttccc
+     3121 ccaccatgct ggttcgttta tcggtcagtg cagacttaca tgatcgcgcg aaagcgcgac
+     3181 aacccgctct cggtaaccat tgggcgtgcg gccggtgagc acggctgccg tcggccagtt
+     3241 ctcaacaccc ggcagccttg ggcgagttga atgcctgccg gagtcgatga tatacagacg
+     3301 ttaccttcat gcccttcccc tgtgttgcga atggtgaggc cgctcccgcg cgatttcgcc
+     3361 agtgacacgt tcgcaccggc gccggggaca agcagaatcc agtcatggcc gtgcgatttc
+     3421 agccagttat gcgcggttgc ccgtagttgc atgtagcctc agacggcctg gaacgaagcg
+     3481 agtagacgtg acgacccaat atctggatct ctttgcacgc ctcacagaaa actccgacgg
+     3541 gggaaagagg gagttcctgg agatcggacg gctcgccggg agcttccccg cggccagcgt
+     3601 ccgcagcagt ggacccgtga ccggccggga cagcatcagc gtctggtgca gcaacgacta
+     3661 cctcggcatg ggccagcatc ccgcagtgct caaagccatg aaggacgcga tcgacgagta
+     3721 cggcgccggc gccggcggct cacgcaacat cggcggcacc aaccactacc acgtgctgct
+     3781 ggagagagag ctcgccgcgc tccacggcaa ggacgaggcc ctgctgttca cctccggtta
+     3841 caccgccaac gacggtgcgc tgtccgtcat cgccggccgc atggagaagt gtgtcgtctt
+     3901 ctccgacgca ctcaaccacg cgtccatcat cgacggcctg cgccacagcc gcgcccagaa
+     3961 gcagatcttc cgccacaacg accccgctca cctggaagaa ctgatagcgg cggccgaccc
+     4021 cgacgtcccc aagctcatcg tcgccgagtc cgtgtactcg atgaacggcg acatcgcccc
+     4081 gctgtccgaa atcgccgaca tcgccaagcg ccacggggcg atgacgtacc tcgacgaggt
+     4141 gcacgcggtg ggcatgtacg gcccggaggg tgccggcatc gcggcccggg agggcatcgc
+     4201 cgacgacttc accgtcatca tgggcacctt ggccaagggt ttcggcacca ccggcggcta
+     4261 catcgcaggg cccgccgaaa tcatcgaggc ggtgcgcatg ttctcccgct ccttcgtctt
+     4321 caccaccgcg ctggcgccgg ccgtggccgc cggcgccctg gcagccgtac accatctgcg
+     4381 gtcctccgag gtcgagcggg aacagctctg gtcgaacgcg cagttgatgc accggctgct
+     4441 gaacgagcgt ggcatcccct tcatttcgga ccagacgcac atcgtgtccg tcatggtggg
+     4501 ggacgaggcc gtgtgcaagc ggatgtccgc gctgctgctc gaccggcacg gaatctacgt
+     4561 gcaggcgatc aacgcgccga gcgtgcgggt cggtgaggag atcctgcggg tcgcccccgg
+     4621 agccgtgcac accgccgacg acgtacgcga attcgtcgac gctctgagcc aggtctggga
+     4681 ggaagtgggc tccgcccgcg tgccggcgac cccggccgct ctctga
+//

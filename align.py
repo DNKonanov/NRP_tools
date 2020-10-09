@@ -100,7 +100,9 @@ def code_seq(seq, hashes):
     return new_seq
 
 
-
+def generate_combinations(seq):
+    combinations = [seq]
+    return combinations
 
 def custom_align(target, cluster):
     hashes = generate_hash(target, cluster)
